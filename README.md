@@ -2,4 +2,4 @@ Paper Summary
 ---
 
 ### Data Center 
-- [Scheduling a Large DataCenter, by *Cliff Stein*](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf)
+- [Scheduling a Large DataCenter](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf), by *Cliff Stein*, [Summary](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Stein12_Scheduling-a-DataCenter.md)
