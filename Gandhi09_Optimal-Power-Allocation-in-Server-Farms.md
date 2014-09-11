@@ -33,5 +33,11 @@ This paper investigates how to distributed available power among servers in a se
 1. They captured the power-to-frequency relationship under DFS and DFVS by experiments on CPU bound LINPACK workload.
 2. The main idea is to decide the power allocation based on the arrival rate of workloads.
 
+### Weakness
+
+### TODO
+1. Read detail theory proof if you are interested.
+
 ### Extension
 1. This paper only considers the response time. How about also taking into account the profits? i.e., make the objective as a mix function of response time and revenue.
+2. The workloads used in this paper are real, i.e., they are real jobs to be executed rather than job information.
