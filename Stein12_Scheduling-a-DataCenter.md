@@ -3,6 +3,7 @@ Scheduling a Large DataCenter
 
 - [Paper Link](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf)
 - by [Cliff Stein](http://www.columbia.edu/~cs2035/)
+- version 1.0 (last updated 09/10/2014)
 
 ### Strongness
 The model they considered are more complete than the one we have.
