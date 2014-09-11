@@ -1,7 +1,7 @@
 Scheduling a Large DataCenter
 ----
 
-- [Link](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf)
+- [Paper Link](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf)
 - by [Cliff Stein](http://www.columbia.edu/~cs2035/)
 
 ### Strongness
