@@ -1,6 +1,7 @@
 No "Power" Struggles: Coordinated Multi-level Power Management for the Data Center
 ----
 
+-[Paper Link](http://dl.acm.org/citation.cfm?id=1346289)
 - bib
 ```
 @article{RaR08,
@@ -15,5 +16,3 @@ No "Power" Struggles: Coordinated Multi-level Power Management for the Data Cent
 } 
 ```
 
-### Summary
-This paper investigated maximize the performance at a server farm given a fixed peak power budget.
