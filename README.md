@@ -7,5 +7,5 @@ Paper Summary
 
 
 ### Resources
-- [Solar Trace]()
-- [Workload Trace]()
+- [Solar Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/SolarTrace.md)
+- [Workload Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/WorkloadTrace.md)
