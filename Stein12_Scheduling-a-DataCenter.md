@@ -6,7 +6,7 @@ Scheduling a Large DataCenter
 - version 1.0 (last updated 09/10/2014)
 
 ### Summary
-This talk build a model of job scheduling in data center with the objective to minimize power consumption. Algorithms are designed either to minimize system fragementation(e.g. BestFit and its variance), or make the load of each machine as equally as possible(why?). Experiments are conducted to compare the 11 algorithms on their throughput.  
+This talk introduce a model of job scheduling in data center with the objective to minimize power consumption. Algorithms are designed either to minimize system fragementation(e.g. BestFit and its variance), or make the load of each machine as equally as possible(why?). Experiments are conducted to compare the 11 algorithms on their throughput.  
 
 ### Strongness
 The model they considered are more complete than the one we have.
