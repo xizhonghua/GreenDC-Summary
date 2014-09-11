@@ -28,6 +28,7 @@ This paper investigates how to distributed available power among servers in a se
 
 ### Model
 1. Job arrival satisfy Poisson distribution.
+2. Servers are constrainted by peak power budget. The CPU frequecy, voltage of each machine can be tuned in order under the constraints with objective to minmize mean resonse time.
 
 ### Strongness
 1. They captured the power-to-frequency relationship under DFS and DFVS by experiments on CPU bound LINPACK workload.
