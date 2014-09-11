@@ -7,7 +7,7 @@ Paper Summary
 
 
 ### Intro
-- [Power Concern]()
+- [Power Concern](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/PowerConcern.md)
 
 ### Resources
 - [Solar Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/SolarTrace.md)
