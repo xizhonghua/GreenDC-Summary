@@ -23,6 +23,8 @@ Optimal Power Allocation in Server Farms
 
 ### Summary
 This paper investigates how to distributed available power among servers in a server farm so as to minimize mean response time, i.e., maximize performance.
+- First, they investigated how power allocation affects server frequency in a single server using, DFS, DVFS, and DVFS+DFS for various workloads.
+- Then they develop a queueing theoretical model which predicts the mean response time for a server farm as a function of many factors including the power-to-frequency relationship, arrival rate, peak power budget etc. The queuing model allow they to determine the optimal power allocation for every possible configuration of the above factors.
 
 ### Extension
-1. This paper only consider the response time. How about also taking into account the profits? i.e., make the objective as a mix function of response time and revenue.
+1. This paper only considers the response time. How about also taking into account the profits? i.e., make the objective as a mix function of response time and revenue.
