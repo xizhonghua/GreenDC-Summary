@@ -6,6 +6,9 @@ Paper Summary
 - [Optimal Power Allocation in Server Farms](http://www3.cs.stonybrook.edu/~anshul/sigmetrics_2009_tech.pdf), by *Anshul Gandhi et al.*, 2009, [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Gandhi09_Optimal-Power-Allocation-in-Server-Farms.md)
 
 
+### Intro
+- [Power Concern]()
+
 ### Resources
 - [Solar Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/SolarTrace.md)
 - [Workload Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/WorkloadTrace.md)
