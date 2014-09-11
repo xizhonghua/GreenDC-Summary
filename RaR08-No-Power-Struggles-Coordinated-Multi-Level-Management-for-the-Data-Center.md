@@ -14,3 +14,6 @@ No "Power" Struggles: Coordinated Multi-level Power Management for the Data Cent
  numpages = {12}
 } 
 ```
+
+### Summary
+This paper investigated maximize the performance at a server farm given a fixed peak power budget.
