@@ -1,7 +1,7 @@
 No "Power" Struggles: Coordinated Multi-level Power Management for the Data Center
 ----
 
--[Paper Link](http://dl.acm.org/citation.cfm?id=1346289)
+- [Paper Link](http://dl.acm.org/citation.cfm?id=1346289)
 - bib
 ```
 @article{RaR08,
