@@ -16,5 +16,13 @@ How to Schedule When you Have to Buy Your Energy
 ```
 - version 1.0, last updated 09/11/2014
 
-
 ### Summary
+This paper investigates how to maximize profits in a data center which consisting of speed-scalable processors. The revenue of a job is a function of how long the job is delayed. Each unit of energy has a fix cost. They give a (1+\epsilon) )O(1)-competitive algorithm, and show that resource augmentation is necessary to achieve O(1)-competitive.
+
+
+### Model
+- Machine: identical speed-scalable processors.
+- Profits: lost as a function of how long the job is **delayed**.
+- Energy: has fixed cost.
+- Objective: maximize profits, by determine which jobs to run on which processors, and at what speed to run the processors.
+
