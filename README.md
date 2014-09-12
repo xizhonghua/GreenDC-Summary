@@ -9,7 +9,7 @@ Paper Summary
 ### Speed Scaling
 - [A Scheduling Model for Reduced CPU Energy](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=492493&tag=1)
 , by *F. Yao*, in Proc. IEEE Symp. Foundations of Computer Science, 1995, 
-[[Summary]]()
+[[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Yao95-A-Scheduling-Model-for-Reduced-CPU-Energy.md)
 
 ### Intro
 - [Power Concern](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/PowerConcern.md)
