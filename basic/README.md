@@ -7,4 +7,4 @@ Basic Knowledge of Power
 
 
 ### Online algorithm
-- [Competitiveness]()
+- [Competitiveness](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/basic/Competitiveness.md)
