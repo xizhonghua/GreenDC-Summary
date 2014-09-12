@@ -10,5 +10,5 @@ A scheduling model for reduced CPU energy}
 		title={A scheduling model for reduced CPU energy}, 
 		year={1995}, 
 		pages={374-382}	
-		}
+	}
 ```
