@@ -1,4 +1,4 @@
-A scheduling model for reduced CPU energy}
+A scheduling model for reduced CPU energy
 ---
 
 - [paper link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=492493&tag=1)
