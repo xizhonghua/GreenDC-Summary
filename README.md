@@ -11,5 +11,5 @@ Paper Summary
 - [Power Concern](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/PowerConcern.md)
 
 ### Resources
-- [Solar Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/SolarTrace.md)
-- [Workload Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/WorkloadTrace.md)
+- [Solar Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/SolarTrace.md)
+- [Workload Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/WorkloadTrace.md)
