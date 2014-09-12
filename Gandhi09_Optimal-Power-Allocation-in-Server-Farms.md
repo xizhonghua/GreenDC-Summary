@@ -16,6 +16,7 @@ Optimal Power Allocation in Server Farms
  numpages = {12},
 } 
 ```
+- version 1.0, last updated 09/11/2014
 
 ### Background
 - Server farms usually have a fixed peak power budget, since they are often billed by power suppliers based on their peak power requirement. The peak power budget of a server farm determines its cooling and power delivery infrastructure costs. Hence, companies are interested in maximizing the performance at a server farm given a fixed power budget.
