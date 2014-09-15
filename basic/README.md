@@ -14,7 +14,7 @@ Basic Knowledge of Power
 - [Energy Price](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/basic/EnergyPrice.md)
 
 ### Strategy
-- [Energy Capping]()
+- [Energy Capping](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/basic/EnergyCapping.md)
 
 ### Job Type
 - [Internet Service]()
