@@ -11,6 +11,9 @@ Paper Summary
 , by *F. Yao*, in Proc. IEEE Symp. Foundations of Computer Science, 1995, 
 [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Yao95-A-Scheduling-Model-for-Reduced-CPU-Energy.md)
 
+### Delay Scheduling
+- [Energy Efficiency Geographical Load Balancing via Dynamic Deferral of Workload](http://dl.acm.org/citation.cfm?id=2353793)
+
 ### OutLink
 - Intro
   - [Power Concern](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/PowerConcern.md)
