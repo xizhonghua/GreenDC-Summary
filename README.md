@@ -12,7 +12,7 @@ Paper Summary
 [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Yao95-A-Scheduling-Model-for-Reduced-CPU-Energy.md)
 
 ### Delay Scheduling
-- [Energy Efficiency Geographical Load Balancing via Dynamic Deferral of Workload](http://dl.acm.org/citation.cfm?id=2353793), by *M.A Adnan et al*, Cloud 2010, [[Summary]]()
+- [Energy Efficiency Geographical Load Balancing via Dynamic Deferral of Workload](http://dl.acm.org/citation.cfm?id=2353793), by *M.A Adnan et al*, Cloud 2010, [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/AdnanS12_Energy-Efficient-Geographical-and-Load-Balancing-via-Dynamic-Deferral-of-Workload.md)
 
 ### OutLink
 - Intro
