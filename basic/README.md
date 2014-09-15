@@ -10,7 +10,7 @@ Basic Knowledge of Power
 - [Competitiveness](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/basic/Competitiveness.md)
 
 ### Energy
-- [Energy Type]()
+- [Energy Type](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/basic/EnergyType.md)
 - [Energy Price]()
 
 ### Strategy
