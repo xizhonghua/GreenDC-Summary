@@ -11,9 +11,9 @@ Paper Summary
 , by *F. Yao*, in Proc. IEEE Symp. Foundations of Computer Science, 1995, 
 [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Yao95-A-Scheduling-Model-for-Reduced-CPU-Energy.md)
 
-### Intro
-- [Power Concern](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/PowerConcern.md)
+### OutLink
+- Intro
+  - [Power Concern](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/PowerConcern.md)
 
-### Resources
-- [Solar Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/SolarTrace.md)
-- [Workload Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/WorkloadTrace.md)
+- Resources
+  - [Traces](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/traces)
