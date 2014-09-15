@@ -1,9 +1,9 @@
-Scheduling a Large DataCenter
+[Scheduling a Large DataCenter](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf)
 ----
 
-- [Paper Link](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf)
+- Status: finished.
 - by [Cliff Stein](http://www.columbia.edu/~cs2035/)
-- version 1.0, last updated 09/11/2014
+
 
 ### Summary
 This talk introduce a model of job scheduling in data center with the objective to minimize power consumption. Algorithms are designed either to minimize system fragementation(e.g. BestFit and its variance), or to make the load of each machine as equally as possible(why?). Experiments are conducted to compare the 11 algorithms on their throughput.  
