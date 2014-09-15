@@ -1,7 +1,7 @@
-Optimal Power Allocation in Server Farms
+[Optimal Power Allocation in Server Farms](http://www3.cs.stonybrook.edu/~anshul/sigmetrics_2009_tech.pdf)
 ---
 
-- [PaperLink](http://www3.cs.stonybrook.edu/~anshul/sigmetrics_2009_tech.pdf)
+- Status: finished.
 - bib
 ```
 @article{GaH09,
