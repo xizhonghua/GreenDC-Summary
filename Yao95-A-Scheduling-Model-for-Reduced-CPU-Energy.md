@@ -1,7 +1,7 @@
-A scheduling model for reduced CPU energy
+[A scheduling model for reduced CPU energy](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=492493&tag=1)
 ---
 
-- [paper link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=492493&tag=1)
+- Status: haven't finished.
 - bib
 ```
 	@INPROCEEDINGS{Yao95, 
