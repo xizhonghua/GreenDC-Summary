@@ -8,3 +8,13 @@ Basic Knowledge of Power
 
 ### Online algorithm
 - [Competitiveness](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/basic/Competitiveness.md)
+
+### Energy
+- [Energy Type]()
+- [Energy Price]()
+
+### Strategy
+- [Energy Capping]()
+
+### Job Type
+- [Internet Service]()
