@@ -17,4 +17,4 @@ Basic Knowledge of Power
 - [Energy Capping](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/basic/EnergyCapping.md)
 
 ### Job Type
-- [Internet Service]()
+- [Internet Service](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/basic/InternetService.md)
