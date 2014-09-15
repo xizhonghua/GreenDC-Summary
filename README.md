@@ -17,3 +17,6 @@ Paper Summary
 
 - Resources
   - [Traces](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/traces)
+  
+- Basic Knowledge
+  - [Basic](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/basic)
