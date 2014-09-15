@@ -1,4 +1,3 @@
-PointCarbon
+[PointCarbon](http://www.pointcarbon.com/)
 ---
 
-- [Link](http://www.pointcarbon.com/)
