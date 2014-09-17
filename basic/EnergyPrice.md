@@ -10,4 +10,4 @@ Energy Price
 These observation suggest that market-based decisions will be meaningful; excessive variability or the absence of clear trends could render our decision inadequate in just a short time.In other words, the price is relatively stable in a short time, thus the scheduling scheme can be changed periodically.
 
 #### Energy price in distributed data center
-- "Geographica load balancing" has been suggested to reduce energy cost by exploiting the electricity price differences across regions. However, this reduction of cost can paradoxically increase the total energy use [Liu-2011](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/LiuL11_Greening-Geographical-Load-Balancing.md)
+- "Geographica load balancing" has been suggested to reduce energy cost by exploiting the electricity price differences across regions. However, this reduction of cost can paradoxically increase the total energy use [[Liu-2011]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/LiuL11_Greening-Geographical-Load-Balancing.md).
