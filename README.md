@@ -26,3 +26,4 @@ Paper Summary
   
 - Algorithm
   - [Algorithms](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/algorithms)
+  - <span style="color:red;">make something red</span>
