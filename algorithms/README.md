@@ -2,6 +2,6 @@ Algorithms
 ----
 
 
-### [Online Algorithms]()
+- ### [Online Algorithms]()
 
-### [Scheduling Algorithms]()
+- ### [Scheduling Algorithms]()
