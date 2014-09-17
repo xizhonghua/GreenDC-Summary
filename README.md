@@ -26,4 +26,7 @@ Paper Summary
   
 - Algorithm
   - [Algorithms](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/algorithms)
-  - <span style="color:red;">make something red</span>
+main = [markdown|
+In your case you can <span style="color:red;">make something red</span>
+by adding a span.
+|]
