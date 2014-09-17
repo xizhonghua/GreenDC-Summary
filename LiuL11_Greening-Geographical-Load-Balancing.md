@@ -1,6 +1,7 @@
 [Greening Geographical Load Balancing](http://dl.acm.org/citation.cfm?id=1993767)
 ---
 
+- reading status: 09/17/2014 ing.
 - bib
 ```
 @inproceedings{LiuL12,
