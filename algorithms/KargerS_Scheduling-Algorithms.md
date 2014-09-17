@@ -8,5 +8,5 @@
     title = {Scheduling Algorithms},
     booktitle ={Handbook of algorithms and Theory of computation},
     year = {1997}
-    }
+}
 ```
