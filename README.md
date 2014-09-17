@@ -5,7 +5,7 @@ Paper Summary
 
 ### Distributed Data Center
 - [Greening Geographic Loading Balancing](http://dl.acm.org/citation.cfm?id=1993767), by *Zhenhua Liu et al*, in SIGMETRICS'11, [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/LiuL11_Greening-Geographical-Load-Balancing.md)
-
+- [Energy Efficiency Geographical Load Balancing via Dynamic Deferral of Workload](http://dl.acm.org/citation.cfm?id=2353793), by *M.A Adnan et al*, Cloud 2010, [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/AdnanS12_Energy-Efficient-Geographical-and-Load-Balancing-via-Dynamic-Deferral-of-Workload.md) #delay scheduling#
 
 ### Data Center 
 - [Scheduling a Large DataCenter](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf), by *Cliff Stein*, 2012, [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Stein12_Scheduling-a-DataCenter.md)
@@ -19,8 +19,7 @@ Paper Summary
 , by *F. Yao*, in Proc. IEEE Symp. Foundations of Computer Science, 1995, 
 [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Yao95-A-Scheduling-Model-for-Reduced-CPU-Energy.md)
 
-### Delay Scheduling
-- [Energy Efficiency Geographical Load Balancing via Dynamic Deferral of Workload](http://dl.acm.org/citation.cfm?id=2353793), by *M.A Adnan et al*, Cloud 2010, [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/AdnanS12_Energy-Efficient-Geographical-and-Load-Balancing-via-Dynamic-Deferral-of-Workload.md)
+
 
 ### OutLink
 - Intro
