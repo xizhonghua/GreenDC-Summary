@@ -1,4 +1,4 @@
-[A Linear Programming Approach to the Cutting-Stock Problem-Part II](http://www4.ncsu.edu/~kksivara/ma505/handouts/gilmore-gomory2.pdf
+[A Linear Programming Approach to the Cutting-Stock Problem-Part II](http://www4.ncsu.edu/~kksivara/ma505/handouts/gilmore-gomory2.pdf)
 ---
 
 - reading status: haven't start
