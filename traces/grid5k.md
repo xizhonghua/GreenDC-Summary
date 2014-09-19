@@ -1,4 +1,4 @@
-[[Grid5k]](https://www.grid5000.fr/mediawiki/index.php/Grid5000:Home)
+[Grid5k](https://www.grid5000.fr/mediawiki/index.php/Grid5000:Home)
 ---
 
 
