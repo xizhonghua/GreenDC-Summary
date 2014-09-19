@@ -4,6 +4,7 @@
 
 - reading status: haven't started
 - bib
+```
 @misc{HoelzleB09,
 author = {Urs Hoelzle , Luiz Andre Barroso},
 title ={ The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines},
