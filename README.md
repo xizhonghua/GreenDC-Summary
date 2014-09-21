@@ -24,7 +24,6 @@ Paper Summary
 ### OutLink
 - Intro
   - [Power Concern](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/PowerConcern.md)
-
 - [Traces](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/traces)
 - [Basic Knowledge](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/basic)
 - [Algorithms](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/algorithms)
