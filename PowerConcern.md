@@ -9,7 +9,7 @@ Power Concern
 
 
 ### Energy concern
-- The high cost translates into high carbon emissions as most of this eletricity comes from fossile fuels. 
+- The high electricity cost translates into high carbon emissions as most of this eletricity comes from fossile fuels. 
 
 ### Trend
 - As the price of server hardware has remained relatively stable, energy cost becomes one of the primary components in the total cost of ownership for computer server systems in the data centers. 
