@@ -2,7 +2,7 @@
 ---
 
 - Reading status
-- finished v1 in 09/29/2014
+  - finished v1 in 09/29/2014
 
 - bib
 ```
@@ -46,5 +46,5 @@ This paper introduced the designing of a green data center. In specific, it intr
 - use [Facebook Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/facebook-swim.md)
 
 ### Possible Extension
--  as pointed out in the paper, we can research on the interplay of solar energy and free cooling, since solar energy is most abundant when outside temperature is hottest
+- as pointed out in the paper, we can research on the interplay of solar energy and free cooling, since solar energy is most abundant when outside temperature is hottest
 - as pointed out in the paper, we can research on the interplay of using renewable energy and using battery energy. (I am not very clear about this point right now.)
