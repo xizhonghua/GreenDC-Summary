@@ -41,6 +41,10 @@
  ### Observations
  - The energy losses (e.g., in power conversion) are highly dependent on load, rather than a fixed percentage as often assumed in simulation. 
  
+
+### Simualtion 
+- use [Facebook Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/facebook-swim.md)
+ 
  ### Possible Extension
  -  as pointed out in the paper, we can research on the interplay of solar energy and free cooling, since solar energy is most abundant when outside temperature is hottest
  - as pointed out in the paper, we can research on the interplay of using renewable energy and using battery energy. (I am not very clear about this point right now.)
