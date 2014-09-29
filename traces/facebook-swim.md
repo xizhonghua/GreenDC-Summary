@@ -4,6 +4,7 @@ Facebook SWIM workloads
 
 ### Intro
 - Derived from a large batch-job trace from Facebook [[Chen-2012]](http://www.odbms.org/2014/03/statistical-workload-injector-mapreduce-swim/)
+- In this trace, jobs arrive throughout the day. 
  
 
 ### Repo
