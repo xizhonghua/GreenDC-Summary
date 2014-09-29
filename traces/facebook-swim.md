@@ -11,4 +11,4 @@ Facebook SWIM workloads
 - [Git-Hub-Repo](https://github.com/SWIMProjectUCB/SWIM)
 
 ### Usage
-- used by [[Goiri-2013]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/GoiriIK13_Designing-and-Managing-Datacenters-Powered-by-Renewable-Energy.md)
+- used by [[Goiri-2013]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/GoiriIK13_Designing-and-Managing-Datacenters-Powered-by-Renewable-Energy.md), they picked up the day Jul 1, 2012.
