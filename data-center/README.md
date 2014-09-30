@@ -2,7 +2,7 @@ Data Center
 ---
 
 ### Taxonomy
-- [Taxonomy]()
+- [Taxonomy](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/data-center/taxonomy.md)
 
 ### Utilization
 - [CPU utilization](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/data-center/CPU-utilization.md)
