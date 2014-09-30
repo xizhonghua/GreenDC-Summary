@@ -31,5 +31,4 @@ Paper Summary
 - [Algorithms](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/algorithms)
 - [Tools](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/tools)
 - [Research Branches](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Research-Branches.md)
-
-
+- [To Read](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/ReadingList.md)
