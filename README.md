@@ -26,7 +26,7 @@ Paper Summary
 - Intro
   - [Power Concern](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/PowerConcern.md)
 - [Traces](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/traces)
-- [Basic Knowledge](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/basic)
+- [Basic Knowledge of Power](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/basic)
 - [Algorithms](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/algorithms)
 - [Tools](https://github.com/hxwang/Seminar/tree/master/Paper-Summary/tools)
 - [Research Branches](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/Research-Branches.md)
