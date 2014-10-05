@@ -28,5 +28,5 @@ Paper Summary
 - [Traces](https://github.com/hxwang/GreenDC-Summary/tree/master/traces)
 - [Tools](https://github.com/hxwang/GreenDC-Summary/tree/master/tools)
 - [Research Branches](https://github.com/hxwang/GreenDC-Summary/blob/master/Research-Branches.md)
-- Readings: [To Read](https://github.com/hxwang/GreenDC-Summary/blob/master/ReadingList.md), [Done-List](), [Sample Papers(writing)](https://github.com/hxwang/GreenDC-Summary/blob/master/SamplePaper.md)
+- Readings: [To Read](https://github.com/hxwang/GreenDC-Summary/blob/master/ToRead-List.md), [Done-List](), [Sample Papers(writing)](https://github.com/hxwang/GreenDC-Summary/blob/master/SamplePaper.md)
 
