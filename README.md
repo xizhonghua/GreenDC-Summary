@@ -23,8 +23,7 @@ Paper Summary
 
 
 ### OutLink
-- Intro
-  - [Power Concern](https://github.com/hxwang/GreenDC-Summary/blob/master/PowerConcern.md)
+- Intro: [Power Concern](https://github.com/hxwang/GreenDC-Summary/blob/master/PowerConcern.md)
 - [Traces](https://github.com/hxwang/GreenDC-Summary/tree/master/traces)
 - [Basic Knowledge of Power](https://github.com/hxwang/GreenDC-Summary/tree/master/basic)
 - [Data Center Intro](https://github.com/hxwang/GreenDC-Summary/tree/master/data-center)
