@@ -10,4 +10,4 @@ Data Center
 
 ### OutLink
 - [TODO](https://github.com/hxwang/GreenDC-Summary/blob/master/data-center/todo.md)
-- [Papers](https://github.com/hxwang/GreenDC-Summary/blob/master/data-center/done.md)
+
