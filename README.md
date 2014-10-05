@@ -23,12 +23,10 @@ Paper Summary
 
 
 ### OutLink
-- Intro: [Power Concern](https://github.com/hxwang/GreenDC-Summary/blob/master/PowerConcern.md)
+- Intro: [Power Concern](https://github.com/hxwang/GreenDC-Summary/blob/master/PowerConcern.md),[Data Center Intro](https://github.com/hxwang/GreenDC-Summary/tree/master/data-center),
+- Knowledge: [Basic Knowledge of Power](https://github.com/hxwang/GreenDC-Summary/tree/master/basic), [Algorithms](https://github.com/hxwang/GreenDC-Summary/tree/master/algorithms)
 - [Traces](https://github.com/hxwang/GreenDC-Summary/tree/master/traces)
-- [Basic Knowledge of Power](https://github.com/hxwang/GreenDC-Summary/tree/master/basic)
-- [Data Center Intro](https://github.com/hxwang/GreenDC-Summary/tree/master/data-center)
-- [Algorithms](https://github.com/hxwang/GreenDC-Summary/tree/master/algorithms)
 - [Tools](https://github.com/hxwang/GreenDC-Summary/tree/master/tools)
 - [Research Branches](https://github.com/hxwang/GreenDC-Summary/blob/master/Research-Branches.md)
-- [Sample Papers(writing)](https://github.com/hxwang/GreenDC-Summary/blob/master/SamplePaper.md)
-- [To Read](https://github.com/hxwang/GreenDC-Summary/blob/master/ReadingList.md)
+- Readings: [To Read](https://github.com/hxwang/GreenDC-Summary/blob/master/ReadingList.md), [Done-List](), [Sample Papers(writing)](https://github.com/hxwang/GreenDC-Summary/blob/master/SamplePaper.md)
+
