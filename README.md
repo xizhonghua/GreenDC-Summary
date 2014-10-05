@@ -4,7 +4,7 @@ Paper Summary
 ### Centralized Data Center
 
 ### Distributed Data Center
-- [Greening Geographic Loading Balancing](http://dl.acm.org/citation.cfm?id=1993767), by *Zhenhua Liu et al*, in SIGMETRICS'11, [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/LiuL11_Greening-Geographical-Load-Balancing.md)
+- [Greening Geographic Loading Balancing](http://dl.acm.org/citation.cfm?id=1993767), by *Zhenhua Liu et al*, in SIGMETRICS'11, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/LiuL11_Greening-Geographical-Load-Balancing.md)
 - [Energy Efficiency Geographical Load Balancing via Dynamic Deferral of Workload](http://dl.acm.org/citation.cfm?id=2353793), by *M.A Adnan et al*, Cloud 2010, [[Summary]](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/AdnanS12_Energy-Efficient-Geographical-and-Load-Balancing-via-Dynamic-Deferral-of-Workload.md) #delay scheduling#
 
 ### Data Center 
