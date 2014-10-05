@@ -43,7 +43,7 @@ This paper introduced the designing of a green data center. In specific, it intr
 
 
 ### Simualtion 
-- use [Facebook Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/facebook-swim.md)
+- use [Facebook Trace](https://github.com/hxwang/GreenDC-Summary/blob/master/traces/facebook-swim.md)
 
 ### Possible Extension
 - as pointed out in the paper, we can research on the interplay of solar energy and free cooling, since solar energy is most abundant when outside temperature is hottest

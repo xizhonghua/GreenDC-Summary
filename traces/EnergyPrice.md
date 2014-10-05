@@ -2,4 +2,4 @@ Energy Price
 ---
 
 ### Carbon Market
-- [Pointcarbon](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/PointCarbon.md)
+- [Pointcarbon](https://github.com/hxwang/GreenDC-Summary/blob/master/traces/PointCarbon.md)

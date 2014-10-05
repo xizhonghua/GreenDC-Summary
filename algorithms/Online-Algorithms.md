@@ -2,4 +2,4 @@ Online Algorithms
 ---
 
 ### Measurements
-- [Competitiveness](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/algorithms/Competitiveness.md)
+- [Competitiveness](https://github.com/hxwang/GreenDC-Summary/blob/master/algorithms/Competitiveness.md)

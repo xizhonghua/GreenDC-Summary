@@ -1,9 +1,9 @@
 Traces
 --
 
-- [Solar Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/SolarTrace.md)
-- [Workload Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/WorkloadTrace.md)
-- [Energy Price Trace](https://github.com/hxwang/Seminar/blob/master/Paper-Summary/traces/EnergyPrice.md)
+- [Solar Trace](https://github.com/hxwang/GreenDC-Summary/blob/master/traces/SolarTrace.md)
+- [Workload Trace](https://github.com/hxwang/GreenDC-Summary/blob/master/traces/WorkloadTrace.md)
+- [Energy Price Trace](https://github.com/hxwang/GreenDC-Summary/blob/master/traces/EnergyPrice.md)
 
 
 ### Trace Prediction
