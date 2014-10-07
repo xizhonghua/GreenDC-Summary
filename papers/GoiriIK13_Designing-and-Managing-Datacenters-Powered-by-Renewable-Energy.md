@@ -1,5 +1,5 @@
-[Designing and Managing Datacenters Powered by Renewable Energy](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6756707)
----
+## [Designing and Managing Datacenters Powered by Renewable Energy](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6756707)
+
 
 - Reading status
   - finished v1 in 09/29/2014
