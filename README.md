@@ -12,7 +12,7 @@ Paper Summary
 - [Optimal Power Allocation in Server Farms](http://www3.cs.stonybrook.edu/~anshul/sigmetrics_2009_tech.pdf), by *Anshul Gandhi et al.*, 2009, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/Gandhi09_Optimal-Power-Allocation-in-Server-Farms.md)
 - [How to Schedule When You Have to Buy Energy](http://link.springer.com/chapter/10.1007%2F978-3-642-15369-3_27#page-1), by *Kirk Pruhs et al.*, APPROX 2010, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/PruhsS10_How-to-Schedule-When-You-Have-to-Buy-Your-Energy.md)
 - [Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](./papers/MunirB14_SIGCOMM_Synthesizing-Existing-Transport-Strateg-DC.md)
-- [Friends, not Foes – Synthesizing Existing Transport Strategies for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215430), by  *F.R. Dogar*,  in SIGCOMM 2014, [[Summary]]()
+- [Friends, not Foes – Synthesizing Existing Transport Strategies for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215430), by  *F.R. Dogar*,  in SIGCOMM 2014, [[Summary]](./papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
 
 ### Data Center System
 - [Designing and Managing Datacenters Powered by Renewable Energy](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6756707), by *Inigo Goiri*, ASPLOS, 2013, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/GoiriIK13_Designing-and-Managing-Datacenters-Powered-by-Renewable-Energy.md)
