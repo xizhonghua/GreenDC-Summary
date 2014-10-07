@@ -7,3 +7,5 @@ Reading List
 - [ ] [Greening Geographic Loading Balancing](http://dl.acm.org/citation.cfm?id=1993767), by *Zhenhua Liu et al*, in SIGMETRICS'11, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/LiuL11_Greening-Geographical-Load-Balancing.md) #Fei#
 - [Smoothed Analysis](http://www.cs.yale.edu/homes/spielman/SmoothedAnalysis/)
 - [Smoothed Analysis: An Attempt to Explain the Behavior of Algorithms in Practice], by *Daniel A. Spielman et al*,  in COMMUN. ACM  2009
+- [Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]]() #Fei#
+- [Friends, not Foes – Synthesizing Existing Transport Strategies for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215430), by  *F.R. Dogar*,  in SIGCOMM 2014, [[Summary]]() #Fei#
