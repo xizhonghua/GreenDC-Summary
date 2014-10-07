@@ -11,7 +11,7 @@ Paper Summary
 - [Scheduling a Large DataCenter](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf), by *Cliff Stein*, 2012, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/Stein12_Scheduling-a-DataCenter.md)
 - [Optimal Power Allocation in Server Farms](http://www3.cs.stonybrook.edu/~anshul/sigmetrics_2009_tech.pdf), by *Anshul Gandhi et al.*, 2009, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/Gandhi09_Optimal-Power-Allocation-in-Server-Farms.md)
 - [How to Schedule When You Have to Buy Energy](http://link.springer.com/chapter/10.1007%2F978-3-642-15369-3_27#page-1), by *Kirk Pruhs et al.*, APPROX 2010, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/PruhsS10_How-to-Schedule-When-You-Have-to-Buy-Your-Energy.md)
-- [Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]]()
+- [Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](./papers/MunirB14_SIGCOMM_Synthesizing-Existing-Transport-Strateg-DC.md)
 - [Friends, not Foes – Synthesizing Existing Transport Strategies for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215430), by  *F.R. Dogar*,  in SIGCOMM 2014, [[Summary]]()
 
 ### Data Center System
