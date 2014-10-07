@@ -8,7 +8,7 @@
 #### Scheduling Algorithms
 - [Minghong Lin](http://users.cms.caltech.edu/~mhlin/), Research scientist in Facebook.
 - [Zhenhua Liu](http://users.cms.caltech.edu/~zliu2/), Postdoc at [Lawrence Berkeley National Laboratory](http://www.lbl.gov/)
-- []
+- [Íñigo Goiri](http://www.research.rutgers.edu/~goiri/), Postdoc at Rutgers University
 
 
 
