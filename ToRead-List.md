@@ -3,7 +3,7 @@ Reading List
 
 | Number | Paper| Assigner|
 |:--|:-----|:--------|
-|1|[Online job-migration for reducing the electricity bill in the cloud](), by *N. Buchbinder et al.*, in  IFIP Network 2011 | Fei|
+|1|[Online job-migration for reducing the electricity bill in the cloud](http://link.springer.com/chapter/10.1007%2F978-3-642-20757-0_14), by *N. Buchbinder et al.*, in  IFIP Network 2011 | Fei|
 |2|[A taxonomy and survey of energy-efficient data centers and cloud computing systems](), by *A. Beloglazov et al.*, in Advances in Computers 2011| Fei |
 |3| [ Scheduling Hadoop jobs to meet deadlines](), by *K. Kc et al.*, in CloudCom 2010 | Fei|
 |4|[Greening Geographic Loading Balancing](http://dl.acm.org/citation.cfm?id=1993767), by *Zhenhua Liu et al*, in SIGMETRICS'11, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/LiuL11_Greening-Geographical-Load-Balancing.md) | Fei|
