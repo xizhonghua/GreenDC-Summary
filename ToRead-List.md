@@ -12,3 +12,4 @@ Reading List
 |7|[Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](./papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)| Fei |
 |8|[Friends, not Foes – Synthesizing Existing Transport Strategies for Data Center  Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215430), by  *F.R. Dogar*,  in SIGCOMM 2014, [[Summary]](./papers/MunirB14_SIGCOMM_Synthesizing-Existing-Transport-Strateg-DC.md)| Fei|
 |9| [GreenHadoop: Leveraging Green Energy in Data-Processing Frameworks](), by *Inigo Goiri et al*, in uroSys 2012, [[Summary]](./papers/GoiriL12_GreenHadoop.md) | me |
+|10| [GreenSlot: scheduling energy consumption in green datacenters](), by *Inigo Goiri et al*, in SC 11, [[Summary]](./papers/GoiriL11_Greenslot.md)| me|
