@@ -5,7 +5,7 @@ Reading List
 |:--|:-----|:--------|
 |1|[Online job-migration for reducing the electricity bill in the cloud](http://link.springer.com/chapter/10.1007%2F978-3-642-20757-0_14), by *N. Buchbinder et al.*, in  IFIP Network 2011 | Fei|
 |2|[A taxonomy and survey of energy-efficient data centers and cloud computing systems](), by *A. Beloglazov et al.*, in Advances in Computers 2011| Fei |
-|3| [ Scheduling Hadoop jobs to meet deadlines](), by *K. Kc et al.*, in CloudCom 2010 | Fei|
+|3| [ Scheduling Hadoop jobs to meet deadlines](http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=5708475), by *K. Kc et al.*, in CloudCom 2010 | Fei|
 |4|[Greening Geographic Loading Balancing](http://dl.acm.org/citation.cfm?id=1993767), by *Zhenhua Liu et al*, in SIGMETRICS'11, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/LiuL11_Greening-Geographical-Load-Balancing.md) | Fei|
 |5| [Smoothed Analysis](http://www.cs.yale.edu/homes/spielman/SmoothedAnalysis/) |Fei |
 |6|[Smoothed Analysis: An Attempt to Explain the Behavior of Algorithms in Practice], by *Daniel A. Spielman et al*,  in COMMUN. ACM  2009| Fei|
