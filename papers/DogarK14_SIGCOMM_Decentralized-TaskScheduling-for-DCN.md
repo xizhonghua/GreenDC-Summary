@@ -13,9 +13,10 @@
 ```
 
 ### Summary
-
+In this paper, the author design decentralized task-aware scheduling approach that could reduce both the **average** as well as **tail completion time** for typical data center applications.
 
 ### Model
+- workloads: task aware workloads
 
 
 ### Strongness
@@ -23,3 +24,5 @@
 ### Weakness
 
 ### Extension
+- how it compared to non-task-aware scheduling
+	- I guess when some completion time of some jobs reduce, some will increase
