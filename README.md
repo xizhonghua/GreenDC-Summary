@@ -22,5 +22,5 @@ Green Data Center
 - [Algorithms](https://github.com/hxwang/GreenDC-Summary/tree/master/algorithms)
 
 ### Readings
-- [To Read](https://github.com/hxwang/GreenDC-Summary/blob/master/ToRead-List.md),
-- [Done-List](https://github.com/hxwang/GreenDC-Summary/blob/master/done-list.md), 
+- [To Read](https://github.com/hxwang/GreenDC-Summary/blob/master/ToRead-List.md)
+- [Done-List](https://github.com/hxwang/GreenDC-Summary/blob/master/done-list.md)
