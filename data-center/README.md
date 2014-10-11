@@ -6,7 +6,7 @@ Data Center
 - [DC characteristic](./datacenter-intro.md)
 
 ### Workload
-- [workloads](./workloads.md)
+- [Workloads](./workloads.md)
 
 ### Utilization
 - [CPU utilization](./CPU-utilization.md)
