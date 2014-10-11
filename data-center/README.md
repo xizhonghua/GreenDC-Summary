@@ -5,6 +5,9 @@ Data Center
 - [Taxonomy](./taxonomy.md)
 - [DC characteristic](./datacenter-intro.md)
 
+### Workload
+- [workloads](./workloads.md)
+
 ### Utilization
 - [CPU utilization](./CPU-utilization.md)
 
