@@ -1,4 +1,4 @@
-## Workloads
+## Workload Types
 
 
 ### Task-aware workloads
