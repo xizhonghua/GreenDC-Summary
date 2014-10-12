@@ -2,18 +2,18 @@ Data Center
 ---
 
 ### Introduction
-- [Taxonomy](./taxonomy.md)
-- [DC characteristic](./datacenter-intro.md)
+- [Taxonomy](./file/taxonomy.md)
+- [DC characteristic](./file/datacenter-intro.md)
 
 ### Workload
-- [Workloads](./workloads.md)
+- [Workloads](./file/workloads.md)
 
 ### Utilization
-- [CPU utilization](./CPU-utilization.md)
+- [CPU utilization](./file/CPU-utilization.md)
 
 ### Schedule Mechanism
-- [Schedule Mechanism](./schedule.md)
+- [Schedule Mechanism](./file/schedule.md)
 
 ### OutLink
-- [TODO](./todo.md)
+- [TODO](./file/todo.md)
 
