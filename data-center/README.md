@@ -12,6 +12,7 @@ Data Center
 - [CPU utilization](./file/CPU-utilization.md)
 
 ### Schedule Mechanism
+- [Schedule Objective](./objective.md)
 - [Schedule Mechanism](./file/schedule.md)
 
 ### OutLink
