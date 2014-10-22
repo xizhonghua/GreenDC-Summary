@@ -2,11 +2,15 @@
 
 
 ### Summary
+<!--
 - What is the problem that is addressed in the paper? 
 - Which techniques are used to prove the results or obtain the performance evaluation? 
 - What are the main results/findings? 
 Please do not copy sentences from the paper (or abstract), use your own words to show your own preparation/understanding.
-
+-->
+- In this paper, the author studies the problem of joint scheduling of tasks and messages for energy minimization in interference-aware manner for wireless sensor network(WSN). 
+- They model the problem as a Mixed Integer Linear Programming(MILP) and design Dynamic Voltage Scaling(DVS) for tasks and Dynamic Modulation Scaling(DMS) for messages. 
+- In addition, they design efficient slcak allocation for dense WSN
 
 ### Merits/Contributions
 In this part, try to identify the strong points of the paper. 
@@ -20,6 +24,9 @@ In this part, try to identify the strong points of the paper.
 - Problems with the simulation methodology? 
 - Any exaggerated claims not supported by simulations or technical findings? 
 - Are the comparisons made against other solutions proposed in the same area?
+
+### Questions
+- The authors mention that there are several models proposed for interfrence modeling, and they use the protocol model proposed in ref[19]. However the author fail to give any reasons or comments of why they stick with this model rather than others. 
 
 ### Extensions
 - Any open and interesting research problems that you can identify after reading this paper? 
