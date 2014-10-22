@@ -13,10 +13,11 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 - In addition, they design efficient slcak allocation for dense WSN
 
 ### Merits/Contributions
-In this part, try to identify the strong points of the paper. 
+<!--In this part, try to identify the strong points of the paper. 
 - How does it contribute to the field? 
 - Is there anything particularly attractive about the approach (e.g. strong analytical results or comprehensive experimental evaluation)? 
-- Any commendable aspects about the methodology?
+- Any commendable aspects about the methodology?-->
+- As claimed by the author, this paper studies a new problem that has not been studies in scheduling in inference network with the obkective to minimize energy consumption. Previous works only study tasks or messages and didn't consider joint scheduling of these two aspects.
 
 ### Weaknesses
 - What are the drawbacks of the approach adopted in the paper? 
