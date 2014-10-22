@@ -10,7 +10,7 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 -->
 - In this paper, the author studies the problem of joint scheduling of tasks and messages for energy minimization in interference-aware manner for wireless sensor network(WSN). 
 - They model the problem as a Mixed Integer Linear Programming(MILP) and design Dynamic Voltage Scaling(DVS) for tasks and Dynamic Modulation Scaling(DMS) for messages. 
-- In addition, they design efficient slcak allocation for dense WSN
+- In addition, they design efficient slack allocation for dense WSN
 
 ### Merits/Contributions
 <!--In this part, try to identify the strong points of the paper. 
