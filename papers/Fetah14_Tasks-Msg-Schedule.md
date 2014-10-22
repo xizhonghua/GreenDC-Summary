@@ -28,7 +28,7 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 - Any exaggerated claims not supported by simulations or technical findings? 
 - Are the comparisons made against other solutions proposed in the same area?-->
 - In fig 11, it is not explained why the makespan has minimum value when the cluster size is 5. 
-- In the simulation, the scheduling overhead is not studied. It would be better for the authors to analyze the overhead, otherwise, maybe the execution of the proposed approach itself is time consuming and thus a simpler scheme will be energy beneficial. The evaluation of the time overhead and energy overhead is very important especially when the authors are not able to make comparison with existing works.
+
 
 ### Questions
 - The authors mention that there are several models proposed for interfrence modeling, and they use the protocol model proposed in ref[19]. However the author fail to give any reasons or comments of why they stick with this model rather than others. 
