@@ -18,7 +18,7 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 - How does it contribute to the field? 
 - Is there anything particularly attractive about the approach (e.g. strong analytical results or comprehensive experimental evaluation)? 
 - Any commendable aspects about the methodology?-->
-- As claimed by the author, this paper studies a new problem that has not been studied in the field of scheduling in inference-aware network with the objective to minimize energy consumption. Previous works only study tasks or messages and didn't consider joint scheduling of these two aspects. Thus one of the contributions is their identification of such unstudied problem.
+- As claimed by the author, this paper studies a new problem that has not been studied in the field of scheduling in inference-aware wireless sensor network with the objective to minimize energy consumption. Previous works only study tasks or messages and didn't consider joint scheduling of these two aspects. Thus one of the contributions is their identification of such unstudied problem.
 - To study this untrackable problem, they decompose it into subproblems and try to plug in existing solutions for each subproblem. 
 - In the simulation, the performance is evaluated under various settings, i.e., various slack factor, various node number, various packet size and various inter-node distance, various clsuter size, computation ccles. Also both the job makespan and energy consumption are evaluated. 
 
