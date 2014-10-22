@@ -17,7 +17,8 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 - How does it contribute to the field? 
 - Is there anything particularly attractive about the approach (e.g. strong analytical results or comprehensive experimental evaluation)? 
 - Any commendable aspects about the methodology?-->
-- As claimed by the author, this paper studies a new problem that has not been studied in the field of scheduling in inference network with the obkective to minimize energy consumption. Previous works only study tasks or messages and didn't consider joint scheduling of these two aspects. Thus one of the contribution is their identify of such unstudies problem.
+- As claimed by the author, this paper studies a new problem that has not been studied in the field of scheduling in inference network with the obkective to minimize energy consumption. Previous works only study tasks or messages and didn't consider joint scheduling of these two aspects. Thus one of the contributions is their identify of such unstudies problem.
+- To study this untrackable problem, they decompose it into subproblems and try to plug in existing solutions for each subproblem. 
 
 ### Weaknesses
 - What are the drawbacks of the approach adopted in the paper? 
