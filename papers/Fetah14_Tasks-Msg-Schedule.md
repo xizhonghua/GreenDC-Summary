@@ -42,5 +42,5 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 - Joint scheduling of tasks and messages with other objectives in interference-aware real-time sensor networks, such as average delay, worst-case delay etc. e.g., Ref[11] considers the joint scheduling with the objective to maximize the number of clients that can be scheduled with limited processor capacity and link capacity; in this paper, the authors consider joint scheduling with the objective to minimize power consumption.
 - In this paper, the authors decompose the intractable problem into subproblems and then put efforts to solve each subproblems. Using same idea, maybe we can solve this problem with other decomposing manner, e.g., instead of decompose into three phases, maybe two phases or four phases. 
 - As the author mentioned in Ref[19], there are several models proposed for interference modeling. The authors pick up the model in Ref[19]. Maybe we can study the same problem under the other models.
-- Consider probabilistic work-load can be considered.
-- Combine with energy haversting enabled sensors.
+- Consider probabilistic work-load can be considered (from Arda).
+- Combine with energy haversting enabled sensors (from Arda).
