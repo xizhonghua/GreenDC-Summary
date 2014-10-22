@@ -29,6 +29,7 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 
 ### Questions
 - The authors mention that there are several models proposed for interfrence modeling, and they use the protocol model proposed in ref[19]. However the author fail to give any reasons or comments of why they stick with this model rather than others. 
+- It is not clear about the motivation of the decomposing the problem in this manner, i.e., why the proprosed approach is decomposed in these three phases? It would be better for the author to give an overview of the decomposition of the problem in the beginning of Section 5 before introduce each subproblem.
 
 ### Extensions
 - Any open and interesting research problems that you can identify after reading this paper? 
