@@ -19,7 +19,7 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 - Is there anything particularly attractive about the approach (e.g. strong analytical results or comprehensive experimental evaluation)? 
 - Any commendable aspects about the methodology?-->
 - As claimed by the author, this paper studies a new problem that has not been studied in the field of scheduling in inference-aware wireless sensor network with the objective to minimize energy consumption. Previous works only study tasks or messages and didn't consider joint scheduling of these two aspects. Thus one of the contributions is their identification of such unstudied problem.
-- To study this untrackable problem, they decompose it into subproblems and try to plug in existing solutions for each subproblem. 
+- To study this untrackable problem, they decompose it into subproblems and try to plug in existing solutions for each subproblem. This is one of the good ways to study untractable problem.
 - In the simulation, the performance is evaluated under various settings, i.e., various slack factor, various node number, various packet size and various inter-node distance, various clsuter size, computation ccles. Also both the job makespan and energy consumption are evaluated. 
 
 ### Weaknesses & Questions
@@ -39,3 +39,4 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 <!--- Any open and interesting research problems that you can identify after reading this paper? 
 - Can you propose any extensions to this work? If so, how?-->
 - Joint scheduling of tasks and messages with other objectives in interference-aware real-time sensor networks, such as average delay, worst-case delay etc. e.g., Ref[11] considers the joint scheduling with the objective to maximize the number of clients that can be scheduled with limited processor capacity and link capacity; in this paper, the authors consider joint scheduling with the objective to minimize power consumption.
+- In this paper, the authors decompose the untrable problem into subproblems and then put efforts to solve each subproblems. Howevr maybe we can solve this problem with other decomposing manner, e.g., instead of decompose into three phases, maybe two pahses or four phases. 
