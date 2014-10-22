@@ -1,6 +1,8 @@
 Paper Summary
 ---
 
+- [Template](./papers/template.md)
+
 ### Centralized Data Center
 
 ### Distributed Data Center
