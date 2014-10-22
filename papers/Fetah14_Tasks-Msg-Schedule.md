@@ -19,14 +19,15 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 - Any commendable aspects about the methodology?-->
 - As claimed by the author, this paper studies a new problem that has not been studied in the field of scheduling in inference network with the obkective to minimize energy consumption. Previous works only study tasks or messages and didn't consider joint scheduling of these two aspects. Thus one of the contributions is their identify of such unstudies problem.
 - To study this untrackable problem, they decompose it into subproblems and try to plug in existing solutions for each subproblem. 
-- In the simulation, the performance is evaluated under various settings, i.e., various slack factor, various node number, various packet size and various inter-node distance, various clsuter size, computation ccles, 
+- In the simulation, the performance is evaluated under various settings, i.e., various slack factor, various node number, various packet size and various inter-node distance, various clsuter size, computation ccles. Also both the job makespan and energy consumption are evaluated. 
 
 ### Weaknesses
-- What are the drawbacks of the approach adopted in the paper? 
+<!-- - What are the drawbacks of the approach adopted in the paper? 
 - Any flaws in the technical content? 
 - Problems with the simulation methodology? 
 - Any exaggerated claims not supported by simulations or technical findings? 
-- Are the comparisons made against other solutions proposed in the same area?
+- Are the comparisons made against other solutions proposed in the same area?-->
+- In fig 11, it is not explained why the makespan has minimum value when the cluster size is 5. 
 
 ### Questions
 - The authors mention that there are several models proposed for interfrence modeling, and they use the protocol model proposed in ref[19]. However the author fail to give any reasons or comments of why they stick with this model rather than others. 
