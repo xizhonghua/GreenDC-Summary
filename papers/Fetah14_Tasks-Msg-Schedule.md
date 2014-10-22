@@ -1,4 +1,4 @@
-## [Joint Scheduling of Tasks and Messages for Energy Minimization in Interference-aware Real-time Sensor Networks]()
+## [Joint Scheduling of Tasks and Messages for Energy Minimization in Interference-aware Real-time Sensor Networks](http://www.computer.org/csdl/trans/tm/preprint/06547140.pdf)
 
 
 ### Summary
