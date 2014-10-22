@@ -34,5 +34,6 @@ Please do not copy sentences from the paper (or abstract), use your own words to
 - It is not clear about the motivation of the decomposing the problem in this manner, i.e., why the proprosed approach is decomposed in these three phases? It would be better for the author to give an overview of the decomposition of the problem in the beginning of Section 5 before introduce each subproblem.
 
 ### Extensions
-- Any open and interesting research problems that you can identify after reading this paper? 
-- Can you propose any extensions to this work? If so, how?
+<!--- Any open and interesting research problems that you can identify after reading this paper? 
+- Can you propose any extensions to this work? If so, how?-->
+- Joint scheduling of tasks and messages with other objectives, such as average delay, worst-case delay etc. e.g., Ref[11] considers the joint scheduling with the objective to maximize the number of clients that can be scheduled with limited processor capacity and link capacity; in this paper, the authors consider joint scheduling with the objective to minimize power consumption.
