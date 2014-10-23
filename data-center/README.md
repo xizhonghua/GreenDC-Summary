@@ -4,7 +4,7 @@ Data Center
 ### Introduction
 - [DC definition](./file/datacenter-intro.md), [Taxonomy](./file/taxonomy.md)
 - [DC in real life](./file/exampleDC.md)
-- [Challenge](./file/challenge.md)
+- [Power Management Challenge](./file/challenge.md)
 
 ### Workload
 - [Workloads](./file/workloads.md)
