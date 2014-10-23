@@ -1,3 +1,4 @@
+## Bib Format
 
 ### Format
 - Naming: [last name of first author][first letter of last name of each other authors][publish year]
