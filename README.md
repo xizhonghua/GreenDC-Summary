@@ -4,8 +4,8 @@ Green Data Center
 
 
 ### Intro
-- [Power Concern](./PowerConcern.md)
-- [Data Center Intro](./data-center)
+- [Motivation: Power Concern](./PowerConcern.md)
+- [Green Data Center Overview](./data-center)
 
 ### Current Research
 - [Paper Summary](./paper-summary.md)
