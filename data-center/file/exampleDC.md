@@ -6,7 +6,8 @@
 
 
 ### Cost of building green data center
-- The technology's captical costs continue to decrease (e.g., the cost of solar energy decreased by 7-fold in the last two decades [[SolarBuzz]](http://www.solarbuzz.com/)
+- The technology's captical costs continue to decrease (e.g., the cost of solar energy decreased by 7-fold in the last two decades [[SolarBuzz]](http://www.solarbuzz.com/).
+- Govenment continue to provide incentive for green powe generation and use (e.g., federal and state incentives in New Jersey can reduce capital cost by 60% [[DSIRE]](http://www.dsireusa.org/)
 
 
 ### Power management trend
