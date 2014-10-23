@@ -5,3 +5,4 @@ Since the challenge of green energy is due to their uncertainty, i.e., it is alw
 
 
 ### Reasons of not using battery
+The approach of banking green energy in batteries or on the grid itself have many problem[[GreenHadoop-2012]](../papers/GoiriL12_GreenHadoop.md)
