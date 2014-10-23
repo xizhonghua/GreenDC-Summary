@@ -7,8 +7,7 @@ Power Concern
 - According to Dr. Eric Schmidt, ECO of Google, "what matters most to the computer designer at Google is not speed, but power, low power, because data centers can consume as much electricity as a city [[Markoff-2009]](https://github.com/hxwang/GreenDC-Summary/blob/master/MarkoffL02_Intel's-Huge-Bet-Turns-Iffy.md)."
 - Esimates for 2010 indicate that collectively datacenters consume around 1.5% of the total electricity used world-wide [Koomey-2011](http://www.analyticspress.com/datacenters.html).
 
-
-### Energy concern
+### Environmental concern
 - The high electricity cost translates into high carbon emissions as most of this eletricity comes from fossile fuels. 
 
 ### Trend
