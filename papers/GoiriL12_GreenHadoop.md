@@ -24,6 +24,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
  - jobs have bounded delay, job energy requirement is estimated using historical data
  - brown energy price are dynamic
  - green energy can be predicted 
+ 
 ### Strongness
 
 ### Weakness
