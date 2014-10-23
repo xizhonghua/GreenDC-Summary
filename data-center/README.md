@@ -2,7 +2,7 @@ Data Center
 ---
 
 ### Introduction
-- [DC definition](./file/datacenter-intro.md), [Taxonomy](./file/taxonomy.md)
+- [DC definition](./file/datacenter-intro.md), [Taxonomy](./file/taxonomy.md), [Architecture](./file/arch.md)
 - [DC in real life](./file/exampleDC.md)
 - [Power Management Challenge](./file/challenge.md)
 
