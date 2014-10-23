@@ -26,11 +26,16 @@ In this paper, the authors investigate how to manage a datacenter's computationa
  - brown energy price are dynamic
  - green energy can be predicted 
  
-### Simulation Settings
-- green energy: scaled-down version of an existing Rutgers solar farm
-- brown energy price: the dynamic brown energy price and peak brown power charges are from a power company in New Jersey
-- green data center: 16-server cluster
-- workloads: 2 realistic workloads
+### Simulation 
+- Settings
+ - green energy: scaled-down version of an existing Rutgers solar farm
+ - brown energy price: the dynamic brown energy price and peak brown power charges are from a power company in New Jersey
+ - green data center: 16-server cluster
+ - workloads: 2 realistic workloads
+- Comparison
+ - compare with standard hadoop
+- Explore other effects?
+ - check if they measure the case when the prediction is not accurate
 
 ### Strongness
 
