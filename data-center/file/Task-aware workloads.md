@@ -1,7 +1,7 @@
-## Workload Types
+## Task-aware workloads
 
 
-### Task-aware workloads
+
 - Ref: [[Dogar-2014]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
 - Today's dat center applications perform rich and complex tassks, such as answering a search query or building a user's social news-feed.
 - These tasks involve hundreds and thousands of components, all of which need to finish before a tasks is considered complete.
