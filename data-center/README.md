@@ -2,8 +2,8 @@ Data Center
 ---
 
 ### Introduction
-- [Taxonomy](./file/taxonomy.md)
-- [DC definition](./file/datacenter-intro.md)
+- [DC definition](./file/datacenter-intro.md), [Taxonomy](./file/taxonomy.md)
+- [DC in real life](./file/exampleDC.md)
 - [Challenge](./file/challenge.md)
 
 ### Workload
