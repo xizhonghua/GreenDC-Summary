@@ -2,7 +2,6 @@
 
 - Ref: [[Goiri-2012]](../../papers/GoiriL12_GreenHadoop.md)
 
-- MapReduce Framework [[Jeff Dean-2004]](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf) and its Hadoop implementation [[Apache]](http://hadoop.apache.org/) 
 
 ### MapReduce
 MapReduce is a framework for processing large data sets on server clsuters [[Jeff Dean-2004]](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf). 
