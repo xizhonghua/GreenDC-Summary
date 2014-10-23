@@ -8,7 +8,7 @@ Data Center
 
 ### Configuration
 - [Battery](./file/battery.md)
-- [Self Generation](./file/selfGeneration.md)
+- [PowerLocation: SelfGeneration v.s. Colocation](./file/selfGeneration.md)
 
 ### Workload
 - [Task-aware workloads](./file/Task-aware workloads.md)
