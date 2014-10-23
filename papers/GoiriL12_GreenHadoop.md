@@ -14,6 +14,7 @@
 ```
 
 ### Summary 
+In this paper, the author investigate how to manage a datacenter's computational workload to match the green energy supply. They propose a MapReduce framework GreenHadoop for a datacenter powered by a photovoltaic solar array and electrical grid(as back up). Their objective is schedule the MapReduce jobs to maximize the green energy consumption within jobs' time bounds. The experimental results demonstrate that their proposed mechanism could increase green energy consumption and decrease electricity cost, compared to Hadoop.
 
 ### Model
 
