@@ -7,7 +7,7 @@ Data Center
 - [Power Management Challenge](./file/challenge.md)
 
 ### Configuration
-- [Battery](./battery.md)
+- [Battery](./file/battery.md)
 
 ### Workload
 - [Workloads](./file/workloads.md)
