@@ -10,7 +10,7 @@ Data Center
 - [Battery](./file/battery.md)
 
 ### Workload
-- [Workloads](./file/workloads.md)
+- [Task-aware workloads](./file/Task-aware workloads.md)
 
 ### Utilization
 - [CPU utilization](./file/CPU-utilization.md)
