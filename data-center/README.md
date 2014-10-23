@@ -6,6 +6,9 @@ Data Center
 - [DC in real life](./file/exampleDC.md)
 - [Power Management Challenge](./file/challenge.md)
 
+### Configuration
+- [Battery])(./battery.md)
+
 ### Workload
 - [Workloads](./file/workloads.md)
 
