@@ -6,6 +6,8 @@
 
 
 ### Cost of building green data center
+- The technology's captical costs continue to decrease (e.g., the cost of solar energy decreased by 7-fold in the last two decades [[SolarBuzz]](http://www.solarbuzz.com/)
+
 
 ### Power management trend
 - Large Internet companies (e.g., Google and Microsoft) have significantly improved the energy efficiency of their multimegawatt datacenters. Howerver, the majority of the energy consumed by datacenters is actually due to countless small and medium-sized ones [[USEPA-2007]](http://hightech.lbl.gov/documents/data_centers/epa-datacenters.pdf). 
