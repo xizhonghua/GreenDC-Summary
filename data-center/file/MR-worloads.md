@@ -5,7 +5,7 @@
 
 
 ### Data-processing frameworks
-- Bounded-delay
+- Characteristic: Bounded-delay
   - they are popular and often run many low-priority batch processing jobs, such as background log analysis, that do ot have strict completion time requirements
   - they can be deplayed by a bounded amount of time
 - Challenge
