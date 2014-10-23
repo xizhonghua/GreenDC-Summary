@@ -3,7 +3,8 @@ Data Center
 
 ### Introduction
 - [Taxonomy](./file/taxonomy.md)
-- [DC characteristic](./file/datacenter-intro.md)
+- [DC definition](./file/datacenter-intro.md)
+- [Challenge](./file/challenge.md)
 
 ### Workload
 - [Workloads](./file/workloads.md)
