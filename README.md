@@ -24,3 +24,7 @@ Green Data Center
 ### Readings
 - [To Read](https://github.com/hxwang/GreenDC-Summary/blob/master/ToRead-List.md)
 - [Done-List](https://github.com/hxwang/GreenDC-Summary/blob/master/done-list.md)
+
+### Standards
+- [Paper Summary Template](./papers/template.md)
+- [Bib Standards](./papers/bibFormat.md)
