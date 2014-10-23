@@ -9,7 +9,7 @@ Data Center
 ### Configuration
 - [Battery](./file/battery.md)
 - [PowerLocation: SelfGeneration v.s. Colocation](./file/powerLocation.md)
-- [Energy Price](./file/energyPrice.md)
+- [Dynamic Energy Price](./file/energyPrice.md)
 - [Energy Capping](./file/energyCapping.md)
 
 ### Workload
