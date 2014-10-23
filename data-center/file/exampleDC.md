@@ -3,3 +3,8 @@
 ### Green Data Centers
 Datacenters partially or completely powered by renewables such as solar or wind energy. These datacenters will either generate their own renewable energy(**self-generation**) or draw it directly from an existing nearby plant(co-location). For example
   - Apple and McGraw-Hill have built large solar arrays for their datacenters, whereas Green House Data is a small cloud provider that operates entirely on renewables. [[Goiri-2013]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/GoiriIK13_Designing-and-Managing-Datacenters-Powered-by-Renewable-Energy.md)
+
+
+
+### Power Management Trend
+- Large Internet companies (e.g., Google and Microsoft) have significantly improved the energy efficiency of their multimegawatt datacenters. Howerver, the majority of the energy consumed by datacenters is actually due to countless small and medium-sized ones [[USEPA-2007]](http://hightech.lbl.gov/documents/data_centers/epa-datacenters.pdf). 
