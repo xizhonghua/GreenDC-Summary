@@ -6,7 +6,7 @@
 
 ### Data-processing frameworks
 - Characteristic: Bounded-delay
-  - they are popular and often run many low-priority batch processing jobs, such as background log analysis, that do ot have strict completion time requirements
+  - they are popular and often run many low-priority batch processing jobs, such as background log analysis, that **do not have strict completion time requirements**
   - they can be deplayed by a bounded amount of time
 - Challenge
   - Scheduling the energy consumption of MapReduce jobs is challenging, because they do not specify the number of servers to use, their tun times, or their energy needs.
