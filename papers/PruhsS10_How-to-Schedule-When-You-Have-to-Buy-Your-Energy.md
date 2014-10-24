@@ -18,7 +18,7 @@
 
 
 ### Summary
-This paper investigates how to maximize profits in a data center which consisting of speed-scalable processors. The revenue of a job is a function of how long the job is delayed. Each unit of energy has a fix cost. They give a (1+\epsilon) )O(1)-competitive algorithm, and show that resource augmentation is necessary to achieve O(1)-competitive. 
+This paper investigates how to maximize profits in a data center which consisting of speed-scalable processors. The revenue of a job is a function of how long the job is delayed. Each unit of energy has a fix cost. They give a (1+&epsilon;) )O(1)-competitive algorithm, and show that resource augmentation is necessary to achieve O(1)-competitive. 
 
 ### Model
 - Machine: identical speed-scalable processors.
@@ -28,6 +28,6 @@ This paper investigates how to maximize profits in a data center which consistin
 - Preemption: allowed
 - Migration: allowed
 - Objective: maximize profits, by determine which jobs to run on which processors, and at what speed to run the processors.
-- &beta
+
 
 
