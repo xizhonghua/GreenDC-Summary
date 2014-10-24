@@ -41,5 +41,6 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 
 ### Weakness
 
+
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
