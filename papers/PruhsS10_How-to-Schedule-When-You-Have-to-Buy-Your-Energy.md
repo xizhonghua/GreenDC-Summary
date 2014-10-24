@@ -1,17 +1,18 @@
 ## [How to Schedule When you Have to Buy Your Energy](http://link.springer.com/chapter/10.1007%2F978-3-642-15369-3_27#page-1)
 
 
-- Status: haven't finished.
+- Status: ing 10/24/2014
 - bib
 ```
-@article{
-	author={Pruhs, Kirk and Stein, Cliff},
-	title={How to Schedule When You Have to Buy Your Energy},
-	booktitle={Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques},
-	year={2010},
-    volume={6302},
-	series={Lecture Notes in Computer Science},
-	pages={352-365}
+@ARTICLE{PruhsS10,
+    AUTHOR={Pruhs, Kirk and Stein, Cliff},
+    TITLE={How to Schedule When You Have to Buy Your Energy},
+    BOOKTITLE={Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques},
+    YEAR={2010},
+    VOLUME={6302},
+    SERIES={Lecture Notes in Computer Science},
+    PAGES={352-365},
+    NUMPAGES = {14}
 }
 ```
 
