@@ -13,3 +13,6 @@
 ### Objective
 - [Minimize Cost](./file/minCost.md)
 
+
+### Related works
+- [Ralated works](./relatedWorks.md)
