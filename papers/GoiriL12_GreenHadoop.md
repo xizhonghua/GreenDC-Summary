@@ -42,6 +42,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 ### Weakness
 - It is not clear how the exact time of bounded delay is set, the author mentioned that in their experiment, they set the bounded delay as one day, but why not use other length?
 - It is not clear why their proposed mechanism only delays the scheduling of jobs with relative lower priority (normal, low and very low), but not the jobs with very high and high priority.
+- The author argued that it is advantagerous to move idle servers to down state with the cost of replicating the data blocks in the moved servers. One argument is that the replication of a data block is cheaper than the power consumption. But I think it may not always be the case, it will also depend on the size of the data blocks.
 
 ### Questions
 - What is the cost of replicating data from servers that are to be set to down sate?
@@ -51,6 +52,8 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - In algorithm pseudocode line 18, why reject jobs if some of the jobs in the waiting queue is not assigned any energy? We know that when there are still remaining jobs in the waiting queue not assiged energy, then it means the system is overloaded. But how long is the scheduled horizon, i.e., what size is the schedule window?
 - In algorithm pseudocode line 3, how to set the latest start time?
 - What's the length of the scheduling horizon?
+
+
 
 ### Solved questions
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
