@@ -22,12 +22,12 @@ This paper investigates how to maximize profits in a data center which consistin
 
 ### Model
 - **Machine**: identical speed-scalable processors.
-- **Profits**: 
+    - power function P(s): specifies the power when a processor is run at speed s.
 - **Energy**: has fixed cost.
 - **Job**: 
     - has released time r<sub>i</sub>
     - known size w<sub>i</sub>
-    - known revenue function:lost as a function of how long the job is **delayed**, i.e., the revenue of finishing a job is denoted as I(t), which specifies the revenue that is obtained if the job is finished at time t.
+    - known revenue function:lost as a function of how long the job is **delayed**, i.e., the revenue of finishing a job is denoted as I<sub>i</sub>(t), which specifies the revenue that is obtained if the job is finished at time t.
     - Preemption: allowed
     - Migration: allowed
 - **Objective**: maximize profits, by determine which jobs to run on which processors, and at what speed to run the processors.
