@@ -45,6 +45,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 
 ### Questions
 - What is the cost of replicating data from servers that are to be set to down sate?
+- The estimation is in scale of groups of jobs rather than a single job, why?
 
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
