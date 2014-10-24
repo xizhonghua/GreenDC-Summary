@@ -47,7 +47,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - What is the cost of replicating data from servers that are to be set to down sate?
 - The estimation is in scale of groups of jobs rather than a single job, why?
 - what's the transmission energy cost?
-- when algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
+- In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
 
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
