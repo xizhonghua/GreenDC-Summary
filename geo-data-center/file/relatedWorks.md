@@ -1,5 +1,7 @@
 ## Related Works
 
+- Ref: [Rahman-14](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
+
 ### Archive by Objectives
 - total energy cost minimization
 - bandwidth cost minimization
@@ -24,3 +26,6 @@
 - simulated annealing
 - smart scheduling
 - heuristics
+
+### TODO
+- 10/24/2014: add the related works in each categories from paper [Rahman-14](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
