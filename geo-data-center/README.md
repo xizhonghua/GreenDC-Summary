@@ -15,4 +15,4 @@
 
 
 ### Related works
-- [Ralated works](./relatedWorks.md)
+- [Ralated works](./file/relatedWorks.md)
