@@ -5,6 +5,10 @@
 - Many small and dedium datacenters(partically or completely) powered by solar and/or wind energy are being built all over the world [[Green-webhost]](http://www.ecobusinesslinks.com/green_webhosts/). 
 
 
+### Data center size
+- Smaller compnanies/insttutes possess in-hour data centers that are usually built within large data commercial buildings. Bigger companies usually build their data centers on(possibly remote) independent building infrastructure that can be up to several hundred thousand square feet in size and solely dedicated for hosting computing peripherals.
+- Moreover, large companies may contain tens or even hundreds of data centers. 
+
 ### Cost of building green data center
 trend: keep reducing
 - The technology's captical costs continue to decrease (e.g., the cost of solar energy decreased by 7-fold in the last two decades [[SolarBuzz]](http://www.solarbuzz.com/).
