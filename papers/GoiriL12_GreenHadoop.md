@@ -48,6 +48,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - The estimation is in scale of groups of jobs rather than a single job, why?
 - what's the transmission energy cost?
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
+- what's the cost of copying data from transmissioned cost?
 
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
