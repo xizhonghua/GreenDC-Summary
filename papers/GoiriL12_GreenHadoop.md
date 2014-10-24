@@ -49,6 +49,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - what's the transmission energy cost?
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
 - what's the cost of copying data from transmissioned cost?
+- In algorithm pseudocode line 18, why reject jobs if some of the jobs in the waiting queue is not assigned any energy?
 
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
