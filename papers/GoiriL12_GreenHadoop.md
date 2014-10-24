@@ -40,6 +40,8 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 ### Strongness
 
 ### Weakness
+- It is not clear how the exact time of bounded delay is set, the author mentioned that in their experiment, they set the bounded delay as one day, but why not use other length?
+- It is not clear why their proposed mechanism only delay the scheduling of jobs with relative lower priority (normal, low and very low)
 
 
 ### Extension
