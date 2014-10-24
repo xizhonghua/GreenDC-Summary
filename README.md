@@ -4,27 +4,26 @@ Green Data Center
 
 
 ### Intro
-- [Motivation: Power Concern](./PowerConcern.md)
 - [Green Data Center Overview](./data-center)
 - [Geographic Data Center](./geo-data-center)
 
 ### Current Research
-- [Paper Summary](./paper-summary.md)
+- [Paper Summary](./file/paper-summary.md)
 - [Research Branches](https://github.com/hxwang/GreenDC-Summary/blob/master/Research-Branches.md)
 - [Peers](./peers.md)
 
 ### Resource
-- [Traces](https://github.com/hxwang/GreenDC-Summary/tree/master/traces)
-- [Tools](https://github.com/hxwang/GreenDC-Summary/tree/master/tools)
-- [Sample Papers(writing)](https://github.com/hxwang/GreenDC-Summary/blob/master/SamplePaper.md)
+- [Traces](./traces)
+- [Tools](./tools)
+- [Sample Papers(writing)](./file/SamplePaper.md)
 
 ### Background
-- [Basic Knowledge of Power](https://github.com/hxwang/GreenDC-Summary/tree/master/basic)
-- [Algorithms](https://github.com/hxwang/GreenDC-Summary/tree/master/algorithms)
+- [Basic Knowledge of Power](./basic)
+- [Algorithms](./algorithms)
 
 ### Readings
-- [To Read](https://github.com/hxwang/GreenDC-Summary/blob/master/ToRead-List.md)
-- [Done-List](https://github.com/hxwang/GreenDC-Summary/blob/master/done-list.md)
+- [To Read](./file/ToRead-List.md)
+- [Done-List](./file/done-list.md)
 
 ### Standards
 - [Paper Summary Template](./papers/template.md)
