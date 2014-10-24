@@ -1,5 +1,6 @@
 ## Geographic Load Balancing Examples
 
+`why they need distributed data centers?`
 
 
 ### Internet service providers
