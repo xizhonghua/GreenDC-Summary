@@ -56,3 +56,4 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
+- Investigate the tuning of power to tradeoff peak-power cost(using more energy at night) and expensive daytime brown energy cost.
