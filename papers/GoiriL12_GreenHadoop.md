@@ -59,7 +59,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
  - when transition active -> decommissioned: select the one with fewest data blocks
 - How to set the internal deadline of jobs?
- - it is assumed that the the job has bounded delay.
+ - it is assumed all non-high-priority jobs have the same bounded delay.
 
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
