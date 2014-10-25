@@ -33,4 +33,6 @@ This paper investigates how to maximize profits in a data center which consistin
 - **Objective**: maximize profits, by determine which jobs to run on which processors, and at what speed to run the processors.
 
 
+### Question
+- For the job settings, it seems there is no deadline, we only have the revenue function  I<sub>i</sub>(t) which has value 0 when t approximates infinity.
 
