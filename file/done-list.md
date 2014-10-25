@@ -5,7 +5,7 @@ Done List
 
 
 
-### 
+### Data Center: Minimize Power Consumption
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 |[Scheduling a Large DataCenter](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf), by *Cliff Stein*, 2012, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/Stein12_Scheduling-a-DataCenter.md)| Fei| 10/05/2014 |***|
