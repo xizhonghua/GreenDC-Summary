@@ -1,7 +1,7 @@
 [Scheduling a Large DataCenter](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf)
 ----
 
-- Status: finished.
+- Status: finished on 10/05/2014
 - by [Cliff Stein](http://www.columbia.edu/~cs2035/)
 
 
