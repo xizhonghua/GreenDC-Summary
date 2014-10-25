@@ -52,12 +52,14 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - In algorithm pseudocode line 18, why reject jobs if some of the jobs in the waiting queue is not assigned any energy? We know that when there are still remaining jobs in the waiting queue not assiged energy, then it means the system is overloaded. But how long is the scheduled horizon, i.e., what size is the schedule window?
 - In algorithm pseudocode line 3, how to set the latest start time?
 - What's the length of the scheduling horizon?
-
+- what's the length of the bounded delay?
 
 
 ### Solved questions
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
  - when transition active -> decommissioned: select the one with fewest data blocks
+- How to set the internal deadline of jobs?
+ - it is assumed that the the job has bounded delay.
 
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
