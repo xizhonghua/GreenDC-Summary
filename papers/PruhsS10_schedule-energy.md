@@ -45,4 +45,4 @@ This paper investigates how to maximize profits in a data center which consistin
 
 ### TODO
 - reading section 4.2-4.4
-- ref[21] introduces how to convert an optimal algorithm to a non-migrationary algorithm by increasing the number of processors by 6 times
+- ref[21] [[Kalyanasundaram-2000]](http://www.sciencedirect.com/science/article/pii/S0196677400911283) introduces how to convert an optimal algorithm to a non-migrationary algorithm by increasing the number of processors by 6 times
