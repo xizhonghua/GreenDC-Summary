@@ -36,6 +36,8 @@ This paper investigates how to maximize profits in a data center which consistin
 ### Question
 - For the job settings, it seems there is no deadline, we only have the revenue function  I<sub>i</sub>(t) which has value 0 when t approximates infinity.
 
+### Comments
+- Since for each job the revenue function I<sub>i</sub>(t) is irrelavant to the size of the job, thus this scheduling problem is equivalent to weighted jobs scheduling.
 
 ### Minor error
 - In page 356, "integrated over all the times ~~the~~ that job is run"
