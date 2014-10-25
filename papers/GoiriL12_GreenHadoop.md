@@ -1,6 +1,6 @@
 ## [GreenHadoop: Leveraging Green Energy in Data-Processing Frameworks](http://dl.acm.org/citation.cfm?id=2168843)
 
-- reading status: haven't started
+- reading status: ing 10/25/2014
 - bib
 ```
 @INPROCEEDINGS{GoiriLNGTB12,
