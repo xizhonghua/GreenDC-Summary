@@ -60,6 +60,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - check what if the utilization is larger than 56%
 - check what if the prediction is not accurate
 - check the portion of jobs that are rejected by different mechanisms
+- why not simulate with different job arrival patterns?
 
 ### Solved questions
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
