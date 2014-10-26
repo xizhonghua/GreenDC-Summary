@@ -63,6 +63,10 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - check the portion of jobs that are rejected by different mechanisms
 - why not simulate with different job arrival patterns?
 
+
+### Merits
+- The design of the experiments. If they only compare the full version with Hadoop, then they may not be able to understand how many energy saving comes from each factor. However, by studying several variance of the designed mechanism GreenHadoop, the authors present very clear where the energy saving comes from and how each heuristics used in the designed mechanism make contribution. 
+
 ### Solved questions
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
  - when transition active -> decommissioned: select the one with fewest data blocks
