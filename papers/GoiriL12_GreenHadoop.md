@@ -54,7 +54,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - In algorithm pseudocode line 3, how to set the latest start time?
 - What's the length of the scheduling horizon?
 - what's the length of the bounded delay?
-
+- In the evaluation in Fig. 11 and 12, why not take into peak brown power charges into account?
 
 ### TODO
 - check the difference betweeen jobs priority are all set normal and mixed priority
