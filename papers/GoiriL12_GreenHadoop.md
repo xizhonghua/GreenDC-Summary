@@ -57,6 +57,8 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 
 ### TODO
 - check the difference betweeen jobs priority are all set normal and mixed priority
+- check what if the utilization is larger than 56%
+- check what if the prediction is not accurate
 
 
 ### Solved questions
