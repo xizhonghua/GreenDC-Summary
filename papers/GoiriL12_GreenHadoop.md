@@ -67,7 +67,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 ### Merits
 - The design of the experiments. If they only compare the full version with Hadoop, then they may not be able to understand how many energy saving comes from each factor. However, by studying several variance of the designed mechanism GreenHadoop, the authors present very clear where the energy saving comes from and how each heuristics used in the designed mechanism make contribution. 
 
-### Fault
+### Faults
 - It seems that the full version of GreenHadoop save less brown energy cost than the varaince GreenVarPrices. This result not make sense. The reason is because when compare Hadoop with GreenVarPrices, pick power consumption charge is neglected. The right approach is to also include the peak power consumption charge. 
 
 ### Solved questions
