@@ -46,10 +46,6 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 ### Questions
 - What is the cost of replicating data from servers that are to be set to down sate?
 - The estimation is in scale of groups of jobs rather than a single job, why?
-
-
-- What's the length of the scheduling horizon?
-- what's the length of the bounded delay?
 - In the evaluation in Fig. 11 and 12, why not take into peak brown power charges into account?
 
 ### TODO
