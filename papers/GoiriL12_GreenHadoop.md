@@ -69,7 +69,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 
 ### Faults
 - It seems that the full version of GreenHadoop save less brown energy cost than the varaince GreenVarPrices. This result not make sense. The reason is because when compare Hadoop with GreenVarPrices, pick power consumption charge is neglected. The right approach is to also include the peak power consumption charge. 
-- In Fig. 14, it is not make sense to compare the green energy consumption and brown energy cost in this case. Because the number of jobs executed by Hadoop and GreenHadoop could be different.
+- In Fig. 14, it is not make sense to compare the green energy consumption and brown energy cost in this case. Because the number of jobs executed by Hadoop and GreenHadoop could be different. When utilization is 92%, I am doubt that they can still violate no deadlines.
 
 ### Solved questions
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
