@@ -32,12 +32,8 @@ In this paper, the authors investigate how to manage a datacenter's computationa
  - brown energy price: the dynamic brown energy price and peak brown power charges are from a power company in New Jersey
  - green data center: 16-server cluster
  - workloads: 2 realistic workloads
-- Comparison
- - compare with standard hadoop
-- Explore other effects?
- - check if they measure the case when the prediction is not accurate
 
-### Strongness
+
 
 ### Weakness
 - It is not clear how the exact time of bounded delay is set, the author mentioned that in their experiment, they set the bounded delay as one day, but why not use other length?
