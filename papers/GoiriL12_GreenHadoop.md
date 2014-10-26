@@ -34,7 +34,6 @@ In this paper, the authors investigate how to manage a datacenter's computationa
  - workloads: 2 realistic workloads
 
 
-
 ### Weakness
 - It is not clear how the exact time of bounded delay is set, the author mentioned that in their experiment, they set the bounded delay as one day, but why not use other length?
  - In the simulation, the authors study the impact of setting different bounded delay 6 - 12 hours. And deadline violations occur but no very seriously.
@@ -50,6 +49,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - what's the transmission energy cost?
 - what's the cost of copying data from transmissioned cost?
 - In algorithm pseudocode line 18, why reject jobs if some of the jobs in the waiting queue is not assigned any energy? We know that when there are still remaining jobs in the waiting queue not assiged energy, then it means the system is overloaded. But how long is the scheduled horizon, i.e., what size is the schedule window?
+ - The scheduling horizon is set as 1 day.
 - In algorithm pseudocode line 3, how to set the latest start time?
 - What's the length of the scheduling horizon?
 - what's the length of the bounded delay?
