@@ -53,7 +53,11 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - In algorithm pseudocode line 3, how to set the latest start time?
 - What's the length of the scheduling horizon?
 - what's the length of the bounded delay?
-- In the simulation, the authors set the priority of all jobs are normal, does this make sense?
+
+
+### TODO
+- check the difference betweeen jobs priority are all set normal and mixed priority
+
 
 ### Solved questions
 - In algorithm pseudocode line 22,23,24, there are many servers can be tranmissioned, how to select which one to transmit?
