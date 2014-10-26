@@ -42,19 +42,14 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - It is not clear why their proposed mechanism only delays the scheduling of jobs with relative lower priority (normal, low and very low), but not the jobs with very high and high priority.
 - The author argued that it is advantagerous to move idle servers to down state with the cost of replicating the data blocks in the moved servers. One argument is that the replication of a data block is cheaper than the power consumption. But I think it may not always be the case, it will also depend on the size of the data blocks.
 - it is not cleary how to decide whether a job is about to miss its deadline?
+- check the portion of jobs that are rejected by different mechanisms
+- why not simulate with different job arrival patterns?
 
 ### Questions
 - What is the cost of replicating data from servers that are to be set to down sate?
 - The estimation is in scale of groups of jobs rather than a single job, why?
 - In the evaluation in Fig. 11 and 12, why not take into peak brown power charges into account?
 
-### TODO
-- check the difference betweeen jobs priority are all set normal and mixed priority
-- check what if the utilization is larger than 56%
-- check what if the prediction is not accurate
-- check the portion of jobs that are rejected by different mechanisms
-- why not simulate with different job arrival patterns?
-- check the time overhead.
 
 ### Merits
 - The design of the experiments. If they only compare the full version with Hadoop, then they may not be able to understand how many energy saving comes from each factor. However, by studying several variance of the designed mechanism GreenHadoop, the authors present very clear where the energy saving comes from and how each heuristics used in the designed mechanism make contribution. 
@@ -73,7 +68,9 @@ In this paper, the authors investigate how to manage a datacenter's computationa
  - The latest start time is set as 1 day.
 - In algorithm pseudocode line 18, why reject jobs if some of the jobs in the waiting queue is not assigned any energy? We know that when there are still remaining jobs in the waiting queue not assiged energy, then it means the system is overloaded. But how long is the scheduled horizon, i.e., what size is the schedule window?
  - The scheduling horizon is set as 1 day.
- 
+- check the difference betweeen jobs priority are all set normal and mixed priority
+- check what if the utilization is larger than 56%
+- check what if the prediction is not accurate
 ### Extension
 - Consider the same problem in a different version in which green energy is bank on battery or the grid itself.
 - Investigate the tuning of power to tradeoff peak-power cost(using more energy at night) and expensive daytime brown energy cost.
