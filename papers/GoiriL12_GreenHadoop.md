@@ -43,6 +43,7 @@ In this paper, the authors investigate how to manage a datacenter's computationa
 - It is not clear how the exact time of bounded delay is set, the author mentioned that in their experiment, they set the bounded delay as one day, but why not use other length?
  - In the simulation, the authors study the impact of setting different bounded delay 6 - 12 hours. And deadline violations occur but no very seriously.
  - The deadline violation occurs when the scheduler delay scheduling jobs to daytime to consume green energy, while some largers jobs come at daytime.
+ - But the bound they explore is still very limited. From Table 1, we can see that 59% of jobs may only need 1~4 minutes to complete. However, the mininum bounded delay studied is 6 hours.
 - It is not clear why their proposed mechanism only delays the scheduling of jobs with relative lower priority (normal, low and very low), but not the jobs with very high and high priority.
 - The author argued that it is advantagerous to move idle servers to down state with the cost of replicating the data blocks in the moved servers. One argument is that the replication of a data block is cheaper than the power consumption. But I think it may not always be the case, it will also depend on the size of the data blocks.
 - it is not cleary how to decide whether a job is about to miss its deadline?
