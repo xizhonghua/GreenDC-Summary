@@ -9,7 +9,7 @@ Done List
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 |[Scheduling a Large DataCenter](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf), by *Cliff Stein*, 2012, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/Stein12_Scheduling-a-DataCenter.md)| Fei| 10/05/2014 |***|
-|[GreenHadoop: Leveraging Green Energy in Data-Processing Frameworks](http://dl.acm.org/citation.cfm?id=2168843), by *Inigo Goiri et al*, in EuroSys 2012, [[Summary]](../papers/GoiriL12_GreenHadoop.md),[[PPT]](../file/GreenHadoop.pptx), [Video]() | Hakan | 10/25/2014|  ***|
+|[GreenHadoop: Leveraging Green Energy in Data-Processing Frameworks](http://dl.acm.org/citation.cfm?id=2168843), by *Inigo Goiri et al*, in EuroSys 2012, [[Summary]](../papers/GoiriL12_GreenHadoop.md),[[PPT]](../file/GreenHadoop.pptx), [[Video]]() | Hakan | 10/25/2014|  ***|
 
 
 
