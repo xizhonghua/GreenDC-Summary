@@ -10,5 +10,5 @@
 ##### * *Observation*: The centralized information may not always be available. Thus centralized solution is very difficult to select parameter values in real time.
   - e.g., The data centers may not owned by the same system, thus it is difficult to have the centeralized information.
   - e.g., The front-end elements, accepting client requests, are also geo-distributed and do not have a global view of the entire workload at the same time.
-##### * *Extenstion*: The most effective powre management should be **decentralized** in nature so that it can be implemented at the different parts of the network coordinating through asynchronous message passing.
+##### *Extenstion*: The most effective powre management should be **decentralized** in nature so that it can be implemented at the different parts of the network coordinating through asynchronous message passing.
 
