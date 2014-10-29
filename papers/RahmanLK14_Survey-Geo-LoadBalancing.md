@@ -14,13 +14,13 @@
 
 #### 1.2 Demand profile shaping
 - **Observation**: 
-- The amount of workload processed by data centers fluctuates rapidly over time.
-  - electricity prices: when the electricity price various hourly or daily in the deregulated electricity market the optimization sceme executed at the front end elements assigns more fluctuating workload (aligned with the price) to different data centers. 
-  - a typical Internet service fluctuates: e.g., popular Internet application Windows Live Messenger exhibits a fluctuation of about 40% of the peak load within a day.
-- It is always cost-effective for the data center to leave as many servers active as necessary. 
-  - However, due to the unpredictable fluctuation of workload, it is very difficult to predict the number of active servers needed at any time instance. 
-  - Workload fluctuation also increase the frequency of ON-OFF server transitions. Repeated on-off cycles cause more wear-and-tear of various components of the server such as disks or fans and incur associated costs for their procurement and replacement.
-  - Time and energy cost: bring a server from a server to ON state from OFF state.
+  - The amount of workload processed by data centers fluctuates rapidly over time.
+    - electricity prices: when the electricity price various hourly or daily in the deregulated electricity market the optimization sceme executed at the front end elements assigns more fluctuating workload (aligned with the price) to different data centers. 
+    - a typical Internet service fluctuates: e.g., popular Internet application Windows Live Messenger exhibits a fluctuation of about 40% of the peak load within a day.
+  - It is always cost-effective for the data center to leave as many servers active as necessary. 
+    - However, due to the unpredictable fluctuation of workload, it is very difficult to predict the number of active servers needed at any time instance. 
+    - Workload fluctuation also increase the frequency of ON-OFF server transitions. Repeated on-off cycles cause more wear-and-tear of various components of the server such as disks or fans and incur associated costs for their procurement and replacement.
+    - Time and energy cost: bring a server from a server to ON state from OFF state.
 - **Current State**: The power demand profile becomes full of short-lived high peaks which enforces smart grid to keep additional generating plants available in standby mode only to be used during these short periods.
 - **Extension**: 
   
