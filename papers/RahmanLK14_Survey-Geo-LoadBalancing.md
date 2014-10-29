@@ -6,6 +6,7 @@
 
 ### 1. Extension
 #### 1.1 Decentralized nature
+
 - **Current state**: most of the research assume that their proposed GLB solution is executed entrally as if all the necessary information can be collected in a single point.
 - **Observation**: The centralized information may not always be available. Thus centralized solution is very difficult to select parameter values in real time.
   - e.g., The data centers may not owned by the same system, thus it is difficult to have the centeralized information.
