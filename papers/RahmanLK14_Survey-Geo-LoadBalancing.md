@@ -12,3 +12,7 @@
   - e.g., The front-end elements, accepting client requests, are also geo-distributed and do not have a global view of the entire workload at the same time.
 - **Extenstion**: The most effective powre management should be **decentralized** in nature so that it can be implemented at the different parts of the network coordinating through asynchronous message passing.
 
+#### 1.2 Demand profile shaping
+- **Observation**: The amount of workload processed by data centers fluctuates rapidly over time.
+  - electricity prices: when the electricity price various hourly or daily in the deregulated electricity market the optimization sceme executed at the front end elements assigns more fluctuating workload (aligned with the price) to different data centers. 
+  - a typical Internet service fluctuates: e.g., popular Internet application Windows Live Messenger exhibits a fluctuation of about 40% of the peak load within a day.
