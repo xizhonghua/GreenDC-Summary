@@ -1,6 +1,6 @@
 ## [Competitive online scheduling for server systems](http://dl.acm.org/citation.cfm?id=1243411)
 
-- reading status: haven't started
+- reading status: ing 11/1/2014
 - bib
 ```
 @ARTICLE{Pruhs07,
@@ -14,3 +14,15 @@
  NUMPAGES = {7}
 } 
 ```
+
+### Summary
+
+
+### Model
+- Server
+ - speed s
+- Job J<sub>i</sub>
+ - release time r<sub>i</sub>
+ - work p<sub>i</sub>
+ - completition time C<sub>i</sub>
+ 
