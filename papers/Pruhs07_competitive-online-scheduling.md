@@ -25,5 +25,9 @@
  - release time r<sub>i</sub>
  - work p<sub>i</sub>, thus processing time demand is p<sub>i</sub>/s
  - completition time C<sub>i</sub>
+ - preemption is allowed
+- Quality of Service(QoS) measures
+ - response of a job is: F<sub>i</sub> = C<sub>i</sub> - r<sub>i</sub>
+ - slowdown of a job is: S<sub>i</sub> = F<sub>i</sub>/p<sub>i</sub>
  
  
