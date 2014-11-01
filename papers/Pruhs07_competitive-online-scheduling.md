@@ -23,6 +23,7 @@
  - speed s
 - Job J<sub>i</sub>
  - release time r<sub>i</sub>
- - work p<sub>i</sub>
+ - work p<sub>i</sub>, thus processing time demand is p<sub>i</sub>/s
  - completition time C<sub>i</sub>
+ - 
  
