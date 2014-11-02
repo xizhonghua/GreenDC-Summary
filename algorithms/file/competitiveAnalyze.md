@@ -28,4 +28,6 @@
         - **Completion**: &Phi; does not increase when either the online algorithm or the adversary complete a job.
         - **Running**: For all times t when no job arrives or is completed A(t) - c*Opt(y) + d&Phi;(t)/dt &le; 0 
     - By the above conditions, and integrating the above equations, we have
-        - A(t) + \sum_(t<sub>i</sub>) &Delta;(&Phi;(t<sub>i</sub>)) &le; cOpt(I), and A(I) &le; cOpt(I)
+        - A(t) + \sum_(t<sub>i</sub>) &Delta;(&Phi;(t<sub>i</sub>)) &le; cOpt(I)
+        - By the job arrival and the completition condition, we have A(I) + &Phi(infinity) - &Phi;(0) &le; cOpt(I)
+        - and finally by the boundary condition, we have A(I) &le; cOpt(I)
