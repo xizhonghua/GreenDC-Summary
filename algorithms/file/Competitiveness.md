@@ -1,7 +1,7 @@
 Competitiveness
 ---
 
-### Definition
+- [definition](./competitiveDefine.md)
 
 
 ### Why use it
