@@ -43,6 +43,6 @@
     - The payoff of the game is then essentiallly the relative different between the QoS measurement of A's schedule and the QoS measure of the optimal schedule
 - **Local Competitive Argument**: one way to prove competitive ratio
  - Procedure
-  - Let A(t) be the increase of the QoS measure for algorithm A at time t for some understood input I
-    - e.g., If QoS measure was average response time, then A(t) is the number of jobs released but unfinished at time t
-    - e.g., If QoS measure was average slowdown, then A(t) is the number of jobs released but unfinished by A at time t divided by the aggregate workload of these jobs. `My comment: not very clear`
+   - Let A(t) be the increase of the QoS measure for algorithm A at time t for some understood input I
+      - e.g., If QoS measure was average response time, then A(t) is the number of jobs released but unfinished at time t
+      - e.g., If QoS measure was average slowdown, then A(t) is the number of jobs released but unfinished by A at time t divided by the aggregate workload of these jobs. `My comment: not very clear`
