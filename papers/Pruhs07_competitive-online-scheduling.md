@@ -33,8 +33,8 @@
  
  
 ### Technique
-- [**Competitive ratio**](../algorithms/file/Competitiveness.md)
-- [**Resource Augmentation**](../algorithms/file/resourceAug.md)
+- [Competitive ratio](../algorithms/file/Competitiveness.md)
+- [Resource Augmentation](../algorithms/file/resourceAug.md)
 - [Clairvoyant Online Algorithm](../algorithms/file/clairvoyant.md)
 
 
