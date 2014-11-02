@@ -1,5 +1,9 @@
 ## Resource Augmentation
 
+### Motivation
+- If some algorithms have bad worst-case performance, but they seem to perform reasonably well over a wide range of inputs, then resource augmentation may explain this phenomenon.
+- It is common for systems to posses the following informally defined **threshold property**
+
 ### Definition
 - (1+&epsilon;)-speed augmentation
   - it means if a processor can run at power P and speed s, then the online algorithm can run the processor at power p and speed (1+&epsilon;)s.
