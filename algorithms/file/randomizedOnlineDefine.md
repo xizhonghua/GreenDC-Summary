@@ -10,5 +10,4 @@
 - RMLF is &theta;(logn loglogn) against an adversary that at all times know the outcome of all the random events internal to RMLF up until that time. This accounts for the possibility of inouts where **future jobs may depend on the past schedule**.
 - RMLF is &theta;(logn)-competitive against an **oblivious adversary**.
 
-### Adversary v.s. Oblivious Adversary
-- Every randomized algorithm is &Omega;(logn)-competitive for average response 
+
