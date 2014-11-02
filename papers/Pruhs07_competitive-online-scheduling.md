@@ -34,7 +34,7 @@
  
 ### Technique
 - **Competitive ratio**
- - Define: max A(I)/Opt(I) &le; c, for any input instance I
+ - Define: *max A(I)/Opt(I) &le; c*, for any input instance I
     - A(I): the QoS measure of the schedule produced by algorithm A on input I
     - Opt(I) is the optimal QoS value
  - Explain: Since the competitive ratio is a worst-case concept, one generally thinks of the competitive ratio as the pay-off of a game played between the *online scheduling algorithm A* and the *adversary*
