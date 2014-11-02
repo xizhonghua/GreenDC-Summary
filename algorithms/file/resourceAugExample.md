@@ -15,3 +15,6 @@
 ### Example: HDF
 - Highest Density First(HDF)
 - [[Becchetti-2001]](http://link.springer.com/chapter/10.1007%2F3-540-44666-4_8#page-1) proves that HDF is (2+&epsilon;)-speed O(1) competitive.
+
+### Example: RR
+- [[Edmonds-2000]](http://dl.acm.org/citation.cfm?id=301299) proves that Round Robin(RR) is (2+&epsilon;)-speed O(1)-competitive. 
