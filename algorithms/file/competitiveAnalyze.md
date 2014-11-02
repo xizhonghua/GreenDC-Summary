@@ -23,4 +23,6 @@
     - Let A be an arbitrary online scheduling algorithm.
     - Let A(t) be the *rate* of increase of the objective at time t
     - The algorithm A is *amortized locally c-competitive* with *potential function* &Theta;(t) if the following two conditions hold:
+        - **Boundary**: &Theta; is initially 0, and finally nonnegative.
+        - **Job Arrival**: &Theta; does not increase when a new job arrives.
          
