@@ -60,3 +60,5 @@
 
 
 ### Shortest Elapsed Time First(SETF)
+- The competitive ratio of SETF in the number of jobs
+    - 
