@@ -31,3 +31,8 @@
         - A(t) + \sum_(t<sub>i</sub>) &Delta;(&Phi;(t<sub>i</sub>)) &le; cOpt(I)
         - By the job arrival and the completition condition, we have A(I) + &Phi;(infinity) - &Phi;(0) &le; cOpt(I)
         - and finally by the boundary condition, we have A(I) &le; cOpt(I)
+- Intuition
+    - One can think of the potential function &Phi; as a bank. 
+        - When A(t) &lt; cOpt(t), A is doing better than it needs to, and can save money in the bank
+        - When A(t) &gt; cOpt(t), A is oding worse than it can afford to, and thus must withdraw money from the bank to pay for this
+    - The condition above just imply that A cannot cheat the bank, for example, by not paying back money that it borrowed.
