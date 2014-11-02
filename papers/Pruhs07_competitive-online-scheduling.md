@@ -33,7 +33,7 @@
  
  
 ### Technique
-- Competitive ratio
+- **Competitive ratio**
  - Define: max A(I)/Opt(I) &le; c, for any input instance I
     - A(I): the QoS measure of the schedule produced by algorithm A on input I
     - Opt(I) is the optimal QoS value
