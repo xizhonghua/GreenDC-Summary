@@ -11,3 +11,16 @@
             - one needs to show that at all times, SPRT always has the least possible number of unfinished jobs
         - Example: SRPT is 2-competitive for average slowdown
             - one needs to show that at all times t, SPRT is at most twice optimal with respect to the objective of minimizing the number of unfinished jobs at time t divided by the work of these jobs
+
+
+### Method 2: Amortized Local Competitiveness
+- Ref: [[Pruhs-2007]](../../papers/Pruhs07_competitive-online-scheduling.md)
+- Exmaple
+    - [[Edmonds-2000]](http://dl.acm.org/citation.cfm?id=301299) proves that Round Robin(RR) is (2+&epsilon;)-speed O(1)-competitive. 
+- Motivation
+    - Since a local competitiveness argument cannot work here, we need to develop a new technique: amortized local competitiveness. 
+- Procedure
+    - Let A be an arbitrary online scheduling algorithm.
+    - Let A(t) be the *rate* of increase of the objective at time t
+    - The algorithm A is *amortized locally c-competitive* with *potential function* &Theta;(t) if the following two conditions hold:
+         
