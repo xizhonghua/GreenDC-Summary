@@ -54,5 +54,6 @@
    - one needs to show that at all times t, SPRT is at most twice optimal with respect to the objective of minimizing the number of unfinished jobs at time t divided by the work of these jobs
 
 ### Clairvoyant online algorithm
- - Definition：It requires knowledge of the jobs
-  - e.g., SPRT requires knowledge of the work of the jobs
+ - Definition: It requires knowledge of the jobs
+  - e.g., Clairvoyant： SPRT requires knowledge of the work of the jobs 
+  - e.g., NonClairvoyant: Shortest Elapsed Time First(SETF) runs the jobs that runs the least so far.
