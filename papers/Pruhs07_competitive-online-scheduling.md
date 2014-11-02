@@ -35,6 +35,8 @@
 ### Technique
 - [Competitive ratio](../algorithms/file/Competitiveness.md)
 - [Resource Augmentation](../algorithms/file/resourceAug.md)
+
+### Algorithm Types
 - [Clairvoyant Online Algorithm](../algorithms/file/clairvoyant.md)
 - [Randomized Online Algorithm](../algorithms/file/randomOnline.md)
 
