@@ -46,4 +46,4 @@
    - Let A(t) be the increase of the QoS measure for algorithm A at time t for some understood input I
       - e.g., If QoS measure was average response time, then A(t) is the number of jobs released but unfinished at time t
       - e.g., If QoS measure was average slowdown, then A(t) is the number of jobs released but unfinished by A at time t divided by the aggregate workload of these jobs. `My comment: not very clear`
-   - An algorithm A is locally c-competitive if for all inputs I, and all time t, it is the case that A(t) &le; c*Opt(t)
+    - An algorithm A is locally c-competitive if for all inputs I, and all time t, it is the case that A(t) &le; c*Opt(t)
