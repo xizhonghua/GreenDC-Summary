@@ -13,5 +13,5 @@
 
 
 ### Example: HDF
-Highest Density First(HDF)
+- Highest Density First(HDF)
 - [[Becchetti-2001]](http://link.springer.com/chapter/10.1007%2F3-540-44666-4_8#page-1) proves that HDF is (2+&epsilon;)-speed O(1) competitive.
