@@ -30,7 +30,7 @@
  - response of a job is: F<sub>i</sub> = C<sub>i</sub> - r<sub>i</sub>
  - slowdown of a job is: S<sub>i</sub> = F<sub>i</sub>/p<sub>i</sub>
   - e.g., a job with slowdown 2 behaves as though it was served by a dedicated speed 1/2 server.
- 
+- [Immediate Dispatch](../model/file/immediateDispatch.md)
  
 ### Technique
 - [Competitive ratio](../algorithms/file/Competitiveness.md)
