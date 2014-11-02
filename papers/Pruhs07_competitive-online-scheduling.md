@@ -36,7 +36,7 @@
 - [Competitive ratio](../algorithms/file/Competitiveness.md)
 - [Resource Augmentation](../algorithms/file/resourceAug.md)
 - [Clairvoyant Online Algorithm](../algorithms/file/clairvoyant.md)
-
+- [Randomized Online Algorithm](../algorithms/file/randomOnline.md)
 
 
 ### Shortest Elapsed Time First(SETF)
