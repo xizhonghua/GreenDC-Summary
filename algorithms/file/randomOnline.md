@@ -1,3 +1,3 @@
 ## Randomized Online Algorithm
 
-- [definition](./randomizedOnlineDefine.md)
+- [Definition](./randomizedOnlineDefine.md)
