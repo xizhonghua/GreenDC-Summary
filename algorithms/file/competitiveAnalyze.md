@@ -25,4 +25,5 @@
     - The algorithm A is *amortized locally c-competitive* with *potential function* &Phi;(t) if the following two conditions hold:
         - **Boundary**: &Phi; is initially 0, and finally nonnegative.
         - **Job Arrival**: &Phi; does not increase when a new job arrives.
-         
+        - **Completion**: &Phi; does not increase when either the online algorithm or the adversary complete a job.
+        - **Running**: For all times t when no job arrives or is completed A(t) - c*Opt(y) + d&Phi;(t)/dt &le; 0 
