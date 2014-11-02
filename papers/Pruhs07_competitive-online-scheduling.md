@@ -34,7 +34,7 @@
  
 ### Technique
 - **Competitive ratio**
- - Define: *max A(I)/Opt(I) &le; c*, for any input instance I
+ - Definition: *max A(I)/Opt(I) &le; c*, for any input instance I
     - A(I): the QoS measure of the schedule produced by algorithm A on input I
     - Opt(I) is the optimal QoS value
  - Explain: Since the competitive ratio is a worst-case concept, one generally thinks of the competitive ratio as the pay-off of a game played between the *online scheduling algorithm A* and the *adversary*
@@ -52,3 +52,7 @@
     - one needs to show that at all times, SPRT always has the least possible number of unfinished jobs
  - Example: SRPT is 2-competitive for average slowdown
    - one needs to show that at all times t, SPRT is at most twice optimal with respect to the objective of minimizing the number of unfinished jobs at time t divided by the work of these jobs
+
+### Clairvoyant online algorithm
+ - Definition：It requires knowledge of the jobs
+  - e.g., SPRT requires knowledge of the work of the jobs
