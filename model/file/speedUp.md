@@ -1,4 +1,4 @@
 ## Speed-up Function
 
 ### Definition
-- &Tau;
+- &Gamma;
