@@ -31,6 +31,7 @@
  - slowdown of a job is: S<sub>i</sub> = F<sub>i</sub>/p<sub>i</sub>
    - e.g., a job with slowdown 2 behaves as though it was served by a dedicated speed 1/2 server.
  - [l<sub>p</sub> norm of flow and stretch](../model/file/lpNorm.md)
+ - [Weighted Response](../model/file/weightedResponse.md)
 - [Immediate Dispatch](../model/file/immediateDispatch.md)
  
 ### Technique
