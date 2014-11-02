@@ -1,7 +1,6 @@
 ## How to Analyze Competitive Ratio
 
 ### Method 1: Local Competitive Argument
-one way to prove competitive ratio
 - Procedure
     - Let A(t) be the increase of the QoS measure for algorithm A at time t for some understood input I
         - e.g., If QoS measure was average response time, then A(t) is the number of jobs released but unfinished at time t
