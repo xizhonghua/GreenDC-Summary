@@ -53,6 +53,8 @@
             - Example: SRPT is 2-competitive for average slowdown
                 - one needs to show that at all times t, SPRT is at most twice optimal with respect to the objective of minimizing the number of unfinished jobs at time t divided by the work of these jobs
 
+- [Resource Augmentation](../algorithms/file/resourceAug.md)
+
 ### Clairvoyant online algorithm
 - Definition: It requires knowledge of the jobs
     - e.g., Clairvoyant: SPRT requires knowledge of the work of the jobs 
