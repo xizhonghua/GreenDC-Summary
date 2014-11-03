@@ -18,3 +18,7 @@
 
 ### Example: RR
 - [[Edmonds-2000]](http://dl.acm.org/citation.cfm?id=301299) proves that Round Robin(RR) is (2+&epsilon;)-speed O(1)-competitive. 
+
+### Example: LWF
+- Longest wait first(LWF)
+- [[Edmonds-2004]](http://bit.ly/1ufaOf0) proves that LWF is 6-speed O(1)-competitive.
