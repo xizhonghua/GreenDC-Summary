@@ -12,3 +12,6 @@
     - However, if many more jobs arrive in the future, then the scheduler has wasted a constant fraction of its energy on only one job.
   - By iterating this process, one obtains a bound of &omega;(1) on the competitive ratio with respect to the total response.
 - [local competitiveness](../../algorithms/file/competitiveAnalyze.md) is generally not achievable in speed scaling problmes because the adversary may spend essentially all of its energy in some small period of time, making it impossible for any online algorithm to be locally competitive at that time. Thus [amortized local analysis](../../algorithms/file/competitiveAnalyze.md) is the tool of choice.
+
+### Competitive analysis 
+- see [[Pruhs-2007]](../../papers/Pruhs07_competitive-online-scheduling.md)
