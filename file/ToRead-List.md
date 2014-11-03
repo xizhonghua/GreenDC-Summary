@@ -19,3 +19,4 @@ Reading List
 |14| [SPEED: A Stateless Protocol for Real-Time Communication in Sensor Networks](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1203451&tag=1), by *Tian He*, in ICDCS 2003, [[Summary]]()| Hakan| Due 11/05/2014|
 |15| [Speed is as powerful as clairvoyance](http://dl.acm.org/citation.cfm?id=347479), by *Bala Kalyanasundaram*, in JACM 2000, [[Summary]]()| me| | |
 |16| [On the average sojourn time under M/M/1 SRPT](http://dl.acm.org/citation.cfm?id=959143.959164), by *Nikhil Bansal*, in Operations Research Letters 2005, [[Summary]]()| Fei| | |
+|17| [Nonclaivoyant Scheduling](http://dl.acm.org/citation.cfm?id=313845), by *Rajeev Motwani*, in SODA 1993, [[Summary]]()| Fei| | |
