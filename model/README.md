@@ -1,5 +1,7 @@
 ## Model
 
+### Server Property
+- [Speed Scaling](./file/speedScaling.md)
 
 ### Job Property
 - [Immediate Dispatch](./file/immediateDispatch.md)
