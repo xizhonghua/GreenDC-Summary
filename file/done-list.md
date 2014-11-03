@@ -15,7 +15,7 @@ Done List
 ### Resource Augmentation
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
-|[Competitive online scheduling for server systems](http://dl.acm.org/citation.cfm?id=1243411), by *Krik Pruhs*, in SIGMETRIC 2007, [[Summary]](../papers/Pruhs07_competitive-online-scheduling.md)| Fei| due 11/03/2014| ****|
+|[Competitive online scheduling for server systems](http://dl.acm.org/citation.cfm?id=1243411), by *Krik Pruhs*, in SIGMETRIC 2007, [[Summary]](../papers/Pruhs07_competitive-online-scheduling.md)| Fei| 11/02/2014| ****|
 
 
 
