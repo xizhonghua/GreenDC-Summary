@@ -16,7 +16,9 @@
 ```
 
 ### Summary
-
+In this paper, the authors illustrate the competitive online scheduling research community's approach to online server scheduling problems. 
+- They enumerate some of the results related to response and slowdown.
+- They explain some of the standard techniques.
 
 ### Model
 - Server
