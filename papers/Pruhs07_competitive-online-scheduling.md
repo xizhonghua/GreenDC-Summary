@@ -1,6 +1,6 @@
 ## [Competitive online scheduling for server systems](http://dl.acm.org/citation.cfm?id=1243411)
 
-- reading status: ing 11/1/2014
+- reading status: finished 11/2/2014
 - bib
 ```
 @ARTICLE{Pruhs07,
