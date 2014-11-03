@@ -36,7 +36,7 @@
  
 ### Technique
 - [Competitive ratio](../algorithms/file/Competitiveness.md)
-  - [Speed Scaling](../../model/file/speedScaling.md)
+  - [Speed Scaling](../model/file/speedScaling.md)
 - [Resource Augmentation](../algorithms/file/resourceAug.md)
 
 ### Algorithm Types
