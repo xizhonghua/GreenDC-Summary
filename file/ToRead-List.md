@@ -18,3 +18,5 @@ Reading List
 |13| [Optimal Time-Critical Scheduling via Resource Augmentation](http://link.springer.com/article/10.1007%2Fs00453-001-0068-9#page-1), by *C.A.Phillips*, in Algorithmica 2001, [[Summary]](../papers/PhillipsSTW02_resource-augmentatation.md)| Hakan| |
 |14| [SPEED: A Stateless Protocol for Real-Time Communication in Sensor Networks](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1203451&tag=1), by *Tian He*, in ICDCS 2003, [[Summary]]()| Hakan| Due 11/05/2014|
 |15| [Speed is as powerful as clairvoyance](http://dl.acm.org/citation.cfm?id=347479), by *Bala Kalyanasundaram*, in JACM 2000, [[Summary]]()| me| |
+|16| [On the average sojourn time under M/M/1 SRPT](http://dl.acm.org/citation.cfm?id=959143.959164), by *Nikhil Bansal*, in 
+Operations Research Letters 2005, [[Summary]]()| Fei| |
