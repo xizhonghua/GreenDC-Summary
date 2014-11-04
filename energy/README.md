@@ -2,7 +2,7 @@ Basic Knowledge of Power
 ----
 
 
-### CPU frequency
+### Power Saving Techniques
 - [DPM](./file/DPM.md)
 - [DFS](./file/DFS.md)
 - [DVFS](./file/DVFS.md)
