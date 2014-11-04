@@ -19,7 +19,7 @@ Green Data Center
 - [Sample Papers(writing)](./file/SamplePaper.md)
 
 ### Background
-- [Basic Knowledge of Power](./basic)
+- [Energy basic knowledge](./energy)
 - [Algorithms](./algorithms)
 
 ### Readings
