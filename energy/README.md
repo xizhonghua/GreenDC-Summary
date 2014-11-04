@@ -3,6 +3,7 @@ Basic Knowledge of Power
 
 
 ### CPU frequency
+- [DPM](./file/DPM.md)
 - [DFS, DVFS scheme](./file/Voltage-and-Frequency-Scaling-Mechanisms.md)
 
 
