@@ -27,4 +27,6 @@ In the paper, the authors investigate the problem of how to achieve a target rel
 ### Check
 - how to define the level of reliability
   - it defines as all timing constraints are met.
+  - the reliability is defined as a function of frequency.
+- further check how they use the reliability and frequency function.
 - how to define the energy cost of replicaiton? Different task may have different energy consumption
