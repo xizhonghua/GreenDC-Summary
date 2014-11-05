@@ -46,3 +46,6 @@ In the paper, the authors investigate how to use replication to achieve a target
   - use the known heuristic
 - what is the time cost and energy cost of the algorithm?
   - since this algorithm is run only once and can be precomputed, thus the overhead of time and energy cost is not important.
+
+### Connection to my research
+- The multicore can be mapped to multiple machines in a data center. But I am not very clear of how to map the reliability management model to distributed data centers.
