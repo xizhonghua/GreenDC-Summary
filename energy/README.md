@@ -6,7 +6,7 @@ Basic Knowledge of Power
 - [DPM](./file/DPM.md)
 - [DFS](./file/DFS.md)
 - [DVFS, or DVS](./file/DVFS.md)
-- [DVFS+DFS](DVFSDVS.md)
+- [DVFS+DFS](./file/DVFSDVS.md)
 
 ### Energy
 - [Energy Type](./file/EnergyType.md)
