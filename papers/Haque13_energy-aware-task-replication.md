@@ -30,3 +30,5 @@ In the paper, the authors investigate the problem of how to achieve a target rel
   - the reliability is defined as a function of frequency.
 - further check how they use the reliability and frequency function.
 - how to define the energy cost of replicaiton? Different task may have different energy consumption
+- when the check of the error is conducted?
+  - if the check is conducted too late and it shows the task has errors, then will the task miss its deadline if it has no time to be re-executed again?
