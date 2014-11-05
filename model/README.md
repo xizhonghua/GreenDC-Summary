@@ -1,6 +1,7 @@
 ## Model
 
 ### Server Property
+- [power model](./file/coreModel.md)
 - [Speed Scaling](./file/speedScaling.md)
 
 ### Job Property
