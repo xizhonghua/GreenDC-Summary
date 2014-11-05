@@ -19,14 +19,14 @@ In the paper, the authors investigate how to use replication to achieve a target
 - Novelty
   - Previous works only focus on the reliability-oriented energy management on single-processor this paper. In this paper, the authors study this problem in terms of multicore system. In specific, multicore systems are more suitable for using replication for reliability management as there are more cores available to run the replicated tasks.
 - The style of writing is very clear.
-  - The authors first study with simplified models such as single task to convey the idea, give the definition and explain the phenomenon in a very clear way. This approach is more beneficial to the readers compare with the other style of writings which formulate the complicated problem as a whole at the very beginning.
+  - The authors first study with simplified models such as single task to convey the idea, give the definition and explain the phenomenon in a very clear way. This approach is more beneficial to the readers compared with the other style of writings which formulate the complicated problem as a whole at the very beginning.
   
 ### Weakness
 - In the mathematic formulation of the GEERP problem in page 7, it seems it lacks one constraint of &tau;<sub>m</sub>, i.e., there is no constraint saying that each replicas of &tau;<sub>i</sub> should be assigned to a core. Although obviously the authors have taken this into account.
 - Example 1 demonstrates that the energy consumption function, as a function of processing frequency, is neither convex nor  concave. The objective of the authors to show this example is to claim that no simple technique can be used to find the optimal configuration.
   - I am not sure whether it is enough to persuade the readers of the following techniques the author used. In specific, they use exhaustive search to get the ERF table with some further truncation. Maybe, we can further explore the equations (3)(4) to find other more efficient approach.
-- In comparing the performance of exhaustive search and uniform frequency assignment, it is not mentioned about the comparison of the time cost.
-- For the partition problem, it will be interesting to see how the performance could be further improved by formulating the partition problem as an Integer Linear Programming. Since the algorithm will be run only once as a pre-processing phase, the huge time overhead of solving the ILP problem will not be a concern.
+- In comparing the performance of exhaustive search and uniform frequency assignment, it is not mentioned about the comparison of the time cost. Although this time cost is not important.
+- For the partition problem, it will be interesting to see how the performance could be further improved by formulating the partition problem as an Integer Linear Programming. Since the algorithm will run only once as a pre-processing phase, the huge time overhead of solving the ILP problem will not be a concern.
 
 ### Possible Extensions
 - Investigate the same problem while allowing the replicas to be executed using non-uniform frequencies.
