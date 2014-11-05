@@ -37,5 +37,5 @@
         - When A(t) &gt; cOpt(t), A is oding worse than it can afford to, and thus must withdraw money from the bank to pay for this
     - The condition above just imply that A cannot cheat the bank, for example, by not paying back money that it borrowed.
 
-### Method 0: Amortized Analysis
+### Method 3: Amortized Analysis
 - from Fei.
