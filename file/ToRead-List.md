@@ -17,7 +17,7 @@ Reading List
 |12| [How to Schedule When You Have to Buy Energy](http://link.springer.com/chapter/10.1007%2F978-3-642-15369-3_27#page-1), by *Kirk Pruhs et al.*, APPROX 2010, [[Summary]](../papers/PruhsS10_schedule-energy.md)| Me| |ing 10/24/2014|
 |13| [Optimal Time-Critical Scheduling via Resource Augmentation](http://link.springer.com/article/10.1007%2Fs00453-001-0068-9#page-1), by *C.A.Phillips*, in Algorithmica 2001, [[Summary]](../papers/PhillipsSTW02_resource-augmentatation.md)| Hakan| |
 |14| [Speed is as powerful as clairvoyance](http://dl.acm.org/citation.cfm?id=347479), by *Bala Kalyanasundaram*, in JACM 2000, [[Summary]]()| me| |
-|15|[Energy Efficient Geographical Load Balancing via Dynamic Deferral of Workload](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6253505), by *Muhammad Abdullah Adnan* et al, in CLOUD 2012, [[Summary]]()| Hakan| Due 11/19/2014|
+|15|[Energy Efficient Geographical Load Balancing via Dynamic Deferral of Workload](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6253505), by *Muhammad Abdullah Adnan* et al, in CLOUD 2012, [[Summary]](../papers/AdnanS12_dynamic-deferral-geoDC.md)| Hakan| Due 11/19/2014|
 |16| [Cloud Auto-scaling with Deadline and Budget Constraints](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5697966), by *Ming Mao* et al, in GRID 2010| Me| *|
 |17| [Towards energy-aware scheduling in data centers using machine learning](http://dl.acm.org/citation.cfm?id=1791349), by *Josep Ll. Berral*, in e-Energy 2010| Me| *|
 |18| [Renewable and Cooling Aware Workload Management for Sustainable Data Centers](http://dl.acm.org/citation.cfm?id=2254779), by *Zhenhua Liu*, in SIGMETRICS 2012| Me| ***|
