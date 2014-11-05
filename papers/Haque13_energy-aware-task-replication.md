@@ -32,16 +32,17 @@ In the paper, the authors investigate the problem of how to achieve a target rel
 - Investigate the same problem while allowing the replicas to be executed using non-uniform frequencies.
   - When consider only one task, it seems one more phase of energy reduction can be conducted after fixing the number of replicas. In specific, we can adjust the frequencies of replicas in pairs, i.e., replace a pair of uniform frequency to a non-uniform one by using one round of exhaustive search. 
   - However, note that this exhaustive search may not be optimal and is different from the optimal exhaustive search which has two search dimensions, i.e., frequencies and number of replicas.
+- Replicas may be scheduled to execute at different cores at different time periods (reduce the overlap in time), thus wheneve a replica of a task is executed successfully, then we can abandon the other replicas of the task.
 
-### To Check
-- further check how they use the reliability and frequency function.
-- how to define the energy cost of replicaiton? Different task may have different energy consumption
-- when the check of the error is conducted?
-  - if the check is conducted too late and it shows the task has errors, then will the task miss its deadline if it has no time to be re-executed again?
-- how to partition the set of replicas among different cores?
-- what is the time cost and energy cost of the algorithm?
 
 ### Checked
 - how to define the level of reliability
-  - it defines as all timing constraints are met.
   - the reliability is defined as a function of frequency.
+- further check how they use the reliability and frequency function.
+  - use to determine the frequency required to guarantee reliability.
+- how to define the energy cost of replicaiton? Different task may have different energy consumption
+  - energy is defined as a function of frequency
+- how to partition the set of replicas among different cores?
+  - use the known heuristic
+- what is the time cost and energy cost of the algorithm?
+  - since this algorithm is run only once and can be procompute, thus the overhead of time and energy cost is not important.
