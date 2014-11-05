@@ -11,7 +11,7 @@ Green Data Center
 ### Current Research
 - [Paper Summary](./file/paper-summary.md)
 - [Research Branches](https://github.com/hxwang/GreenDC-Summary/blob/master/Research-Branches.md)
-- [Peers](./peers.md)
+- [Peers](./file/peers.md)
 
 ### Resource
 - [Traces](./traces)
