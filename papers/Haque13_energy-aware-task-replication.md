@@ -14,7 +14,7 @@
 
 ### Summary
 In the paper, the authors investigate the problem of how to achieve a target reliability for a set of periodic real-time applications with minimum energy consumption in DVS-enabled multcore systems. In specific, they show the general problem in intractable and propose an EER approximation algorithm. 
-- Their simulation results demonstrate that the proposed mechanism could gurantee a wide range of reliability with minimum energy consumption. `Rewrite this sentence`.
+- Their simulation results demonstrate that the proposed mechanism could guarantee a wide range of reliability with minimum energy consumption. `Rewrite this sentence`.
 
 ### Strongness
 - Novelty
@@ -26,4 +26,5 @@ In the paper, the authors investigate the problem of how to achieve a target rel
 
 ### Check
 - how to define the level of reliability
+  - it defines as all timing constraints are met.
 - how to define the energy cost of replicaiton? Different task may have different energy consumption
