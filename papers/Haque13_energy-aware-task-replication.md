@@ -25,6 +25,7 @@ In the paper, the authors investigate the problem of how to achieve a target rel
   - I am not sure whether it is enough to show that the problem is intractable.
   - It seems that usually people will prove a problem is intractable by showing that it is NP-hard.
   - Note: for a certain frequency, the optimal number of replicas is determined by Equation (6).
+- In comparing the performance of exhaustive search and uniform frequency assignment, it is not mentioned about the comparison of the time cost.
 
 ### Possible Extensions
 - Investigate the same problem while allowing the replicas to be executed using non-uniform frequencies.
