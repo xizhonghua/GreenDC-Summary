@@ -11,3 +11,5 @@
     - a frequency-independent power component P<sub>ind</sub>, driven by the modules such as memory and I/O subsystem in the active state.
 - In DVS technique, the supply voltage is scaled in almost linear fashion with the processing frequency. Consequently, the power consumption of a core can be approximated by
   - P<sub>active</sub> = P<sub>s</sub> + P<sub>ind</sub> + C<sub>e</sub>f^3
+  - where C<sub>e</sub> is a system-dependent constant, reflecting the effective switching capacitance.
+- When a core is not executing any task (idle state), its power consumption is primarily determined by the static power. We assume that the static power consumption can only be eliminated by the complete power-down of the core.
