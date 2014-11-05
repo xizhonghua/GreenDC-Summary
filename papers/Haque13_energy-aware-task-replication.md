@@ -1,6 +1,6 @@
 ## [Energy-aware task replication to manage reliability for periodic real-time applications on multicore platforms](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6604518&tag=1)
 
-- reading status: 11/04/2014 ing
+- reading status: finished 11/05/2014
 - bib
 ```
 @INPROCEEDINGS{HaqueAD13, 
