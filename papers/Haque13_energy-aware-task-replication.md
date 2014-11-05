@@ -34,12 +34,14 @@ In the paper, the authors investigate the problem of how to achieve a target rel
   - It seems one more phase of energy reduction can be conducted after fixing the number of replicas. In specific, we can adjust the frequencies of replicas in pairs, i.e., replace a pair of uniform frequency to a non-uniform one by using one round of exhaustive search. 
   - However, note that this exhaustive search is different from the optimal exhaustive search which has two search dimensions, i.e., frequencies and number of replicas.
 
-### Check
-- how to define the level of reliability
-  - it defines as all timing constraints are met.
-  - the reliability is defined as a function of frequency.
+### To Check
 - further check how they use the reliability and frequency function.
 - how to define the energy cost of replicaiton? Different task may have different energy consumption
 - when the check of the error is conducted?
   - if the check is conducted too late and it shows the task has errors, then will the task miss its deadline if it has no time to be re-executed again?
 - how to partition the set of replicas among different cores?
+
+### Checked
+- how to define the level of reliability
+  - it defines as all timing constraints are met.
+  - the reliability is defined as a function of frequency.
