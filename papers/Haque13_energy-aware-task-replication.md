@@ -26,7 +26,7 @@ In the paper, the authors investigate how to use replication to achieve a target
 - Example 1 demonstrates that the energy consumption function, as a function of processing frequency, is neither convex nor  concave. The objective of the authors to show this example is to claim that no simple technique can be used to find the optimal configuration.
   - I am not sure whether it is enough to persuade the readers of the following techniques the author used. In specific, they use exhaustive search to get the ERF table with some further truncation. Maybe, we can further explore the equations (3)(4) to find other more efficient approach.
 - In comparing the performance of exhaustive search and uniform frequency assignment, it is not mentioned about the comparison of the time cost.
-- For the parititon problem, it is intereted to see how the performance could be further improved by formulating the partition problem as an Integer Linear Programming. Since the algorithm will be run only once as a pre-processing phase, the huge time overhead of solving the ILP problem will not be a concern.
+- For the partition problem, it will be interesting to see how the performance could be further improved by formulating the partition problem as an Integer Linear Programming. Since the algorithm will be run only once as a pre-processing phase, the huge time overhead of solving the ILP problem will not be a concern.
 
 ### Possible Extensions
 - Investigate the same problem while allowing the replicas to be executed using non-uniform frequencies.
