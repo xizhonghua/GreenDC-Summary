@@ -4,8 +4,7 @@ Basic Knowledge of Power
 
 ### Power Saving Techniques
 - [DPM](./file/DPM.md)
-- [DFS](./file/DFS.md)
-- [DVFS, or DVS](./file/DVFS.md)
+- [DVFS, or DVS](./file/DVFS.md), it contains [DFS](./file/DFS.md)
 
 
 ### Energy
