@@ -23,6 +23,7 @@ In the paper, the authors investigate the problem of how to achieve a target rel
   - The authors first study with simplified models such as single task to convey the idea, give the definition and explain the phenomenon in a very clear way. This approach is more beneficial to the readers compare with the other style of writings which formulate the complicated problem as a whole at the very begining.
   
 ### Weakness
+- In the formulation of the GEERP problem in page 7, it seems it lacks one constraint of &Tau;<sub>m</sub>, i.e., there is no constraint saying that each replicas of &tau;<sub>i</sub> should be assigned to a core.
 - Example 1 demonstrates that the energy consumption function, as a function of processing frequency, is neither convex and concave. The objective of the authors to show this example is to claim that no simple technique can be used to find the optimal configuration.
   - I am not sure whether it is enough to persuade the readers of the following techniques the author used. In specific, they use exhaustive search to get the ERF table with some further truncation. Maybe, we can further explore the equations (3)(4) to find other more efficient approach.
 - In comparing the performance of exhaustive search and uniform frequency assignment, it is not mentioned about the comparison of the time cost.
