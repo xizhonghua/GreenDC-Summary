@@ -29,6 +29,7 @@ In the paper, the authors investigate the problem of how to achieve a target rel
 ### Possible Extensions
 - Investigate the same problem while allowing the replicas to be executed using non-uniform frequencies.
   - It seems one more phase of energy reduction can be conducted after fixing the number of replicas. In specific, we can adjust the frequencies of replicas in pairs, i.e., replace a pair of uniform frequency to a non-uniform one by using one round of exhaustive search. 
+  - However, note that this exhaustive search is different from the optimal exhaustive search which has two search dimensions, i.e., frequencies and number of replicas.
 
 ### Check
 - how to define the level of reliability
