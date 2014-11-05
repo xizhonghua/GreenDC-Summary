@@ -19,7 +19,9 @@ In the paper, the authors investigate the problem of how to achieve a target rel
 ### Strongness
 - Novelty
   - Previous works only focus on the reliability-oriented energy management on single-processor this paper. In this paper, the authors study this problem in terms of multicore system. In specific, multicore systems are more suitable for using replication for reliability management as there are more cores available to run the replicated tasks.
-
+- The style of writing is very clear.
+  - The authors first study with simplified models such as single task to convey the idea, give the definition and explain the phenomenon in a very clear way. This approach is more beneficial to the readers compare with the other style of writings which formulate the complicated problem as a whole at the very begining.
+  
 ### Weakness
 - In showing the intractability of the problem, the authors give an example as shown in example 1. This example demonstrate that the energy consumption function, as a function of processing frequency, is neither convex and concave.
   - I am not sure whether it is enough to show that the problem is intractable.
