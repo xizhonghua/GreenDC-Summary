@@ -13,8 +13,7 @@
 ```
 
 ### Summary
-In the paper, the authors investigate the problem of how to achieve a target reliability for a set of periodic real-time applications with minimum energy consumption in DVS-enabled multcore systems. In specific, they show the general problem is intractable and propose an EER approximation algorithm. 
-- Their simulation results demonstrate that the proposed mechanism could guarantee a wide range of reliability with minimum energy consumption by tuning the number of replications. `Rewrite this sentence`.
+In the paper, the authors investigate how to use replication to achieve a target reliability for a set of periodic real-time applications in DVS-enabled multcore systems with minimum energy consumption. In specific, they show the general problem is intractable and propose an EER approximation algorithm. Their simulation results demonstrate that the proposed mechanism is much more energy efficient than the baseline approach which runs at the maximum CPU frequency.
 
 ### Strongness
 - Novelty
@@ -27,6 +26,7 @@ In the paper, the authors investigate the problem of how to achieve a target rel
 - Example 1 demonstrates that the energy consumption function, as a function of processing frequency, is neither convex and concave. The objective of the authors to show this example is to claim that no simple technique can be used to find the optimal configuration.
   - I am not sure whether it is enough to persuade the readers of the following techniques the author used. In specific, they use exhaustive search to get the ERF table with some further truncation. Maybe, we can further explore the equations (3)(4) to find other more efficient approach.
 - In comparing the performance of exhaustive search and uniform frequency assignment, it is not mentioned about the comparison of the time cost.
+- There is no comparison with the optimal algorithm.
 
 ### Possible Extensions
 - Investigate the same problem while allowing the replicas to be executed using non-uniform frequencies.
