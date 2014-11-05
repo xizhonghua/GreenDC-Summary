@@ -27,6 +27,7 @@ In the paper, the authors investigate the problem of how to achieve a target rel
   - Note: for a certain frequency, the optimal number of replicas is determined by Equation (6).
 
 ### Possible Extensions
+- Investigate the same problem while allowing the replicas to be executed using non-uniform frequencies.
 
 ### Check
 - how to define the level of reliability
