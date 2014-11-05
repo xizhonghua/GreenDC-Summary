@@ -32,7 +32,7 @@ In the paper, the authors investigate how to use replication to achieve a target
 - Investigate the same problem while allowing the replicas to be executed using non-uniform frequencies.
   - When consider only one task, it seems one more phase of energy reduction can be conducted after fixing the number of replicas. In specific, we can adjust the frequencies of replicas in pairs, i.e., replace a pair of uniform frequency to a non-uniform one by using one round of exhaustive search. 
   - However, note that this exhaustive search may not be optimal and is different from the optimal exhaustive search which has two search dimensions, i.e., frequencies and number of replicas.
-- Replicas may be scheduled to execute at different cores at different time periods (reduce the overlap in time), thus wheneve a replica of a task is executed successfully, then we can abandon the other replicas of the task.
+- Replicas may be scheduled to execute at different cores at different time periods (reduce the overlap in time), thus wheneve a replica of a task is finished successfully, then we can abandon the other replicas of the task.
 
 
 ### Checked
