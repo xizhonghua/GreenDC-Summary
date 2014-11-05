@@ -13,13 +13,13 @@
 ```
 
 ### Summary
-In the paper, the authors investigate how to use replication to achieve a target reliability for a set of periodic real-time applications in DVS-enabled multcore systems with minimum energy consumption. In specific, they show the general problem is intractable and propose an EER approximation algorithm. Their simulation results demonstrate that the proposed mechanism is much more energy efficient than the baseline approach which runs at the maximum CPU frequency.
+In the paper, the authors investigate how to use replication to achieve a target reliability for a set of periodic real-time applications in DVS-enabled multicore systems with minimum energy consumption. In specific, they show the general problem is intractable and propose an EER approximation algorithm. Their simulation results demonstrate that the proposed mechanism is much more energy efficient than the baseline approach which runs at the maximum CPU frequency.
 
-### Strongness
+### Merits
 - Novelty
   - Previous works only focus on the reliability-oriented energy management on single-processor this paper. In this paper, the authors study this problem in terms of multicore system. In specific, multicore systems are more suitable for using replication for reliability management as there are more cores available to run the replicated tasks.
 - The style of writing is very clear.
-  - The authors first study with simplified models such as single task to convey the idea, give the definition and explain the phenomenon in a very clear way. This approach is more beneficial to the readers compare with the other style of writings which formulate the complicated problem as a whole at the very begining.
+  - The authors first study with simplified models such as single task to convey the idea, give the definition and explain the phenomenon in a very clear way. This approach is more beneficial to the readers compare with the other style of writings which formulate the complicated problem as a whole at the very beginning.
   
 ### Weakness
 - In the mathematic formulation of the GEERP problem in page 7, it seems it lacks one constraint of &tau;<sub>m</sub>, i.e., there is no constraint saying that each replicas of &tau;<sub>i</sub> should be assigned to a core. Although obviously the authors have taken this into account.
@@ -45,4 +45,4 @@ In the paper, the authors investigate how to use replication to achieve a target
 - how to partition the set of replicas among different cores?
   - use the known heuristic
 - what is the time cost and energy cost of the algorithm?
-  - since this algorithm is run only once and can be procompute, thus the overhead of time and energy cost is not important.
+  - since this algorithm is run only once and can be precomputed, thus the overhead of time and energy cost is not important.
