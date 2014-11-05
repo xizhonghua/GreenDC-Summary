@@ -21,6 +21,9 @@ In the paper, the authors investigate the problem of how to achieve a target rel
   - Previous works only focus on the reliability-oriented energy management on single-processor this paper. In this paper, the authors study this problem in terms of multicore system. In specific, multicore systems are more suitable for using replication for reliability management as there are more cores available to run the replicated tasks.
 
 ### Weakness
+- In showing the intractability of the problem, the authors give an example as shown in example 1. This example demonstrate that the energy consumption function, as a function of processing frequency and replica, is neither convex and concave.
+  - I am not sure whether it is enough to show that the problem is intractable.
+  - It seems that usually people will prove a problem is intractable by showing that it is NP-hard.
 
 ### Possible Extensions
 
