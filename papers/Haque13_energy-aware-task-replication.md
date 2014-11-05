@@ -18,7 +18,7 @@ In the paper, the authors investigate the problem of how to achieve a target rel
 
 ### Strongness
 - Novelty
-  - Previous works only focus on the reliability-oriented energy management on single-processor this paper. In this paper, the authors study this problem in terms of multicore system. 
+  - Previous works only focus on the reliability-oriented energy management on single-processor this paper. In this paper, the authors study this problem in terms of multicore system. In specific, multicore systems are more suitable for using replication for reliability management as there are more cores available to run the replicated tasks.
 
 ### Weakness
 
