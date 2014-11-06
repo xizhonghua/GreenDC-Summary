@@ -1,0 +1,139 @@
+%\documentclass[10pt,conference]{IEEEtran}
+
+\documentclass[10 pt,final]{article}
+
+\usepackage{amssymb} \usepackage{amsmath} \usepackage{amsthm} \usepackage{algorithm} \usepackage{algorithmic} \usepackage{url} \usepackage[margin=1in]{geometry}
+
+\usepackage{subfigure}
+
+\newtheorem{theorem}{Theorem} \newtheorem{lemma}{Lemma} \newtheorem{corollary}{Corollary} \newtheorem{definition}{Definition} \newtheorem{assumption}{Assumption} \newtheorem{example}{Example}
+\newtheorem{observation}[theorem]{Observation}
+%\newtheorem{theorem}{Theorem} \newtheorem{definition}{Definition} \newtheorem{remark}{Remark} \newtheorem{lemma}{Lemma} \newtheorem{corollary}{Corollary} \newtheorem{fact}{Fact} \newtheorem{invariant}{Invariant}
+
+\usepackage{color}
+\newcounter{todocounter}
+\newcommand{\todo}[1]{\stepcounter{todocounter}\textcolor{red}{to-do\#\arabic{todocounter}: #1}}
+\newcommand{\newadded}[1]{{\color{magenta} #1}}
+\newcommand{\question}[1]{{\color{blue} #1}}
+
+
+
+\usepackage{graphicx}
+\graphicspath{{./Figures/}}
+
+
+\begin{document}
+\title{Competitive Ratio Analysis using Amortized Technique}
+\date{}
+\maketitle
+
+%\author{Huangxin Wang\thanks{Department of Computer Science, George Mason University. Fairfax, VA 22030. Email: \textsf{hwang14@gmu.edu}}}
+
+\section{Problem Model}
+Assume there is a router (machine) with buffer to store packets. Assume packets arrive at the router over time to be send. Each packet $i$ has a release time $r_i$, a deadline $d_i$ and a value $v_i$. Sending a packet before its deadline will earn a revenue $v_i$. At each time slot $t$, at most one packet can be sent. The objective is to decide which packets to send in order to maximize the total revenue.
+
+Notations used in this analysis is summarized in Table~\ref{tb_notation}.
+
+\begin{table}[ht!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+notation & meaning \\ \hline
+\hline
+$r_i$ & packet $i$'s release time \\ \hline
+$d_i$ & packet $i$'s deadline \\ \hline
+$v_i$ & packet $i$'s value \\ \hline
+$\mathcal{I}$ & the set of packets \\ \hline
+$e$ & current earliest deadline packet \\ \hline
+$h$ & current largest value packet \\ \hline
+\end{tabular}
+\label{tb_notation}
+\end{table}
+
+
+
+\section{Competitive Ratio Analysis}
+\begin{lemma} The Greedy algorithm which always sends the packet with the largest value at each time slot has competitive ratio $2$.
+\end{lemma}
+
+\begin{proof} Denote the adversary and the greedy algorithm as ADV and ALG respectively. Our objective is to prove $\frac{ADV(\mathcal{I})}{ALG(\mathcal{I})} \leq 2$. We use induction to prove it. In specific, we show that two invariants will hold at each time slot t.
+\begin{enumerate}
+\item At each time t, the set of packets remaining in ADV's buffer $\mathcal{I}_{ADV}$ is a subset of the set of packets $\mathcal{I}_{ALG}$ in ALG's buffer, i.e., $\mathcal{I}_{ADV} \subset \mathcal{I}_{ALG}$.
+\item At each time t, the revenue achieved by ADV and ALG satisfies $\frac{ADV}{ALG} \leq 2$.
+\end{enumerate}
+
+
+
+Initially, at time $0$, ADV and ALG have the same set of packets, and their revenues are both $0$, thus both invariants hold. 
+
+\question{What's the initial set of packets? I assume initially both sets are empty.}
+
+Assume at time $t$, these two invariants hold, in the following, we will show that after the execution of algorithm ADV and ALG, these two invariants still hold. 
+
+Denote the earliest deadline packet and largest value packet in set $\mathcal{I}_{ALG}$ as $e$ and $h$ respectively. ALG will send the largest value packet $h$ at time slot $t$.
+
+\textbf{Case 1:} Assume ADV also sends packet $h$ at time slot $t$, then $\mathcal{I}_{ADV} \setminus h \subset \mathcal{I}_{ALG} \setminus h$, invariant 2 holds. And $\frac{ADV}{ALG} = \frac{v_h}{v_h} = 1 \leq 2$, invariant 1 holds. Both invariants hold.
+
+\textbf{Case 2:}Assume ADV sends packet $p (p!=h)$ at time slot $t$. Then we argue that ADV must will send $h$ at a later time. Otherwise, it can send $h$ rather than $p$ at current time $t$ and gains more revenue. Then using amortized analysis, we charge ADV the value of packet $p$ and $h$ at current time slot. Thus $\mathcal{I}_{ADV} \setminus \{h,p\} \subset \mathcal{I}_{ALG} \setminus h$, and $\frac{ADV}{ALG} = \frac{v_h+ v_p}{v_h} \leq 2$. Thus the two invariant still hold.
+\end{proof}
+
+\question{Using the amortized mechanism, we may charge ADV at time t for a later scheduled packet h. My question is under this approach, will there be a time that ALG schedules a packet, but ADV not. This could happen since we use amortized charging to charge a packet $h$ at an earlier time for ADV. }
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Competitive Ratio Analysis with Resource Augmentation}
+\begin{lemma} If packets have aggreable deadline, and assume greedy algorithm has $2$ machines to send packets. Then the Greedy algorithm which always sends the packet with the largest value first is 1-competitive 2-speed.
+\end{lemma}
+
+\begin{proof} Again, we use the induction approach. The 2 invariants are:
+\begin{enumerate}
+\item At each time t, the set of packets remaining for ADV to schedule $\mathcal{I}_{ADV}$ is a subset of the set of packets $\mathcal{I}_{ALG}$ remaining for ALG, i.e., $\mathcal{I}_{ADV} \subset \mathcal{I}_{ALG}$.
+\item At each time t, the revenue achieved by ADV and ALG satisfies $\frac{ADV}{ALG} \leq 1$.
+\end{enumerate}
+
+Initially, at time $0$, ADV and ALG have the same set of packets, and their revenues are both $0$, thus both invariants hold. 
+
+Assume at time $t$, these two invariants hold, in the following, we will show that after the execution of algorithm ADV and ALG, these two invariants still hold. 
+
+Let $e$ and $h$ denote the packets with the earliest deadline and the largest value respectively in the packet set $\mathcal{I}_{ALG}$. Then at time $t$, greedy will send both packet $e$ and $h$ using the two machines it has. 
+
+\textbf{Case 1: } Assume ADV sends packet $h$. Then packet $e$ will not be in the buffer of ADV. Otherwise, packet $e$ will be sent first. Thus after time $t$, $\mathcal{I}_{ADV} \setminus \{h\}  \subset \mathcal{I}_{ALG} \setminus \{e,h\}$, invariant 1 holds. And $\frac{ADV}{ALG} = \frac{v_h}{v_h+v_e} < 1$, invariant 2 holds.
+
+\textbf{Case 2:} Assume ADV sends packet $e$. Then it must will send packet $h$ at a later time, otherwise it can instead send packet $h$ rather than $e$ at this time step. Thus we use amortize mechanism to charge ADV at current time step for the later sent packet $h$, i.e., ADV will be charged for both packet $e$ and $h$ at time slot $t$. With similar analysis, these two invaraints still hold.
+
+\textbf{Case 3:} Assume ADV sends packet $p (p!=e, p!=h)$. Then ADV must will send $h$ at a later time. If $e$ is scheduled at a later time, then we switch $e$ with $p$ and convert the problem to case $1$. Otherwise, assume the packet sending sequence of ADV is $p,s_1,s_2,\cdots,h$, then we change the sequence to $h,p,s_1,\cdots,s_n$. However, we need to guarantee that $s_1, \cdots, s_n$ will not miss their deadline. 
+
+\question{What if the deadline of packet e, p, $s_1$ is 1, 2, 2 respectively. After the transfer, $s_1$ will miss its deadline?} 
+\end{proof}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%\begin{figure}[!ht]
+%\centering
+%\subfigure[]{\includegraphics[width= 3 in]{TheoreticalProbability_1000Proxy.PNG}\label{lableA}}
+%\subfigure[]{\includegraphics[width= 3 in]{BestAggressiveness_1000Proxy.pdf} \label{labelB}}
+%\caption{
+%(a)a caption,
+%(b)b caption
+%}
+%\end{figure}
+
+
+\bibliographystyle{plain}
+\bibliography{FileNameOfBib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
