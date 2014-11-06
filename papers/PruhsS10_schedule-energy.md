@@ -41,7 +41,9 @@ This paper investigates how to maximize profits in a data center which consists 
 ### Question
 - For the job settings, it seems there is no deadline, we only have the revenue function  I<sub>i</sub>(t) which has value 0 when t approximates infinity.
 - For the job settings, it seems that a job only requires one machine node at a time, i.e., it is not parallel job.
-
+- Is Lemma 1 correct?
+    - It might be better to finish job earlier, although it might consume more energy, but the income is also higher.
+    
 ### Comments
 - Since for each job the revenue function I<sub>i</sub>(t) is irrelavant to the size of the job, thus this scheduling problem is equivalent to weighted jobs scheduling.
 
