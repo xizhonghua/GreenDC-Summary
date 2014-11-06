@@ -21,4 +21,5 @@ Reading List
 |16| [Cloud Auto-scaling with Deadline and Budget Constraints](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5697966), by *Ming Mao* et al, in GRID 2010| Me| *|
 |17| [Towards energy-aware scheduling in data centers using machine learning](http://dl.acm.org/citation.cfm?id=1791349), by *Josep Ll. Berral*, in e-Energy 2010| Me| *|
 |18| [Renewable and Cooling Aware Workload Management for Sustainable Data Centers](http://dl.acm.org/citation.cfm?id=2254779), by *Zhenhua Liu*, in SIGMETRICS 2012| Me| ***|
+|19| [Scheduling algorithms for dynamic message streams with distance constraints in TDMA protocol](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=854012&tag=1), by *Libin Dong*, in RTS 2000, [[Summary]]()| Hakan| 11/12/2014|
 
