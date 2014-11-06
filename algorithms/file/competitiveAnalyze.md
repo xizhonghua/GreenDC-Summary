@@ -38,4 +38,6 @@
     - The condition above just imply that A cannot cheat the bank, for example, by not paying back money that it borrowed.
 
 ### Method 3: Amortized Analysis
-- from Fei.
+- from Fei. 
+- [Pdf-version](./tex/competitiveAmortized.pdf)
+- [Latex-version](./tex/competitiveAmortized.tex)
