@@ -34,6 +34,9 @@ In the paper, the authors investigate how to use replication to achieve a target
   - However, note that this exhaustive search may not be optimal and is different from the optimal exhaustive search which has two search dimensions, i.e., frequencies and number of replicas.
 - Replicas may be scheduled to execute at different cores at different time periods (reduce the overlap in time), thus whenever a replica of a task is finished successfully, then we can abandon the other replicas of the task.
 
+### Typo
+- Page 3, Equation(6) should be &phi;<sub>target</sub> &gt; (&phi<sub>i</sub>(f))^k. `Pointed out by Roy!`
+- Page 7, Equation(12) should also have p<sub>i</sub> in the dominator. `Pointed out by Roy!`
 
 ### Checked
 - how to define the level of reliability
