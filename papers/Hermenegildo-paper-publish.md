@@ -25,4 +25,4 @@ In the paper, the author offers an evolutionary path to solving the incompatibil
 - Keeping CS conference
   - keep it, but some kind of merge of conferences with journal is needed
   - e.g., the merge of International Conference on Logic Programming (ICLP) with the journal THeory and Practice of Logic Programming (TPLP).
-  - alternative approach: conference recommends paper to journal
+  - alternative approach: conference recommends papers to journal
