@@ -31,8 +31,9 @@ This paper investigates how to maximize profits in a data center which consists 
 |r<sub>i</sub>| released time |
 |w<sub>i</sub>| size|
 |I<sub>i</sub>(t)|revenue function: the revenue that is obtained if the job is finished at time t.|
-|Preemption | allowed|
-|Migration| allowed|
+|preemption | allowed|
+|pigration| allowed|
+|parallel| a job can run at most one machine at a time|
 
 - **Objective**: maximize profits, by determine which jobs to run on which processors, and at what speed to run the processors.
 
