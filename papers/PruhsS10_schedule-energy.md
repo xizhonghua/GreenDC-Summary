@@ -21,7 +21,7 @@
 This paper investigates how to maximize profits in a data center which consists of speed-scalable processors. The revenue of a job is a function of how long the job is delayed. Each unit of energy has a fix cost. They give a (1+&epsilon;) O(1)-competitive algorithm, and show that resource augmentation is necessary to achieve O(1) competitive ratio. 
 
 ### Model
-- **Machine**: identical speed-scalable processors.
+- **Machine**: m identical speed-scalable processors.
     - power function P(s): specifies the power when a processor is run at speed s.
 - **Energy**: has fixed cost.
 - **Job**: 
