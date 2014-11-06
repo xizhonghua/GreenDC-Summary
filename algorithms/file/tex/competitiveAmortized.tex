@@ -13,7 +13,7 @@
 \usepackage{color}
 \newcounter{todocounter}
 \newcommand{\todo}[1]{\stepcounter{todocounter}\textcolor{red}{to-do\#\arabic{todocounter}: #1}}
-\newcommand{\newadded}[1]{{\color{magenta} #1}}
+\newcommand{\answer}[1]{{\color{magenta} #1}}
 \newcommand{\question}[1]{{\color{blue} #1}}
 
 
@@ -66,7 +66,9 @@ $h$ & current largest value packet \\ \hline
 
 Initially, at time $0$, ADV and ALG have the same set of packets, and their revenues are both $0$, thus both invariants hold. 
 
-\question{What's the initial set of packets? I assume initially both sets are empty.}
+\question{ Question: What's the initial set of packets? }
+
+\answer{Answer: initially both sets are empty.}
 
 Assume at time $t$, these two invariants hold, in the following, we will show that after the execution of algorithm ADV and ALG, these two invariants still hold. 
 
@@ -77,7 +79,11 @@ Denote the earliest deadline packet and largest value packet in set $\mathcal{I}
 \textbf{Case 2:}Assume ADV sends packet $p (p!=h)$ at time slot $t$. Then we argue that ADV must will send $h$ at a later time. Otherwise, it can send $h$ rather than $p$ at current time $t$ and gains more revenue. Then using amortized analysis, we charge ADV the value of packet $p$ and $h$ at current time slot. Thus $\mathcal{I}_{ADV} \setminus \{h,p\} \subset \mathcal{I}_{ALG} \setminus h$, and $\frac{ADV}{ALG} = \frac{v_h+ v_p}{v_h} \leq 2$. Thus the two invariant still hold.
 \end{proof}
 
-\question{Using the amortized mechanism, we may charge ADV at time t for a later scheduled packet h. My question is under this approach, will there be a time that ALG schedules a packet, but ADV not. This could happen since we use amortized charging to charge a packet $h$ at an earlier time for ADV. }
+\textbf{Case 3:} Assume ADV sends no packets because the original packet send at this time slot is amortized at an earlier time. Then if ADV sends $h$ at a later time, then we can amortized $h$ to current time slot. If ADV does not send $h$ at a later time, then it means $h$ is not in the buffer of ADV, thus we can regard ADV sends no packets in current time slot. For both cases, using similar technical, these two invariants still hold.
+
+\question{Question: Using the amortized mechanism, we may charge ADV at time t for a later scheduled packet h. My question is under this approach, will there be a time that ALG schedules a packet, but ADV not. This could happen since we use amortized charging to charge a packet $h$ at an earlier time for ADV. }
+
+\answer{Answer: Yes, this could happen. See the explanation in Case 3.}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -101,9 +107,11 @@ Let $e$ and $h$ denote the packets with the earliest deadline and the largest va
 
 \textbf{Case 2:} Assume ADV sends packet $e$. Then it must will send packet $h$ at a later time, otherwise it can instead send packet $h$ rather than $e$ at this time step. Thus we use amortize mechanism to charge ADV at current time step for the later sent packet $h$, i.e., ADV will be charged for both packet $e$ and $h$ at time slot $t$. With similar analysis, these two invaraints still hold.
 
-\textbf{Case 3:} Assume ADV sends packet $p (p!=e, p!=h)$. Then ADV must will send $h$ at a later time. If $e$ is scheduled at a later time, then we switch $e$ with $p$ and convert the problem to case $1$. Otherwise, assume the packet sending sequence of ADV is $p,s_1,s_2,\cdots,h$, then we change the sequence to $h,p,s_1,\cdots,s_n$. However, we need to guarantee that $s_1, \cdots, s_n$ will not miss their deadline. 
+\textbf{Case 3:} Assume ADV sends packet $p (p!=e, p!=h)$. Then ADV must will send $h$ at a later time. If $e$ is scheduled at a later time, then we switch $e$ with $p$ and convert the problem to case $1$. Otherwise, assume the packet sending sequence of ADV is $p,s_1,s_2,\cdots,h$, then we change the sequence to $h,p,s_1,\cdots,s_n$. However, we need to guarantee that $s_1, \cdots, s_n$ will not miss their deadline. If the packets have aggreable deadline, then the time constraint can be guaranteed.
 
-\question{What if the deadline of packet e, p, $s_1$ is 1, 2, 2 respectively. After the transfer, $s_1$ will miss its deadline?} 
+\question{Question: What if the deadline of packet e, p, $s_1$ is 1, 2, 2 respectively. After the transfer, $s_1$ will miss its deadline?} 
+
+\answer{Answer: This will not happen, because, $e, s_1, s_2$ cannot all be scheduled, thus Greedy will not select $e$. }
 \end{proof}
 
 
