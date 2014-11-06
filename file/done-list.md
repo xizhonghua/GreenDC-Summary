@@ -27,3 +27,7 @@ Done List
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 | [Joint Scheduling of Tasks and Messages for Energy Minimization in Interference-aware Real-time Sensor Networks](http://www.computer.org/csdl/trans/tm/preprint/06547140.pdf), by *Benazir Fateh*, in Transactions on Mobile Computing 2014, [[Summary]](./papers/Fetah14_Tasks-Msg-Schedule.md)| Hakan| 10/22/2014| ***|
+
+### MISC
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
