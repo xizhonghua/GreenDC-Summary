@@ -21,7 +21,7 @@ In the paper, the author offers an evolutionary path to solving the incompatibil
 - CS should switch as soon as possible to publishing in journals, but in combination with conferences.
 - CS journal can be divided into two types
   - one is for rapid publication: traditional CS conference publications can be published in this track.
-  - one is for 
+  - one is for long journal papers that are traditional 
 - CS conference
   - keep it, but some kind of merge of conferences with journal is needed
   - e.g., the merge of International Conference on Logic Programming (ICLP) with the journal THeory and Practice of Logic Programming (TPLP).
