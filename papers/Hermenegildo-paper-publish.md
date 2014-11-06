@@ -15,7 +15,7 @@ In the paper, the author offers an evolutionary path to solving the incompatibil
   - e.g., a CS guy with even no journal papers but many conference papers could be in professor position.
 - Unable for bibliometry evaluation
   - bibliometry is used to evaluate researchers. e.g., when evaluating the departments, schools, universities
-  - bibliometry is done using the standard journal database, thus cs conference paper are invisible.
+  - bibliometry is done using the standard journal database, thus cs conference papers are invisible.
 
 ### Solution
 - CS should switch as soon as possible to publishing in journals, but in combination with conferences.
