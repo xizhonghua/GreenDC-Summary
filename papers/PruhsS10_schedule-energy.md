@@ -30,7 +30,7 @@ This paper investigates how to maximize profits in a data center which consists 
 |:--------|:-------|
 |r<sub>i</sub>| released time |
 |w<sub>i</sub>| size|
-|I<sub>i</sub>(t)|revenue function:lost as a function of how long the job is **delayed**, i.e., the revenue of finishing a job is denoted as I<sub>i</sub>(t), which specifies the revenue that is obtained if the job is finished at time t.|
+|I<sub>i</sub>(t)|revenue function: the revenue that is obtained if the job is finished at time t.|
 |Preemption | allowed|
 |Migration| allowed|
 
