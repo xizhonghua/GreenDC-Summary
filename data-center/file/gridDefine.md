@@ -2,8 +2,11 @@
 
 - Ref: [[Rahman-2014]](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
 
-### Intro
-Smart grid technology is a technology for the next generation powr grid--has recently been introduced to improve efficiency of the traditional 20th century powre grid. Smart grid rovides a feasible way for dynamic and efficient power management of data centers.
+### Why we need smart grid?
+- In most of the countries, the long-serving electrical and distribution was designed a a **centralized unidrectional system** for electric power transmission and distribution. These power systems were neither designed to cope with high demand for energy, climate changes, seamless efficiency, rising fuel costs etc., nor to take advantage of latest power generation technologies. As a result the traditional power grids are very likely to reach their limitation soon.
+
+### Intro of Smart grid
+- Smart grid technology is a technology for the next generation powr grid--has recently been introduced to improve efficiency of the traditional 20th century powre grid. Smart grid rovides a feasible way for dynamic and efficient power management of data centers.
 
 
 ### Function
