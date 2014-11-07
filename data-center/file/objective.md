@@ -1,9 +1,10 @@
 ## Optimization Objective
 
-### Objectives
-- total utility cost minimization
-- bandwidth cost minimization
+
+###　Total utility cost minimization
+
+bandwidth cost minimization
 - energy efficiency improvement
 - cooling efficiency
-- reducing carbon footprint
+- reducing carbTon footprint
 - maximizing renewable energy usage
