@@ -1,7 +1,7 @@
 ## Optimization Objective
 
 
-###　1.Total utility cost minimization
+### 1.Total utility cost minimization
 
 ### 2.Bandwidth cost minimization
 
