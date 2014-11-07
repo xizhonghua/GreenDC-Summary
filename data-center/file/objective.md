@@ -8,7 +8,7 @@
 - Ref: [[Buchbinder-2011]](http://link.springer.com/chapter/10.1007%2F978-3-642-20757-0_14)
 
 ### 3.Energy efficiency improvement
-
+- Ref: [[Narayan-2011]](http://dl.acm.org/citation.cfm?id=1958787), [[Li-2012]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6041050), [[Parolini-2012]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6006498), [[Rao-2012]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5989839)
 ### 4.Cooling efficiency
 
 ### 5.Reducing carbTon footprint
