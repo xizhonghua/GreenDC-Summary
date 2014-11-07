@@ -3,7 +3,7 @@
 
 ### Intro
 - [Motivation](./file/examples.md)
-- [Definition](), [Arch](./file/arch.md)
+- [Definition](), [Arch](./file/arch.md), [Power breakdown](./file/powerBreakdown.md)
 
 
 
