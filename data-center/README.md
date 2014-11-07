@@ -12,10 +12,13 @@ Data Center
 - [PowerLocation: SelfGeneration v.s. Colocation](./file/powerLocation.md)
 
 
-### Energy Price
-- [Dynamic Energy Price](./file/energyPrice.md)
-- [Energy Capping](./file/energyCapping.md)
-- [Peak Power](./file/peakPower.md)
+### Energy 
+- Energy Price
+  - [Dynamic Energy Price](./file/energyPrice.md)
+  - [Energy Capping](./file/energyCapping.md)
+  - [Peak Power](./file/peakPower.md)
+- Energy Type
+  - [Renewable Energy](./file/greenEnergy.md)
 
 ### Workload
 - Types
