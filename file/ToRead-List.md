@@ -25,6 +25,7 @@ Reading List
 |20| [Matching, Allocation, and Exchange of Discrete Resources](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1311517), by *Tayfun Sonmez*, in SSRN 2009| Fei| theory for grid|
 |21| [Minimizing electricity cost: optimization of distributed internet data centers in a multi-electricity-market environment](http://dl.acm.org/citation.cfm?id=1833689), by *Lei Rao*, in INFOCOM 2010, [[Summary]](../papers/Rao10-min-cost-geoDC.md)| Me| |
 |22| [Capping the electricity cost of cloud-scale data centers with impacts on power markets](http://dl.acm.org/citation.cfm?id=1996170), by *Yanwei Zhang*, in HPDC 2011| Me| |
+|23| [Energy-aware load dispatching in geographically located Internet data centers](http://www.sciencedirect.com/science/article/pii/S221053791100045X), by *Xinying Zheng*, in SUSCOM 2011| Me| |
 
 
 
