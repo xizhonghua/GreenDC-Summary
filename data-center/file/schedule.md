@@ -1,6 +1,6 @@
 ## Schedule Mechanism
 
-### Archive by techniques
+### 1. Archive by techniques
 - Ref: [Rahman-14](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
 
 ##### Optimal
@@ -16,6 +16,9 @@
 - simulated annealing
 - smart scheduling
 - heuristics
+
+
+### 2. Archive by mechanisms
 
 ### TODO
 - 10/24/2014: add the related works in each categories from paper [Rahman-14](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
