@@ -13,7 +13,7 @@ Power Concern
 - The high electricity cost translates into high carbon emissions as most of this eletricity comes from fossile fuels. 
 - When electricity is produced from burning coal, matural gas or petroleum, a significant amount of C)<sub>2</sub> emission takes place. Being a significant consumer of energy, data centers are estimated to generate a carbon footprint in the hundreds of missionso of tonnes -- equivalent to a large industrialized country.
 - A recently disclosure from Google Inc. reveals the fact that it emits 1.5 million tonnes of carbon annually [[Clark-2011]](http://www.theguardian.com/environment/2011/sep/08/google-carbon-footprint). Some more threatening facts about Google users are as follows. Each search carried out on the google website has in indirect carbon footprint of 7 gram of CO<sub>2</sub>, each 10 minuts of viewing in Youtube generates 1 gram of CO<sub>2</sub> and a typical Gmail user is responsible for producing 1.2 kilogram of CO<sub>2</sub> per year. In total, a typical Google user creates 1.46 kilogram of CO<sub>2</sub> by consuming its various services. 
-- Besides Google, other operators also have very large carbon footprints. For instance, every chirp on Twitter is responsible for generating 0.02 grams of CO<sub>2</sub>. It is also estimaated that the average Facebook users generates over 131 grams of CO<sub>2</sub> per day from sing the site.
+
 
 ### Trend
 - As the price of server hardware has remained relatively stable, energy cost becomes one of the primary components in the total cost of ownership for computer server systems in the data centers. 
