@@ -11,6 +11,7 @@
 - Ref: [[Narayan-2011]](http://dl.acm.org/citation.cfm?id=1958787), [[Li-2012]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6041050), [[Parolini-2012]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6006498), [[Rao-2012]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5989839)
 
 ### 4.Cooling efficiency
+- [[Le-2011]](http://dl.acm.org/citation.cfm?id=2063413)
 
 ### 5.Reducing carbTon footprint
 
