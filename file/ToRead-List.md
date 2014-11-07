@@ -26,7 +26,7 @@ Reading List
 |21| [Minimizing electricity cost: optimization of distributed internet data centers in a multi-electricity-market environment](http://dl.acm.org/citation.cfm?id=1833689), by *Lei Rao*, in INFOCOM 2010, [[Summary]](../papers/Rao10-min-cost-geoDC.md)| Me| |
 |22| [Capping the electricity cost of cloud-scale data centers with impacts on power markets](http://dl.acm.org/citation.cfm?id=1996170), by *Yanwei Zhang*, in HPDC 2011| Me| |
 |23| [Energy-aware load dispatching in geographically located Internet data centers](http://www.sciencedirect.com/science/article/pii/S221053791100045X), by *Xinying Zheng*, in SUSCOM 2011| Me| |
-
+|24| [Energy-price-driven query processing in multi-center web search engines](http://dl.acm.org/citation.cfm?id=2009916.2010047), by *Enver Kayaaslan*, in SIGIR 2011 |Me| |
 
 
 
