@@ -24,6 +24,7 @@ Reading List
 |19| [Scheduling algorithms for dynamic message streams with distance constraints in TDMA protocol](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=854012&tag=1), by *Libin Dong*, in RTS 2000, [[Summary]](../papers/Dong00-schedule-dynamic-msg-tdma.md)| Hakan| 11/12/2014|
 |20| [Matching, Allocation, and Exchange of Discrete Resources](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1311517), by *Tayfun Sonmez*, in SSRN 2009| Fei| theory for grid|
 |21| [Minimizing electricity cost: optimization of distributed internet data centers in a multi-electricity-market environment](http://dl.acm.org/citation.cfm?id=1833689), by *Lei Rao*, in INFOCOM 2010, [[Summary]](../papers/Rao10-min-cost-geoDC.md)| Me| |
+|22| [Capping the electricity cost of cloud-scale data centers with impacts on power markets](http://dl.acm.org/citation.cfm?id=1996170), by *Yanwei Zhang*, in HPDC 2011| Me| |
 
 
 
