@@ -18,3 +18,4 @@
 
 
 ### 6.Maximizing renewable energy usage
+- [[Carroll-2011]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5963030), [[Krioukov-2011]](http://www.cs.berkeley.edu/~krioukov/integratingRenewableEnergy.pdf), [[Zhang-2011]](http://link.springer.com/chapter/10.1007%2F978-3-642-25821-3_8)
