@@ -2,7 +2,7 @@
 
 
 
-The power break down is shown in Table 1 [[Fan-20077]](http://dl.acm.org/citation.cfm?id=1250665).   
+The power break down is shown in Table 1 [[Fan-2007]](http://dl.acm.org/citation.cfm?id=1250665).   
 ![](../fig/powerBreakdown.PNG)
 
 ### Power supply procedure
