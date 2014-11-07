@@ -3,14 +3,12 @@
 ### Archive by techniques
 - Ref: [Rahman-14](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
 
-##### Archive by Technique (Optimal)
+##### Optimal
 - Mixed Integer Programming(MIP)
 - Lyapunov optimization technique
 - dynamic programming
 
-
-
-##### Archive by Techniques (Non-Optimal)
+##### Non-Optimal
 - genetic algorithm
 - Gauss-Seidel iteration
 - distributed gradient projection
