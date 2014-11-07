@@ -12,6 +12,6 @@ The power break down is shown in Table 1 [[Fan-2007]](http://dl.acm.org/citation
 4. Once the power researches the server, it is converted to DC power again and supplied to the server's central processing unit (CPU), memory, disk derives, chip-set. fans and other internal components.
 
 ### Observation
-- Recent survey [[Greenberg-2006]](http://datacenters.lbl.gov/resources/best-practices-data-centers-lessons-learned-benchmarking-22-data-centers), power usage in more than 20 data centers found that only about half of the power entering the data is used by the IT equipment and rest half is expended in power delivery system and cooling system.
+- Recent survey [[Greenberg-2006]](http://datacenters.lbl.gov/resources/best-practices-data-centers-lessons-learned-benchmarking-22-data-centers), power usage in more than 20 data centers found that **only about half** of the power entering the data is used by the IT equipment and rest half is expended in power delivery system and cooling system.
 
 
