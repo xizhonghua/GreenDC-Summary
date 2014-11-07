@@ -14,7 +14,7 @@
 
 ### Data Center energy related, to archive
 - [Lei Rao](https://sites.google.com/site/drleirao/), Senior Researcher at General Motors US Research Lab
-
+- [Xue Liu](http://www.cs.mcgill.ca/~xueliu/), Associate Professor at McGill University
 
 
 ### Lab
