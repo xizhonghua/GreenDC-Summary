@@ -12,6 +12,9 @@
 - [Kien T. Le](http://www.cs.rutgers.edu/~lekien/), PH.D. at Rutgers University
 
 
+### Data Center energy related, to archive
+- [Lei Rao](https://sites.google.com/site/drleirao/), Senior Researcher at General Motors US Research Lab
+
 
 
 ### Lab
