@@ -1,6 +1,6 @@
 ## Smart Grid
 
-- Ref: [[Rahman-2014]](../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
+- Ref: [[Rahman-2014]](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
 
 ### Intro
 Smart grid technology is a technology for the next generation powr grid--has recently been introduced to improve efficiency of the traditional 20th century powre grid. Smart grid rovides a feasible way for dynamic and efficient power management of data centers.
