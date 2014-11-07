@@ -18,8 +18,10 @@ Data Center
 - [Peak Power](./file/peakPower.md)
 
 ### Workload
-- [Task-aware workloads](./file/Task-aware workloads.md)
-- [Map-Reduce workloads](./file/MR-worloads.md)
+- Types
+  - [Task-aware workloads](./file/Task-aware workloads.md)
+  - [Map-Reduce workloads](./file/MR-worloads.md)
+- [Characteristic](./file/workloadChar.md)
 
 ### Utilization
 - [CPU utilization](./file/CPU-utilization.md)
