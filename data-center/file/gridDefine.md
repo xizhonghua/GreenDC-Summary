@@ -5,7 +5,7 @@
 ### Why we need smart grid?
 - In most of the countries, the long-serving electrical and distribution was designed a a **centralized unidrectional system** for electric power transmission and distribution. These power systems were neither designed to cope with high demand for energy, climate changes, seamless efficiency, rising fuel costs etc., nor to take advantage of latest power generation technologies. As a result the traditional power grids are very likely to reach their limitation soon.
 
-### Intro of Smart grid
+### What is smart grid?
 - Smart grid, also known as intelligent grid or modern grid, are envisioned to replace traditional grid by changing fundamentally the way the traditional power system works. The Energy Independence and Security Art(EISA) defines the smart grid as follows [[ISO-2009]](http://www.iso-ne.com/pubs/whtpprs/smart_grid_report_021709_final.pdf):
   - A modernization of the Nation's electricity transmission and distribution system to maintain a reliable and a secure electricity infrastructure that can meet future demand growth.
 - Smart grid technology is a technology for the next generation power grid--has recently been introduced to improve efficiency of the traditional 20th century power grid. Smart grid provides a feasible way for dynamic and efficient power management of data centers.
