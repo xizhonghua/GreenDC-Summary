@@ -29,9 +29,9 @@ Data Center
 ### Utilization
 - [CPU utilization](./file/CPU-utilization.md)
 
-### Schedule Mechanism
+### Mechanism
 - [Schedule Mechanism](./file/schedule.md)
-  
+
 
 ### OutLink
 - [TODO](./file/todo.md)
