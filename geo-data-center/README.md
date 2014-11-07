@@ -10,8 +10,7 @@
 - [Demand Response](./file/demandResponse.md)
 
 
-### Objective
-- [Minimize Cost](./file/minCost.md)
+
 
 
 
