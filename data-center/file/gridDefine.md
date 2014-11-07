@@ -18,6 +18,10 @@
 - self healing
 - the use of communication technology to precisely match power generation with consumer demand
 
+### Smarter data center power management
+- Improved reliability
+  - The smart grid makes use of technologies for better self-management and self healing without any manul intervention
+  
 ### Usage: power mangement of data centers
 - Organizations such as Google, Amazon, Microsoft, and many other Internet based service operators (i.e., the owners of geographically distributed systems) could benefited by accessing smart grid's real-time states, such as power price, power demand, power availability, etc. Upon receiving such information, operators can respond accordingly, sometimes even interactively, to control and optimize many perormance criteria. 
   - e.g., operators could optimize their operational cost by dispatching workloads to the data centers where powre supply is abundant and the electricity price is lower.
