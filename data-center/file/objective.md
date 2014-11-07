@@ -14,5 +14,7 @@
 - [[Le-2011]](http://dl.acm.org/citation.cfm?id=2063413)
 
 ### 5.Reducing carbTon footprint
+- [[Doyle-2011]](http://dl.acm.org/citation.cfm?id=2018538), [[Le-2010]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5598305)
+
 
 ### 6.Maximizing renewable energy usage
