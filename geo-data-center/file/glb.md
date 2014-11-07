@@ -1,6 +1,6 @@
 ## Geographic Load Balancing
 
-### Definition
+### Define and Arch
 ![](../fig/glb.PNG)
 
 
