@@ -3,6 +3,7 @@
 - Ref: [[Goiri-2012]](../../papers/GoiriL12_GreenHadoop.md)
 
 
+
 ### MapReduce
 MapReduce is a framework for processing large data sets on server clsuters [[Jeff Dean-2004]](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf). 
 - Each MapReduce program defines two functions: map and reduce.
@@ -13,6 +14,13 @@ MapReduce is a framework for processing large data sets on server clsuters [[Jef
     - It then runs the reduce tasks, each of which onvoles the reduce function of each intermediate key and its associated values form a distinct subset of generated intermediate keys. 
     - The reduce tasks generate the final result.
 - TODO: get a MapReduce example
+
+### Characteristic
+**Data incentive workloads** create complicacy in **job migration** for effective power management.
+- Map reduce jobs require oeprations on large data sets and use of special purpose file systems (e.g., Hadoop distributed files system (HDFS)). 
+- Migrating such jobs across data centers introduce a new concern if all data cneters are not complete rpelicas of each other.
+- Due to their large volume, these data sets cannot be even dynamicallly copied or moved across different data centers. 
+- Therefore, the request distributor (i.e., the front end) needs to compeltely know which request can be handled by which data center.  
 
 ### Hadoop 
 Hadoop is the best-known, publicly available implmenetation of MapReduce [[Apache]](http://hadoop.apache.org/). Hardoop comprises two main parts.
