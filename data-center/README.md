@@ -25,7 +25,6 @@ Data Center
 - [CPU utilization](./file/CPU-utilization.md)
 
 ### Schedule Mechanism
-- [Schedule Objective](./file/objective.md)
 - [Schedule Mechanism](./file/schedule.md)
   
 
