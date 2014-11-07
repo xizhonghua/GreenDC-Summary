@@ -1,15 +1,6 @@
-## Related Works
+## Techniques
 
 - Ref: [Rahman-14](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
-
-### Archive by Objectives
-- total energy cost minimization
-- bandwidth cost minimization
-- energy efficiency improvement
-- cooling efficiency
-- reducing carbon footprint
-- maximizing renewable energy usage
-
 
 ### Archive by Technique (Optimal)
 - Mixed Integer Programming(MIP)
