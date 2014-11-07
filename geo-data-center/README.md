@@ -6,8 +6,6 @@
 - [Definition](), [Arch]()
 
 
-### Power Management
-- [Demand Response](./file/demandResponse.md)
 
 
 
