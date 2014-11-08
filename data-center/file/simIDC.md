@@ -1,6 +1,7 @@
 ### Simulation Setup for IDC
 
 ### Setup
+- Ref: [[Rahman-2014]](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
 - Workload
   - We assume that the workload distributed from five frong-end elements to three back-end IDCs (located in three different locations: Wisconsin, Michigan and Atlanta) are 30000, 15000, 15000, 20000, 20000 requests per second which totals up to 10^5 requests per second. 
   - The delay constarint D = 1ms
