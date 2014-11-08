@@ -32,6 +32,8 @@ Data Center
 ### Mechanism
 - [Schedule Mechanism](./file/schedule.md)
 
+### Simulation Setup
+- [Internet Data Center](./file/simIDC.md)
 
 ### OutLink
 - [TODO](./file/todo.md)
