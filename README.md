@@ -28,3 +28,6 @@ Green Data Center
 ### Standards
 - [Paper Summary Template](./papers/template.md)
 - [Bib Standards](./papers/bibFormat.md)
+
+### Key Feature Directions
+- [Future work](https://github.com/hxwang/Private-Documents/tree/master/GreenDCFutureWork)
