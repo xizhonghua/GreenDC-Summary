@@ -33,7 +33,7 @@ Reading List
 |28| [Capping the brown energy consumption of Internet services at low cost](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5598305&tag=1), by *Kien Le*, in IGCC 2010|Me| |
 |29| [Server selection for carbon emission control](http://dl.acm.org/citation.cfm?id=2018538), by *Joseph Doyle*, in GreenNet 2011| Me| |
 |30| [Socially-Responsible Load Scheduling Algorithms for Sustainable Data Centers over Smart Grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486018), by *Jian He*, in Smart Grid 2012| Me| |
-|31| [Coordination of Cloud Computing and Smart Power Grids](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622069), by *Mohsenian-Rad, A.-H.*, in Coordination of Cloud Computing and Smart Power Grids 2010| Me| |
+|31| [Coordination of Cloud Computing and Smart Power Grids](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622069), by *Mohsenian-Rad, A.-H.*, in Coordination of Cloud Computing and Smart Power Grids 2010| Me|**** | use grid
 
 
 
