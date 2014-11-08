@@ -29,6 +29,7 @@ Reading List
 |24| [Energy-price-driven query processing in multi-center web search engines](http://dl.acm.org/citation.cfm?id=2009916.2010047), by *Enver Kayaaslan*, in SIGIR 2011 |Me| |
 |25| [Towards Optimal Electric Demand Management for Internet Data Centers](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6041050&tag=1), by *Jie Li*, in Smart Grid 2012| Me| |
 |26| [Minimizing energy cost for Internet-scale datacenters with dynamic traffic](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5931322), by *Dan Xu*, in IWQoS 2012| Me| |
+|27| [Datacenter Net Profit Optimization with Deadline Dependent Pricing](http://www.research.att.com/techdocs/TD_100836.pdf), by *Wei Wang*, in ACISS, 2012| Me| |
 
 
 
