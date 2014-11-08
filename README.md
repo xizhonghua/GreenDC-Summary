@@ -4,8 +4,7 @@ Green Data Center
 
 
 ### Intro
-- [Single Data Center](./data-center)
-  - include shared parts.
+- [Single Data Center](./data-center), include shared parts.
 - [Geographic Data Center](./geo-data-center)
 
 ### Current Research
