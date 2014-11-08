@@ -27,3 +27,4 @@
 
 ### Skipped for now
 - Page 224, Joint content and network management
+- Page 224, Dynamic application hosting management
