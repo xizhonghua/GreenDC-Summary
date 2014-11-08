@@ -5,6 +5,8 @@
 ### 1. Summary
 In this paper, the authors survey the research works on geographical data center (GLB). They summary the works based on the objectives and techniques used in solutions. Finally, they point out future directions on the research in this field.
 
+- I archive most of the basic concepts in folder [data center](../data-center), and the future directions are summarized in the following.
+
 ### 2. Future work
 #### 2.1 Distributed Optimization Framework
 - Ref: [[Rahman]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
