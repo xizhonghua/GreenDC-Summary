@@ -13,6 +13,7 @@ Reading List
 |8|[Friends, not Foes – Synthesizing Existing Transport Strategies for Data Center  Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215430), by  *F.R. Dogar*,  in SIGCOMM 2014, [[Summary]](../papers/MunirB14_SIGCOMM_Synthesizing-Existing-Transport-Strateg-DC.md)| Fei|
 |9| [GreenSlot: scheduling energy consumption in green datacenters](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6114408), by *Inigo Goiri et al*, in SC 11, [[Summary]](./papers/GoiriL11_GreenSlot.md)| me|
 |10| [Toward an Experimental Method for Algorithm Simulation](http://pubsonline.informs.org/doi/abs/10.1287/ijoc.8.1.1), by *Catherine C.Mcgeoch*, in Inform Journal Computing 1996, [[Summary]](../papers/Mcgeoch95_Algorithm-Simulations.md)| Fei|
+|11| [Data centres in the ancillary services market](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6322252), by *Aikema, D.*, in IGCC 2012| Me| |
 |12| [How to Schedule When You Have to Buy Energy](http://link.springer.com/chapter/10.1007%2F978-3-642-15369-3_27#page-1), by *Kirk Pruhs et al.*, APPROX 2010, [[Summary]](../papers/PruhsS10_schedule-energy.md)| Me| |ing 10/24/2014|
 |13| [Optimal Time-Critical Scheduling via Resource Augmentation](http://link.springer.com/article/10.1007%2Fs00453-001-0068-9#page-1), by *C.A.Phillips*, in Algorithmica 2001, [[Summary]](../papers/PhillipsSTW02_resource-augmentatation.md)| Hakan| |
 |14| [Speed is as powerful as clairvoyance](http://dl.acm.org/citation.cfm?id=347479), by *Bala Kalyanasundaram*, in JACM 2000, [[Summary]]()| me| |
@@ -33,7 +34,7 @@ Reading List
 |29| [Server selection for carbon emission control](http://dl.acm.org/citation.cfm?id=2018538), by *Joseph Doyle*, in GreenNet 2011| Me| |
 |30| [Socially-Responsible Load Scheduling Algorithms for Sustainable Data Centers over Smart Grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486018), by *Jian He*, in Smart Grid 2012| Me| |
 |31| [Coordination of Cloud Computing and Smart Power Grids](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622069), by *Mohsenian-Rad, A.-H.*, in Coordination of Cloud Computing and Smart Power Grids 2010| Me|**** | use grid|
-|32| [Data centres in the ancillary services market](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6322252), by *Aikema, D.*, in IGCC 2012| Me| |
+
 
 
 
