@@ -28,6 +28,7 @@ Reading List
 |23| [Energy-aware load dispatching in geographically located Internet data centers](http://www.sciencedirect.com/science/article/pii/S221053791100045X), by *Xinying Zheng*, in SUSCOM 2011| Me| |
 |24| [Energy-price-driven query processing in multi-center web search engines](http://dl.acm.org/citation.cfm?id=2009916.2010047), by *Enver Kayaaslan*, in SIGIR 2011 |Me| |
 |25| [Towards Optimal Electric Demand Management for Internet Data Centers](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6041050&tag=1), by *Jie Li*, in Smart Grid 2012| Me| |
+|26| [Minimizing energy cost for Internet-scale datacenters with dynamic traffic](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5931322), by *Dan Xu*, in IWQoS 2012| Me| |
 
 
 
