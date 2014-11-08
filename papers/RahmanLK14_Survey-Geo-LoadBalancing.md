@@ -24,3 +24,6 @@
 - **Current State**: The power demand profile becomes full of short-lived high peaks which enforces smart grid to keep additional generating plants available in standby mode only to be used during these short periods.
 - **Extension**: 
   
+
+### Skipped for now
+- Page 224, Joint content and network management
