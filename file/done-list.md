@@ -3,7 +3,10 @@ Done List
 
 - keep record of papers that have read. Selected papers are summarized at [Paper-Summary](https://github.com/hxwang/GreenDC-Summary/blob/master/README.md).
 
-
+### Date Center: Survey
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+|[A Survey on Geographic Load Balancing Based Data Center Power Management in the Smart Grid Environment](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6578864&tag=1), by *Ashikur Rahman et al*, in IEEE COMMUNICATIONS SURVEYS & TUTORIALS 2014, [[Summary]](../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)| Fei| *****|
 
 ### Data Center: Minimize Power Consumption
 | Title| Assinger| Date| Rate|
