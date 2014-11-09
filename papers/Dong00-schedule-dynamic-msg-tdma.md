@@ -10,3 +10,6 @@
   YEAR = {2000}, 
   PAGES = {239-246}
 ```
+
+### Summary
+In this paper, the authors propose a real-time message model with both rate requirements and distance constraints. Two algorithms for scheduling dynamic real-time message streams in a TDMA frame are proposed and evaluated through simulations.
