@@ -34,7 +34,7 @@ Reading List
 |29| [Server selection for carbon emission control](http://dl.acm.org/citation.cfm?id=2018538), by *Joseph Doyle*, in GreenNet 2011| Me| |
 |30| [Socially-Responsible Load Scheduling Algorithms for Sustainable Data Centers over Smart Grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486018), by *Jian He*, in Smart Grid 2012| Me| |
 |31| [Coordination of Cloud Computing and Smart Power Grids](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622069), by *Mohsenian-Rad, A.-H.*, in Coordination of Cloud Computing and Smart Power Grids 2010| Me|**** | use grid|
-|32| [Two-dimensional packing problems: A survey](http://www.sciencedirect.com/science/article/pii/S0377221702001236), by *Andrea Lodi et al*, in EJOR 2002, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/algorithms/LodiM02_Two-dimensional-packing-problems-A-survey.md)| Fei| |
+|32| [Two-dimensional packing problems: A survey](http://www.sciencedirect.com/science/article/pii/S0377221702001236), by *Andrea Lodi et al*, in EJOR 2002, [[Summary]](../papers/LodiMM02-2Dpack-survey.md)| Fei| |
 
 
 
