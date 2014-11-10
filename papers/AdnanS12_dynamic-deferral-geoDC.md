@@ -38,6 +38,9 @@ In cloud computing, each center of execution (data center) are usually located i
 	- dispatcher level: the dispatcher makes decision about the assignment of the incoming workload to data centers based on predicted future electricity price.
 	- data center level: the data centers make decision on adjusting the execution of the workload in current and future time slots and the migration of workload between ata centers in case of prediction error.
 
+### Electricity Price Prediction Model
+- Challenge: Predicting electricity prices is difficult because price pesries present such characteristics as nonconstant mean and variance and significant outliers.
+
 
 ### Simulation
 - Comparison
