@@ -39,4 +39,5 @@ In cloud computing, each center of execution (data center) are usually located i
 
 ### To Check
 - In page-188, the offline optimal algorithm is executed at every time slot? If yes, then the problem formualtion will be weak.
+- In page-189, is the decomposition of the workload by time slot &tau; reasonable? How to guarantee the executing order of all pieces of a job?
 
