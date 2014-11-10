@@ -31,3 +31,7 @@ In cloud computing, each center of execution (data center) are usually located i
 ### PPT
 - For motivation: draw a figure, mark different data centers of Amazon to show different prices, time zones, load balancing concept.
 
+
+### To Check
+- In page-188, the offline optimal algorithm is executed at every time slot? If yes, then the problem formualtion will be weak.
+
