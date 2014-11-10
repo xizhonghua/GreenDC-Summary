@@ -45,6 +45,9 @@ In cloud computing, each center of execution (data center) are usually located i
 	- The future price is odeled by Gaussian random varianble with known mean, which are predicted prices, and some estimated variance.
 		- Mean: predicted using `moving average method`
 		- Variance: estmated from the history by weighted average price prediction filter proposed in [[Mohsenian-Rad-2010]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5540263&tag=1)
+- Prediction of variance: using `linear regression` from the previous prices from yesterday, the day before yesterday (temporal data) and the same day last week (historical data).
+	- the coefficients for the moving average method can be estimated by training the model over previous say prices.
+	
 
 ### Simulation
 - Comparison
