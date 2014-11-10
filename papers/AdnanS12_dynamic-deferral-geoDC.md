@@ -33,6 +33,12 @@ In cloud computing, each center of execution (data center) are usually located i
 	- at time t, the total workload L<sub>t</sub> arrive at a central dispatcher from which load balancing decisionss are made.
 	- assumption: workload cannot be stored at dispatcher, they need to be dispatched to the data center after the assignment of workload for each data cener is determined. `My comment: assign immediately when they arrive?`
 
+### Online algorithm
+- Two levels
+	- dispatcher level: the dispatcher makes decision about the assignment of the incoming workload to data centers based on predicted future electricity price.
+	- data center level: the data centers make decision on adjusting the execution of the workload in current and future time slots and the migration of workload between ata centers in case of prediction error.
+
+
 ### Simulation
 - Comparison
 	- Since there is no constant competitive ratio for online algorithm, the authors compare the online algorithm with one that without migraiton and and future electricity price prediction.
