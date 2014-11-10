@@ -35,6 +35,7 @@ Reading List
 |30| [Socially-Responsible Load Scheduling Algorithms for Sustainable Data Centers over Smart Grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486018), by *Jian He*, in Smart Grid 2012| Me| |
 |31| [Coordination of Cloud Computing and Smart Power Grids](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622069), by *Mohsenian-Rad, A.-H.*, in Coordination of Cloud Computing and Smart Power Grids 2010| Me|**** | use grid|
 |32| [Two-dimensional packing problems: A survey](http://www.sciencedirect.com/science/article/pii/S0377221702001236), by *Andrea Lodi et al*, in EJOR 2002, [[Summary]](../papers/lodiMM02-2Dpack-survey.md)| Fei| |
+|33| [Scheduling Algorithms](http://people.csail.mit.edu/karger/Papers/scheduling.pdf), by *D. Karger et al*, in Handbook of algorithms and Theory of computation 1997, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/algorithms/KargerS_Scheduling-Algorithms.md)| Fei| |
 
 
 
