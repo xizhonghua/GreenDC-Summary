@@ -29,5 +29,5 @@ In cloud computing, each center of execution (data center) are usually located i
 
 
 ### PPT
-- For motivation: draw a figure, mark different data center of Amazon. 
+- For motivation: draw a figure, mark different data centers of Amazon to show different prices, time zones, load balancing concept.
 
