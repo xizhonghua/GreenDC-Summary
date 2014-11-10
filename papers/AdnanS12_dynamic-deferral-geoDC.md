@@ -31,6 +31,7 @@ In cloud computing, each center of execution (data center) are usually located i
 - Date centers
 	- a large computing facility ("cloud"), consisting of n data centers
 	- at time t, the total workload L<sub>t</sub> arrive at a central dispatcher from which load balancing decisionss are made.
+	- assumption: workload cannot be stored at dispatcher, they need to be dispatched to the data center after the assignment of workload for each data cener is determined. `My comment: assign immediately when they arrive?`
 
 ### Simulation
 - Comparison
