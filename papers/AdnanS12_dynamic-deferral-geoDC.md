@@ -28,6 +28,7 @@ In cloud computing, each center of execution (data center) are usually located i
 - latency: bounded delay
 - migration: allowed, in order to improve the performance in case of prediction error.
 - at time t, the total work load arrive is L<sub>t</sub>
+
 ##### Date centers
 - a large computing facility ("cloud"), consisting of n data centers
 - at time t, the total workload L<sub>t</sub> arrive at a central dispatcher from which load balancing decisionss are made.
