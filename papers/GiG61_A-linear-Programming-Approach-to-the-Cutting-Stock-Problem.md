@@ -11,3 +11,7 @@
     year = {1961}
 }
 ```
+
+### Intro
+- When expressed as integer programming, the problem may be computation infeasible.
+    - Reason: there could be large number of variables involved.
