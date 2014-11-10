@@ -31,7 +31,7 @@ In cloud computing, each center of execution (data center) are usually located i
 
 ### Simulation
 - Comparison
-	- Since there is not constant competitive ratio for online algorithm, the authors compare the online algorithm with one that without migraiton and and future electricity price prediction.
+	- Since there is no constant competitive ratio for online algorithm, the authors compare the online algorithm with one that without migraiton and and future electricity price prediction.
 
 ### PPT
 - For motivation: draw a figure, mark different data centers of Amazon to show different prices, time zones, load balancing concept.
