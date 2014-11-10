@@ -34,8 +34,7 @@ Reading List
 |29| [Server selection for carbon emission control](http://dl.acm.org/citation.cfm?id=2018538), by *Joseph Doyle*, in GreenNet 2011| Me| |
 |30| [Socially-Responsible Load Scheduling Algorithms for Sustainable Data Centers over Smart Grid](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6486018), by *Jian He*, in Smart Grid 2012| Me| |
 |31| [Coordination of Cloud Computing and Smart Power Grids](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622069), by *Mohsenian-Rad, A.-H.*, in Coordination of Cloud Computing and Smart Power Grids 2010| Me|**** | use grid|
-|32| [A linear programming approach to the stok cutting problem](http://www4.ncsu.edu/~kksivara/ma505/handouts/gilmore-gomory1.pdf), by *P.C. Gilmore et al.*, in Operational Research 1961, [[Summary]](../papers/GiG61_A-linear-Programming-Approach-to-the-Cutting-Stock-Problem.md)| Fei| |
-|33| [A linear programming approach to the stok cutting problem-Part II](http://www4.ncsu.edu/~kksivara/ma505/handouts/gilmore-gomory2.pdf), by *P.C. Gilmore et al.*, in Operational Research 1963, [[Summary]](../papers/GiG63_A-linear-Programming-Approach-to-the-Cutting-Stock-Problem-Part-II.md) | Fei| |
+
 
 
 
