@@ -28,4 +28,6 @@ In cloud computing, each center of execution (data center) are usually located i
 - latency: bounded delay
 
 
+### PPT
+- For motivation: draw a figure, mark different data center of Amazon. 
 
