@@ -40,7 +40,11 @@ In cloud computing, each center of execution (data center) are usually located i
 
 ### Electricity Price Prediction Model
 - Challenge: Predicting electricity prices is difficult because price pesries present such characteristics as nonconstant mean and variance and significant outliers.
-
+- Approach: Gaussian random varianbe
+	- They model the prediction noise by a Gaussian random variable with zero mean and **estimated** variance.
+	- The future price is odeled by Gaussian random varianble with known mean, which are predicted prices, and some estimated variance.
+		- Mean: predicted using `moving average method`
+		- Variance: estmated from the history by weighted average price prediction filter proposed in [[Mohsenian-Rad-2010]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5540263&tag=1)
 
 ### Simulation
 - Comparison
