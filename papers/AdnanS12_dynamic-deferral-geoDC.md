@@ -26,6 +26,7 @@ In cloud computing, each center of execution (data center) are usually located i
 ### Model
 ##### Workloads
 - latency: bounded delay
+- migration: allowed, in order to improve the performance in case of prediction error.
 
 
 ### PPT
