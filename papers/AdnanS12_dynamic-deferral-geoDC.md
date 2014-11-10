@@ -21,4 +21,8 @@ In this paper, the authors study the problem of workloads schedule among geograp
 
 
 ### Model
+##### Workloads
 - latency: bounded delay
+##### Cloud
+- In cloud computing, each center of execution (data center) are usually located in different geographic locations which are often in different time zones.
+
