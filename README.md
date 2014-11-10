@@ -15,7 +15,7 @@ Green Data Center
 ### Resource
 - [Traces](./traces)
 - [Tools](./tools)
-- [Sample Papers(writing)](./file/SamplePaper.md)
+- Writing: [Model](./file/writingModel.md)
 
 ### Background
 - [Energy basic knowledge](./energy)
