@@ -18,3 +18,7 @@
 In this paper, the authors study the problem of workloads schedule among geographic data centers aiming at minimizing cost while meeting deadlines.
 - They present an offline formulation.
 - They design an online algorithm to determine the assignment of worklod to data center. Simulation results demonstrated their proposed mechanism can achieve 20-30% cost-savings.
+
+
+### Model
+- latency: bounded delay
