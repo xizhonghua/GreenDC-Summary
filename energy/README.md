@@ -11,12 +11,3 @@ Basic Knowledge of Power
 ### Server 
 - [Power State](./file/serverState.md)
 
-### Energy
-- [Energy Type](./file/EnergyType.md)
-- [Energy Price](./file/EnergyPrice.md)
-
-### Strategy
-- [Energy Capping](./file/EnergyCapping.md)
-
-### Job Type
-- [Internet Service](./file/InternetService.md)
