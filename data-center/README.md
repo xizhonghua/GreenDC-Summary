@@ -19,7 +19,8 @@ Data Center
   - [Peak Power](./file/peakPower.md)
 - Energy Type
   - [Renewable Energy](./file/greenEnergy.md)
-
+  - [Brown Energy](./file/brownEnergy.md)
+  
 ### Workload
 - Types
   - [Task-aware workloads](./file/Task-aware workloads.md)
