@@ -7,3 +7,4 @@ Placing caps on the amount of energy used. When a service exceeds the cap, it mu
 
 ### Benefits
 Placing caps on large brown energy consumer like data centers can help business, utilities, and societies deal with carbon footprint challenges. 
+
