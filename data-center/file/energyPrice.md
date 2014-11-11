@@ -1,9 +1,15 @@
 Energy Price
 ---
 
+### Electricity market
+- There are two types of electricity markets: Wholesale Market and Retail Market. Due to the high consumption of electricity in data centers, they usually perchase electricity from the wholesale markets [[Liu-2011]](http://dl.acm.org/citation.cfm?id=1993767). 
+
+
+
 ### Electricity price volatility
 - Motivation
     - The spot power price of smart grid is adjusted dynamically in order to incentivize consumers to reduce their power demand when the grid is under stress. Consequently, power prices in different regions vary overtime and the workload processing cost in all data centers do not remain the same.
+    - Electricity price varies on a 5-minute or 15 minute basis in real time wholesale electricity market. Electricity in this market exhibit significant volatility with high frequency variation [[Qureshi-2009]](http://dl.acm.org/citation.cfm?id=1592584)
 - Power price example
     - In the following figure depicts the real time electricity prices of there different regions in North America namely Michigan, Minnesota and Wisconsin on February 29, 2012. The data reported here was obtain from the publicly available government agency [[Gov-2012]](http://www.ferc.gov/)
     - Example ![](../figs/powerPriceEg.PNG)
