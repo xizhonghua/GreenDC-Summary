@@ -18,7 +18,7 @@ Green Data Center
 - Writing: [Model](./file/writingModel.md)
 
 ### Background
-- [Energy basic knowledge](./energy)
+- [Server and Power Technical](./energy)
 - [Algorithms](./algorithms)
 
 ### Readings
