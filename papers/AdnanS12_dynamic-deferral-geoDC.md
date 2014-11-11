@@ -71,6 +71,7 @@ In cloud computing, each center of execution (data center) are usually located i
 
 ### Extension
 - Incorporate renewable energy in the model.
+- Incorporate heterogeneity.
 - If jobs are not with uniform deadline, then the prediction of future arriving workload will also be important?
 
 ## TODO
