@@ -13,6 +13,6 @@
 
 ### State transition time cost
 - [[Raj-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6151371)
-![](..figs/transitionTime.PNG)
+![](../figs/transitionTime.PNG)
 
 ### State transition energy cost
