@@ -28,3 +28,5 @@ In this paper, the authors propose a real-time message model with both **rate re
   - the maximum timing interval between two adjacent instances.
   - e.g., The message stream in an Airborne Warning and Control System (AWACS) recording the position of an aircraft with a velocity of 900km/h may be subject to a distance constraint of 400 msecsm in order to ensure that the ground station obtains a positional accuracy of 100 meters.
 
+### Model
+- Each message stream is represented using M<sub>i</sub> = (A<sub>i</sub>, maxD<sub>i</sub>)
