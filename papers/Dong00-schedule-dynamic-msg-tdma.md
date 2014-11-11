@@ -12,8 +12,17 @@
 ```
 
 ### Summary
-In this paper, the authors propose a real-time message model with both rate requirements and distance constraints. Two algorithms for scheduling dynamic real-time message streams in a TDMA frame are proposed and evaluated through simulations.
+In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. Two algorithms for scheduling dynamic real-time message streams in a TDMA frame are proposed and evaluated through simulations.
 
 
 ### Motivation
 - In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
+
+
+### Background
+- Time Division Multiple Access (TDMA)
+  - TDMA is a widely used protocol, where time is divided into equal length slots, each of which is equal to the transmission time of a message packet.
+- Rate constraints
+  - the proportion of time slots that should be assgined to a message stream.
+- Distance constraints
+  - the maximum timing interval between two adjacent instances.
