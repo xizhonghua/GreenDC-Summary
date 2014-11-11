@@ -9,10 +9,12 @@
 	- decommission: consumes 75W
 	- down (ACPI S3 “Sleep” state): cosumes 9W, static power
 - [[Raj-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6151371)
+
 <img src="../figs/powerStates.PNG" width="500px" />
 
 ### State transition time cost
 - [[Raj-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6151371)
+
 <img src="../figs/transitionTime.PNG" width="500px" />
 
 ### State transition energy cost
