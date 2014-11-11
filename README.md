@@ -17,7 +17,7 @@ Green Data Center
 - [Tools](./tools)
 - Writing: [Model](./file/writingModel.md)
 
-### Background
+### Fundamental Knowledge
 - [Server and Power Technical](./energy)
 - [Algorithms](./algorithms)
 
