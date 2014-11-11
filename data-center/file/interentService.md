@@ -1,5 +1,7 @@
 ## Internet Service
 
+### TODO
+- add description of service time etc.
 
 ### Characteristic
 The Internet services are supported by multiple data centers for high capacity, high availability, and low response time. The data center sit behind front-end devices that inspect each client request and forward it to one of the data centers according to a *request distribution policy*.
