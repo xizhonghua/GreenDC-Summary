@@ -25,6 +25,7 @@ Data Center
   - [Task-aware workloads](./file/Task-aware workloads.md)
   - [Map-Reduce workloads](./file/MR-worloads.md)
 - [Characteristic](./file/workloadChar.md)
+- Property: [[deadline]](./file/deadline.md]]
 
 ### Utilization
 - [CPU utilization](./file/CPU-utilization.md)
