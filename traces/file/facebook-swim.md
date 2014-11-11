@@ -17,3 +17,8 @@ Facebook SWIM workloads
 ### How to process the data
 - [[Adnan-2012]](../papers/AdnanS12_dynamic-deferral-geoDC.md) uses k-means clustering to classify the MapReduce workload into 10 groups based on the total sizes of map, shuffle and reduce bytes. Then jobs in small class (batch jobs) are assigned with larger deadline and larger class (interative jobs) are assigned with smaller deadline.
 ![](../figs/kmeanCluster.PNG)
+
+### Workload size
+- [[Chen-2011]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6005383)
+
+![](./figs/FBYHsize.PNG)
