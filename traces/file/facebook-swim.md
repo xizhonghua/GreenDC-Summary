@@ -21,4 +21,4 @@ Facebook SWIM workloads
 ### Workload size
 - [[Chen-2011]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6005383)
 
-![](./figs/FBYHsize.PNG)
+![](../figs/FBYHsize.PNG)
