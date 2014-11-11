@@ -64,6 +64,7 @@ In cloud computing, each center of execution (data center) are usually located i
 - In page-189, is the decomposition of the workload by time slot &tau; reasonable? How to guarantee the executing order of all pieces of a job?
 - In page-189, the execution time after migration is the same?
 - In page-191, why the prediction of the mean of electricity price is related to D?
+- In page 191, the online optimization can only move jobs to earlier slots, but not later slots?
 
 ### Extension
 - Incorporate renewable energy in the model.
