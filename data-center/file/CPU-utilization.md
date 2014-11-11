@@ -8,3 +8,10 @@ Data Center CPU Utilization
 
 ### Amazon
 - [Ref](http://huanliu.wordpress.com/2012/02/17/host-server-cpu-utilization-in-amazon-ec2-cloud/)
+- The profile of a random server
+
+![](../figs/ec2Util.PNG)
+
+- The profile of the busiest server observed
+
+![](../figs/ec2BusyUtil.PNG)
