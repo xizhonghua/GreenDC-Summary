@@ -72,3 +72,5 @@ In cloud computing, each center of execution (data center) are usually located i
 - Incorporate renewable energy in the model.
 - If jobs are not with uniform deadline, then the prediction of future arriving workload will also be important?
 
+## TODO
+- Page 192-193, read proof of Theorem 5.
