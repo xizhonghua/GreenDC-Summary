@@ -15,7 +15,12 @@ Energy Price
     - In the following figure depicts the real time electricity prices of there different regions in North America namely Michigan, Minnesota and Wisconsin on February 29, 2012. The data reported here was obtain from the publicly available government agency [[Gov-2012]](http://www.ferc.gov/)
     - Example ![](../figs/powerPriceEg.PNG)
     - As shown in the figure, the electricity prices are adjusted dynamically in every hour based on the instantaneous power demand and differs significantly based on the location of use.
-   
+- Public available realtime electricity price
+    - [Independent System Operator New England (ISO-NE)](http://www.iso-ne.com/)
+    - [New York Independent System Operator (NYISO)](http://www.nyiso.com/public/index.jsp)
+    - [Electric Reliability Council of Texas (ERCOT)](http://www.ercot.com/)
+    - [Electricity Market of New Zealand (NZ)](http://www.electricityinfo.co.nz/comitFta/ftapage.main)
+    
 ### Data center's impact on energy price
 - The electricity price in the wholesale market not only depends on the location and the time of a day, but also on the locational demand and the supply of power. 
 - Data centers, being massive energy consumers, are able to make a large impact on the **locational demand** of the power market. There fore, the data center operators can actively influence the price level by simply manipulating their demands which leads t o complex electricity market affecting power management.   
