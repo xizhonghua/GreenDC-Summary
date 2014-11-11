@@ -9,7 +9,7 @@ Basic Knowledge of Power
 - [DVFS+DFS](./file/DVFSDVS.md)
 
 ### Server 
-- [Power State](./file/powerState.md)
+- [Power State](./file/serverState.md)
 
 ### Energy
 - [Energy Type](./file/EnergyType.md)
