@@ -13,3 +13,7 @@
 
 ### Summary
 In this paper, the authors propose a real-time message model with both rate requirements and distance constraints. Two algorithms for scheduling dynamic real-time message streams in a TDMA frame are proposed and evaluated through simulations.
+
+
+### Motivation
+- In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
