@@ -31,5 +31,12 @@ In this paper, the authors propose a real-time message model with both **rate re
 ### Model
 - Each message stream is represented using M<sub>i</sub> = (A<sub>i</sub>, maxD<sub>i</sub>)
 
+### Comparison
+- Algorithms
+  - Dynamic approach v.s. Greedy approach
+- Metrics
+  - algorithm computational time
+  - accept ratio of messages
+  
 ### To Check
 - When assign a new message, did the author consider the impact of assignment on future arriving messages?
