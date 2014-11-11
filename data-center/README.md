@@ -25,6 +25,7 @@ Data Center
 - Types
   - [Task-aware workloads](./file/Task-aware workloads.md)
   - [Map-Reduce workloads](./file/MR-worloads.md)
+  - [Internet service](./file/interentService.md)
 - [Characteristic](./file/workloadChar.md)
 - Property: [[deadline]](./file/deadline.md)
 
