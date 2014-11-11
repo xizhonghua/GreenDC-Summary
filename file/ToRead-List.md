@@ -36,7 +36,6 @@ Reading List
 |31| [Coordination of Cloud Computing and Smart Power Grids](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5622069), by *Mohsenian-Rad, A.-H.*, in Coordination of Cloud Computing and Smart Power Grids 2010| Me|**** | use grid|
 |32| [Two-dimensional packing problems: A survey](http://www.sciencedirect.com/science/article/pii/S0377221702001236), by *Andrea Lodi et al*, in EJOR 2002, [[Summary]](../papers/lodiMM02-2Dpack-survey.md)| Fei| |
 |33| [Scheduling Algorithms](http://people.csail.mit.edu/karger/Papers/scheduling.pdf), by *D. Karger et al*, in Handbook of algorithms and Theory of computation 1997, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/algorithms/KargerS_Scheduling-Algorithms.md)| Fei| |
-
-
+|34| [](http://www.sigops.org/sosp/sosp09/papers/hotpower_5_stewart.pdf), by *C. Stewart*, in WPACS 2009, ,[[PPT]](http://web.cse.ohio-state.edu/~cstewart/Papers/stewarthotpower09-pres.pdf), [[Summary]](../papers/StewartC09-some-joules-precious.md)| Me| |
 
 
