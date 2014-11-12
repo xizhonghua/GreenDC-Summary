@@ -49,8 +49,9 @@ In this paper, the authors propose a real-time message model with both **rate re
 - When assign a new message, did the author consider the impact of assignment on future arriving messages?
   - Answer: the dynamic\_greedy algorithm doesn't take future arriving messages into account.
   
-### Minor Errors
+### Weakness
 - In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"
+- It would be interesting to see the comparing of the real computation time of the proposed two algorithms. Because theoretical running might not really show the performance in reality. Especially, the dynamic\_optimization algorithm needs some transformation which might introduce large time overhead.
 
 ### Questions, 
 - In Fig.2, in the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than selecting with objective to minimizing scheduling jitters?
