@@ -2,6 +2,7 @@ Done List
 ---
 
 - keep record of papers that have read. Selected papers are summarized at [Paper-Summary](https://github.com/hxwang/GreenDC-Summary/blob/master/README.md).
+- detail archive of data center related papers are at [[Detail Archive]](./file/detailArchive.md)
 
 ### Date Center: Survey
 | Title| Assinger| Date| Rate|
