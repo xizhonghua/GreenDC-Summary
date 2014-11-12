@@ -45,7 +45,7 @@ In this paper, the authors propose a real-time message model with both **rate re
 - When assign a new message, did the author consider the impact of assignment on future arriving messages?
 
 ### Minor Errors
-- In Fig.2, the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"
+- In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"
 
 ### Questions, 
-- In Fig.2, the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than select with objective to minimize scheduling jitters?
+- In Fig.2, in the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than selecting with objective to minimizing scheduling jitters?
