@@ -3,16 +3,17 @@
 - reading status: ing 11/06/2014
 - bib
 ```
-@INPROCEEDINGS{854012, 
+@INPROCEEDINGS{DongMM00, 
   AUTHOR = {Libin Dong and Melhem, R. and Mosse, D.}, 
-  BOOKTITLE = {Real-Time Systems, 2000. Euromicro RTS 2000. 12th Euromicro Conference on}, 
+  BOOKTITLE = {In proceedings of the 12th Euromicro Conference on Real Time Systems}, 
   TITLE = {Scheduling algorithms for dynamic message streams with distance constraints in TDMA protocol}, 
   YEAR = {2000}, 
   PAGES = {239-246}
+}
 ```
 
 ### Summary
-In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. The authors first present a **dynamic\_greedy** algorithm which is efficient and local optimal, but might have larger jitter and low acceptance ratio. Then the authors transform the original problem to an optimization problem aiming to reduce the scheduling jitters and improve the acceptance ratio. They convert the optimization problem to a graph problem with weighted ages, thus finding the shortest path is then equivalent to decrease the schedulng jitters. The authors proposed a **dynamic\_optimization** algorithm to solve the optimization problem.
+In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. The authors first present a **dynamic\_greedy** algorithm which is efficient and local optimal, but might have larger jitter and low acceptance ratio. Then the authors transform the original problem to an optimization problem aiming at reducing the scheduling jitters and improve the acceptance ratio. They convert the optimization problem to a graph problem with weighted ages, thus finding the shortest path is then equivalent to decreasing the schedulng jitters. The authors then proposed a **dynamic\_optimization** algorithm to solve the optimization problem. Simulations results demonstrate that dynamic\_optimization has slightly higher acceptance ratio than dynamic\_greedy approach, and the average jitters of dynamic\_optimization is far more smaller than dynamic\_greedy.
 
 
 ### Merits
