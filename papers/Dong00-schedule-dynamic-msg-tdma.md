@@ -43,7 +43,8 @@ In this paper, the authors propose a real-time message model with both **rate re
   
 ### To Check
 - When assign a new message, did the author consider the impact of assignment on future arriving messages?
-
+  - Answer: the dynamic\_greedy algorithm doesn't take future arriving messages into account.
+  
 ### Minor Errors
 - In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"
 
