@@ -31,10 +31,10 @@ In this paper, the authors propose a real-time message model with both **rate re
 - When convert the problem to graphic problem, what criteria do the authors use to assign the weight to edges and how do the weights corresponding to scheduling jitters
 
 ### Extension
-- When assigning a new message, it seems the author does not take into account of future arriving message. 
+- When assigning a new message, it seems the author does not take into account of future arriving message. Thus we might assuming that messages are predictable, then how can the performance can further improved?
 - The dynamic\_greedy algorithm might be improved by taking the scheduling jitterrs into account when assigning the remaining constants (line 9 in Figure 2).
 - Consider the case when the bandwidth is not a constant, but varies over time.
-- Assuming that messages are predictable, how can the performance can further improved?
+- Taking into account of transmission failure. What if the transmission in some slot fails, and needs to be recovered as soon as possible.
 
 
 ### Paper Contents
