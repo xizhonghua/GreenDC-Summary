@@ -37,10 +37,11 @@ In this paper, the authors propose a real-time message model with both **rate re
   - Answer: the dynamic\_greedy algorithm doesn't take future arriving messages into account.
 - Consider the case when the bandwidth is not a constant, but varies over time.
 
-### Motivation
-- In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
+
 
 ### Paper Contents
+##### Motivation
+- In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
 ##### Background
 - Time Division Multiple Access (TDMA)
   - TDMA is a widely used protocol, where time is divided into equal length slots, each of which is equal to the transmission time of a message packet.
