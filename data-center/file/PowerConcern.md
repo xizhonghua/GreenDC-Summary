@@ -6,7 +6,8 @@ Power Concern
 - According to Dr. Eric Schmidt, ECO of Google, "what matters most to the computer designer at Google is not speed, but power, low power, because data centers can consume as much electricity as a city [[Markoff-2009]](https://github.com/hxwang/GreenDC-Summary/blob/master/MarkoffL02_Intel's-Huge-Bet-Turns-Iffy.md)."
 - Estimates for 2010 indicate that collectively data centers consume around 1.5% of the total electricity used world-wide [[Koomey-2011]](http://www.analyticspress.com/datacenters.html).
 - Recent studies show that large-scale data centers consumed about 1.3% of all electricity use of the world, and 2% of all electricity usage for the United States in the year of 2010 [[Koomey-2011]](http://www.analyticspress.com/datacenters.html).
-
+- A high performance computing(HPC) center with 1000 racks and about 25000 square feet requires 100MW of energy for the computing infrastructure and an additional 5MW to remove the dissipated heat [[Patel-2003]](http://proceedings.asmedigitalcollection.asme.org/proceeding.aspx?articleid=1589423).
+- As of 2006, the data centers in the United States were consuming 61.4 billion kWh per year [[Goiri-2011]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6114408&tag=1), an amount of energy equivalent to that consumed by the entire transportation  manufacturing industry ( the industry that makes airplanes, ships, cars, trucks, and other means of transportation)
 
 ### Money cost concern
 - The wordwide expenditure on enterprise power and cooling of these servers is estimated to be in excess of $30 billion [[Raghavendra-2009]](https://github.com/hxwang/GreenDC-Summary/blob/master/RaR08-No-Power-Struggles-Coordinated-Multi-Level-Management-for-the-Data-Center.md)
