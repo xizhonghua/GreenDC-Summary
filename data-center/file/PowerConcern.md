@@ -21,5 +21,7 @@ Power Concern
 
 ### Trend
 - As the price of server hardware has remained relatively stable, energy cost becomes one of the primary components in the total cost of ownership for computer server systems in the data centers. 
+- Since the cost of powring HPC systems has been steadily rising with growing performance, while the cost of hardware has remained relatively stable, it is argued that if these trends were to continue, the energy cost of a large-scale system during its lifetime could surpass the equipment itself [[Fan-2007]](http://dl.acm.org/citation.cfm?id=1250665).
+
 
 ### 
