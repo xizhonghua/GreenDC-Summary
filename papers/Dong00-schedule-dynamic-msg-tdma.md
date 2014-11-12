@@ -21,22 +21,24 @@ In this paper, the authors propose a real-time message model with both **rate re
 - The transformation of the optimization problem to a graph problem is fantastic! Particularly, by assigning weight to edges, they convert the problem of decreasing of scheduling jitter problem to finding shortest path problem. 
 
 ### Weakness
-- No optimal offline algorithms are presented. Thus it might hard to know how good is the performance of the online algorithms. The offline algorithm is that assuming the sets of messages arriving are known, what is the optimal algorithm that can improve the acceptance ratio while decrease the scheduling jitters?
+- No optimal offline algorithms are presented. Thus it might hard to know how good are the performance of the online algorithms. The offline problem is that assuming the set of messages arriving are known beforehand, then what is the optimal algorithm that can improve the acceptance ratio while decrease the scheduling jitters?
 - In the simulation, why the authors compare their online algorithms with EDF, why not compare with other algorithms. For example, a randomized algorithm which randomly assign slots might be taken into account.
-- In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"
-- It would be interesting to see the comparing of the real computation time of the proposed two algorithms. Because theoretical running might not really show the performance in reality. Especially, the dynamic\_optimization algorithm needs some transformation which might introduce large time overhead.
+- In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"?
+- It would be interesting to see the comparison of the real computation time of the proposed two algorithms. Because theoretical running time might not really corresponds to the performance in reality. Especially, the dynamic\_optimization algorithm needs some transformation which might introduce large time overhead.
 
-### Questions
-- In Fig.2, in the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than selecting with objective to minimizing scheduling jitters?
-- When convert the problem to graphic problem, what criteria do the authors use to assign the weight to edges and how do the weights corresponding to scheduling jitters
+
 
 ### Extension
-- When assigning a new message, it seems the author does not take into account of future arriving message. Thus if we assume that messages are predictable, then how can the performance can be further improved?
-- The dynamic\_greedy algorithm might be improved by taking the scheduling jitterrs into account when assigning the remaining constants (line 9 in Figure 2).
+- When assigning a new message, it seems the authors did not take into account of future arriving message. Thus if we assume that messages are predictable, then how the performance can be further improved?
+- The dynamic\_greedy algorithm might be improved by taking the scheduling jitters into account when assigning the remaining constants (line 9 in Figure 2).
 - Consider the case when the bandwidth is not a constant, but varies over time.
 - Taking into account of transmission failure. What if the transmission in some slot fails, and needs to be recovered as soon as possible.
+- Consider the system is overloaded, and messages have different values, then how to decide the subsets of messages to accept and how to allocate slots to accepted messages?
 
-
+### Questions
+- In Fig.2, in the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than selecting with objective to minimize scheduling jitters?
+- When convert the problem to graphic problem, what criteria do the authors use to assign the weight to edges and how do the weights corresponding to scheduling jitters
+- 
 ### Paper Contents
 ##### Motivation
 - In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
