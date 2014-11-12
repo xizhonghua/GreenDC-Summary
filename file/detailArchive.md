@@ -1,5 +1,7 @@
 ## Detail Archive of papers
 
+- yes &#10003;
+- no &#10007;
 
 |Paper | Energy capping| Dynamic Energy Price| Peak power| Green energy| job parallel| job preemption| job deadline| obj| 
 |:-----|:------|:----|:----|:----|:----|:---|:----|:---|
