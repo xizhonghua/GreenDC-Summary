@@ -18,3 +18,8 @@
 <img src="../figs/transitionTime.PNG" width="500px" />
 
 ### State transition energy cost
+
+
+### Power ON/OFF for HPC
+- Idle power consumption: an idle Blue Gene/P rack still has a DC power consumption of about 13kW. Thus some nodes are shut down or switched to a low-power state during the time of low system utilization. 
+- In [[Pinheiro-2001]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.16.2690), the time used to power on the server is 100s, while the time to shut down is 45s, causing approximately 20% degradation in performance. 
