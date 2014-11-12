@@ -12,3 +12,11 @@ author={Zhou, Zhou and Lan, Zhiling and Tang, Wei and Desai, Narayan},
 pages={96-115}
 }
 ```
+
+### Summary
+
+
+### Problem Model
+- scheduling window: to guarantee fairness
+- scheduling mechanism
+  - rather than allocate jobs one by one from the wait queue, our scheduler makes decisions on a group of jobs selected from the waiting queue.
