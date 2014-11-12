@@ -1,6 +1,6 @@
 ## [Scheduling algorithms for dynamic message streams with distance constraints in TDMA protocol](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=854012&tag=1)
 
-- reading status: ing 11/06/2014
+- reading status: start 11/06/2014, finished 11/11/2014
 - bib
 ```
 @INPROCEEDINGS{DongMM00, 
@@ -17,12 +17,28 @@ In this paper, the authors propose a real-time message model with both **rate re
 
 
 ### Merits
-- The mapping of the maximum distance problem to the classical *pinwheel problem* is beautiful. This mapping better illustrates the distance constraint in the problem model and why the problem model in this paper is more compicated than *pinwheel problem*.
-- The mapping of the slot assigning problem to graph problem is fantastic! Particularly, by assigning weight to edges, they convert the problem of decreasing of scheduling jitter problem to finding shortest path problem. 
+- The mapping of the maximum distance problem to the classical *pinwheel problem* is beautiful. This mapping better illustrates the distance constraint in the proposed problem model and explains why the problem model in this paper is more compicated than *pinwheel problem*.
+- The transformation of the optimization problem to a graph problem is fantastic! Particularly, by assigning weight to edges, they convert the problem of decreasing of scheduling jitter problem to finding shortest path problem. 
+
+### Weakness
+- No optimal offline algorithms are presented. Thus it might hard to know how good is the performance of the online algorithms. The offline algorithm is that assuming the sets of messages arriving are known, what is the optimal algorithm that can improve the acceptance ratio while decrease the scheduling jitters?
+- In the simulation, why the authors compare their online algorithms with EDF, why not compare with other algorithms. For example, a randomized algorithm which randomly assign slots might be taken into account.
+- In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"
+- It would be interesting to see the comparing of the real computation time of the proposed two algorithms. Because theoretical running might not really show the performance in reality. Especially, the dynamic\_optimization algorithm needs some transformation which might introduce large time overhead.
+
+### Questions, 
+- In Fig.2, in the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than selecting with objective to minimizing scheduling jitters?
+- When convert the problem to graphic problem, what criteria do the authors use to assign the weight to edges and how do the weights corresponding to scheduling jitters
+
+### Extension
+- When assigning a new message, it seems the author does not take into account of future arriving message. 
+
+- did the author consider the impact of assignment on future arriving messages?
+  - Answer: the dynamic\_greedy algorithm doesn't take future arriving messages into account.
+- Consider the case when the bandwidth is not a constant, but varies over time.
 
 ### Motivation
 - In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
-
 
 ### Background
 - Time Division Multiple Access (TDMA)
@@ -46,15 +62,7 @@ In this paper, the authors propose a real-time message model with both **rate re
   - accept ratio of messages
   - scheduling jitter
   
-### To Check
-- When assign a new message, did the author consider the impact of assignment on future arriving messages?
-  - Answer: the dynamic\_greedy algorithm doesn't take future arriving messages into account.
-  
-### Weakness
-- In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"
-- It would be interesting to see the comparing of the real computation time of the proposed two algorithms. Because theoretical running might not really show the performance in reality. Especially, the dynamic\_optimization algorithm needs some transformation which might introduce large time overhead.
 
-### Questions, 
-- In Fig.2, in the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than selecting with objective to minimizing scheduling jitters?
-- When convert the problem to graphic problem, what criteria does the authors use to assign the weight to edges and how do the weights corresponding to scheduling jitters?
-- Why compare with EDF, why not compare with random assign?
+
+
+
