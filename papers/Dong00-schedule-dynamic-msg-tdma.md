@@ -12,9 +12,13 @@
 ```
 
 ### Summary
-In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. The authors first present a dynamic\_greedy algorithm which is efficient and local optimal, but might have larger jitter and low acceptance ratio.
+In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. The authors first present a dynamic\_greedy algorithm which is efficient and local optimal, but might have larger jitter and low acceptance ratio. Then the transform the problem to a graph problem with weighted ages, and finding the shortest path is then equivalent to decrease the schedulng jitters.
+
 - Two algorithms for scheduling dynamic real-time message streams in a TDMA frame are proposed and evaluated through simulations.
 
+### Merits
+- The mapping of the maximum distance problem to the classical *pinwheel problem* is beautiful. This mapping better illustrates the distance constraint in the problem model and why the problem model in this paper is more compicated than *pinwheel problem*.
+- The mapping of the slot assigning problem to graph problem is fantastic! Particularly, by assigning weight to edges, they convert the problem of decreasing of scheduling jitter problem to finding shortest path problem. 
 
 ### Motivation
 - In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
