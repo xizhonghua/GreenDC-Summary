@@ -13,5 +13,6 @@
   - Therefore, energy management must take into account of the reliability degradation and make provisions accordingly [[Haque-2013]](../../papers/Haque13_energy-aware-task-replication.md).
 
 ### Exceptions
-- [[Zhou-2014]](../../papers/ZhouLTD14-IBM-power-aware.md) DVFS is not appropriate for some HPC systems. For example, DVFS is both less feasible and less important for the blue gene series because it dose not include comparable infrastructure and already operates at highly optimized voltage and frequency ranges [[Hnnecke-2012]](http://link.springer.com/article/10.1007%2Fs00450-011-0192-y#page-1). Green Density [[Feng-02]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1137753) are build based on low frequency process to achieve the goal of energy efficiency which leaves little space for DVFS which performs better on systems equipped with high frequency processors. 
+- [[Zhou-2014]](../../papers/ZhouLTD14-IBM-power-aware.md) DVFS is not appropriate for some HPC systems. 
+  - For example, DVFS is both less feasible and less important for the blue gene series because it dose not include comparable infrastructure and already operates at highly optimized voltage and frequency ranges [[Hnnecke-2012]](http://link.springer.com/article/10.1007%2Fs00450-011-0192-y#page-1). Green Density [[Feng-02]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1137753) are build based on low frequency process to achieve the goal of energy efficiency which leaves little space for DVFS which performs better on systems equipped with high frequency processors. 
 
