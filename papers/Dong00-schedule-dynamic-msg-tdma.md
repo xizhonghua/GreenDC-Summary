@@ -38,7 +38,7 @@ In this paper, the authors propose a real-time message model with both **rate re
 ### Questions
 - In Fig.2, in the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than selecting with objective to minimize scheduling jitters?
 - When convert the problem to graphic problem, what criteria do the authors use to assign the weight to edges and how do the weights corresponding to scheduling jitters
-- 
+
 ### Paper Contents
 ##### Motivation
 - In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
