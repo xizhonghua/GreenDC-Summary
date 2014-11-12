@@ -26,7 +26,7 @@ In this paper, the authors propose a real-time message model with both **rate re
 - In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"
 - It would be interesting to see the comparing of the real computation time of the proposed two algorithms. Because theoretical running might not really show the performance in reality. Especially, the dynamic\_optimization algorithm needs some transformation which might introduce large time overhead.
 
-### Questions, 
+### Questions
 - In Fig.2, in the dynamic\_greedy algorithm,when instance\_needed  &le; k<sub>i</sub>, why randomly select other vacant slots rather than selecting with objective to minimizing scheduling jitters?
 - When convert the problem to graphic problem, what criteria do the authors use to assign the weight to edges and how do the weights corresponding to scheduling jitters
 
@@ -40,7 +40,8 @@ In this paper, the authors propose a real-time message model with both **rate re
 ### Motivation
 - In real-time communication, **predictable** and **guaranteed timeliness** is one of the cirtical components of the quality of service (QoS) requirement.
 
-### Background
+### Paper Contents
+##### Background
 - Time Division Multiple Access (TDMA)
   - TDMA is a widely used protocol, where time is divided into equal length slots, each of which is equal to the transmission time of a message packet.
 - Rate constraints
@@ -51,10 +52,10 @@ In this paper, the authors propose a real-time message model with both **rate re
 - Scheduling jitter
   - defined as the variance of the distance between all neibouring instances of a message stream, must be low for a smooth servicing quality.
 
-### Model
+##### Model
 - Each message stream is represented using M<sub>i</sub> = (A<sub>i</sub>, maxD<sub>i</sub>)
 
-### Comparison
+##### Comparison
 - Algorithms
   - Dynamic approach v.s. Greedy approach
 - Metrics
