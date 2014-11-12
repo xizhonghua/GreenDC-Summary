@@ -21,7 +21,7 @@ In this paper, the authors propose a real-time message model with both **rate re
 - The transformation of the optimization problem to a graph problem is fantastic! Particularly, by assigning weight to edges, they convert the problem of decreasing of scheduling jitter problem to finding shortest path problem. 
 
 ### Weakness
-- No optimal offline algorithms are presented. Thus it might hard to know how good is the performance of the online algorithms. The offline problem is that assuming the set of messages arriving are known beforehand, then what is the optimal algorithm that can improve the acceptance ratio while decrease the scheduling jitters?
+- No optimal offline algorithms are presented. Thus it might be hard to know how good is the performance of the online algorithms. The offline problem is that assuming the set of messages arriving are known beforehand, then what is the optimal algorithm that can improve the acceptance ratio while decrease the scheduling jitters?
 - In the simulation, why the authors compare their online algorithms with EDF, why not compare with other algorithms. For example, a randomized algorithm which randomly assigns slots might be taken into account.
 - In Fig.2, in the dynamic\_greedy algorithm,  instance\_needed  &le; k<sub>i</sub>, I think it should be "<" rather than "&le;"?
 - It would be interesting to see the comparison of the real computation time of the proposed two algorithms. Because theoretical running time might not really corresponds to the performance in reality. Especially, the dynamic\_optimization algorithm needs some transformation which might introduce large time overhead.
