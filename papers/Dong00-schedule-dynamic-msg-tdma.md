@@ -12,7 +12,8 @@
 ```
 
 ### Summary
-In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. Two algorithms for scheduling dynamic real-time message streams in a TDMA frame are proposed and evaluated through simulations.
+In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. The authors first present a dynamic\_greedy algorithm which is efficient and local optimal, but might have larger jitter and low acceptance ratio.
+- Two algorithms for scheduling dynamic real-time message streams in a TDMA frame are proposed and evaluated through simulations.
 
 
 ### Motivation
