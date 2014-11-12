@@ -28,7 +28,7 @@ In this paper, the authors propose a real-time message model with both **rate re
 
 
 
-### Extension
+### Possible Extensions
 - When assigning a new message, it seems the authors did not take into account of future arriving message. Thus if we assume that messages are predictable, then how the performance can be further improved?
 - The dynamic\_greedy algorithm might be improved by taking the scheduling jitters into account when assigning the remaining constants (line 9 in Figure 2).
 - Consider the case when the bandwidth is not a constant, but varies over time.
