@@ -2,7 +2,7 @@
 
 ### Intro
 - DVFS is a widely used technique for controlling CPU power since the power consumption of processors occupies a substantial portion of the total system power (roughly 50% under load) [[Mammela-2012]](http://link.springer.com/article/10.1007%2Fs00450-011-0189-6#page-1) 
-
+- DVFS enables a process to run at a lower frequency or voltage, increasing the job execution time in order to gain energy savings.
 
 
 ### Definition 
