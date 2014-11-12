@@ -32,11 +32,9 @@ In this paper, the authors propose a real-time message model with both **rate re
 
 ### Extension
 - When assigning a new message, it seems the author does not take into account of future arriving message. 
-
-- did the author consider the impact of assignment on future arriving messages?
-  - Answer: the dynamic\_greedy algorithm doesn't take future arriving messages into account.
+- The dynamic\_greedy algorithm might be improved by taking the scheduling jitterrs into account when assigning the remaining constants (line 9 in Figure 2).
 - Consider the case when the bandwidth is not a constant, but varies over time.
-
+- Assuming that messages are predictable, how can the performance can further improved?
 
 
 ### Paper Contents
