@@ -12,7 +12,7 @@
 ```
 
 ### Summary
-In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. The authors first present a dynamic\_greedy algorithm which is efficient and local optimal, but might have larger jitter and low acceptance ratio. Then the author transform the original problem to an optimization problem aiming to reduce the scheduling jitters and improve the acceptance ratio. They convert the optimization problem to a graph problem with weighted ages, thus finding the shortest path is then equivalent to decrease the schedulng jitters.
+In this paper, the authors propose a real-time message model with both **rate requirements** and **distance constraints**. The authors first present a **dynamic\_greedy** algorithm which is efficient and local optimal, but might have larger jitter and low acceptance ratio. Then the authors transform the original problem to an optimization problem aiming to reduce the scheduling jitters and improve the acceptance ratio. They convert the optimization problem to a graph problem with weighted ages, thus finding the shortest path is then equivalent to decrease the schedulng jitters. The authors proposed a **dynamic\_optimization** algorithm to solve the optimization problem.
 
 
 ### Merits
