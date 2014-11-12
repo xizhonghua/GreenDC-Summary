@@ -31,6 +31,13 @@ Done List
 |:-----|:--------|:----|:----|
 | [Joint Scheduling of Tasks and Messages for Energy Minimization in Interference-aware Real-time Sensor Networks](http://www.computer.org/csdl/trans/tm/preprint/06547140.pdf), by *Benazir Fateh*, in Transactions on Mobile Computing 2014, [[Summary]](./papers/Fetah14_Tasks-Msg-Schedule.md)| Hakan| 10/22/2014| ***|
 
+### Scheduling Topic
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+|[Scheduling algorithms for dynamic message streams with distance constraints in TDMA protocol](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=854012), by *Libin Dong*, in RTS 2000, [[Summary]](../papers/Dong00-schedule-dynamic-msg-tdma.md)| Hakan| 11/11/2014| ****|
+
+
+
 ### MISC
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
