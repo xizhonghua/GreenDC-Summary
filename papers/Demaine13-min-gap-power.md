@@ -29,3 +29,6 @@ In this paper, the authors study the problem of tasks scheduling with the object
 
 ### Skip for now
 - Section 1.1 to end.
+
+### Comments
+- Hard to understand, need discussion!
