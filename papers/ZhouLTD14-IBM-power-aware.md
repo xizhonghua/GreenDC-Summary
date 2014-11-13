@@ -1,6 +1,6 @@
 ## [Reducing Energy Costs for IBM Blue Gene/P via Power-Aware Job Scheduling](http://link.springer.com/chapter/10.1007%2F978-3-662-43779-7_6#)
 
-- reading status: start 11/12/2014
+- reading status: start 11/12/2014, finished on 11/12/2014
 - bib
 ```
 @incollection{ZhouLTD14
