@@ -16,6 +16,13 @@ Done List
 |[GreenHadoop: Leveraging Green Energy in Data-Processing Frameworks](http://dl.acm.org/citation.cfm?id=2168843), by *Inigo Goiri et al*, in EuroSys 2012, [[Summary]](../papers/GoiriL12_GreenHadoop.md),[[PPT]](../file/GreenHadoop.pptm), [[Video]](https://www.youtube.com/watch?v=MiDxApkMrCI&feature=youtu.be) | Hakan | 10/25/2014|  ***|
 | [Reducing Energy Costs for IBM Blue Gene/P via Power-Aware Job Scheduling](http://link.springer.com/chapter/10.1007%2F978-3-662-43779-7_6), by *Zhou zhou*, in Job Scheduling Strategies for Parallel Processing 2014, [[Summary]](../papers/ZhouLTD14-IBM-power-aware.md)| Me|11/12/2014|  ***|
 
+
+### Data Center: Maximize Green Energy Usage
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+| [Utilizing green energy prediction to schedule mixed batch and service jobs in data centers](http://dl.acm.org/citation.cfm?id=2039257), by *Baris Aksanli*, in HotPower 2011, [[Summary]](../papers/AksanliVZR11_mixed-batch-service.md)| Me| 11/12/2014| **|
+
+
 ### Resource Augmentation
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
