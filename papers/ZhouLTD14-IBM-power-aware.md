@@ -37,3 +37,7 @@ pages={96-115}
 
 ### Questions
 - They didn't mention the length of a job. So do they assume that each job can be finished in exactly one scheduling window? Otherwise, if jobs have different execution time, it seems this mechanism will not work.
+
+
+### Extension
+- Integrate renewable energy.
