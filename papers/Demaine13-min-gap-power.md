@@ -8,3 +8,6 @@
 ### Summary
 
 ### Problem Model
+- Server
+  - each server can go to sleep at cost &alpha;
+- Job
