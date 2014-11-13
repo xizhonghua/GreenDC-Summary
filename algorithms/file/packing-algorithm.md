@@ -29,6 +29,6 @@ We are given a set of n rectangular items j \in J = {1,...,n}, each defined by a
 
 
 ### NP hardness
-- Both problems are strongly NP-hard, as is easily seen by transformation from the strongly NP-hard (one-dimentional) Bin Packing Problem (1BP)
+- Both problems are **strongly NP-hard**, as is easily seen by transformation from the strongly NP-hard (one-dimentional) Bin Packing Problem (1BP)
 - Reduce to 1BP
  - there are n items, each haveing an associated size h<sub>j</sub>, have to be partitioned into the minimum number of subsets so that the sum of the sizes in each subset does not exceed a given capacity H.
