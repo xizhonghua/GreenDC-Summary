@@ -24,4 +24,4 @@ pages={96-115}
   - with power profiling
 - schedule problem
   - How can we schedule jobs with different power profiles, without exceeding a predefined power budget and at the same time not affecting system utilization and not breaking the fairness of scheduling as much as possible?
-  - i.e., **o-1 Knapsack Model**, given a set of jobs and the required node of each job, the objective is to find the subset of jobs to execute to maximize the number of nodes used with the energy budget constraint.
+  - i.e., **0-1 Knapsack Model**, given a set of jobs and the required node of each job, the objective is to find the subset of jobs to execute to maximize the number of nodes used with the energy budget constraint.
