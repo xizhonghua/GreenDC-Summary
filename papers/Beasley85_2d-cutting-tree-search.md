@@ -3,8 +3,7 @@
 - reading status: haven't started
 - bib
 ```
- @article{1985,
-     jstor_articletype = {research-article},
+ @article{Beasley85,
      title = {An Exact Two-Dimensional Non-Guillotine Cutting Tree Search Procedure},
      author = {Beasley, J. E.},
      journal = {Operations Research},
