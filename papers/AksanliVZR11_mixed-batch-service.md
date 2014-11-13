@@ -22,3 +22,7 @@ In this paper, the authors design adaptive data center job scheduler which utili
 
 ### My Comments
 - It seems that they always prefer to schedule the web requests first to guarantee the time response requirements.
+
+### Skip for now
+- the system architecture
+- the simulation
