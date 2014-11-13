@@ -14,6 +14,10 @@
     }
 ```
 
+### Intro
+- Guillotine cut
+ - a cut rom one edge of the rectangle to the opposite edge, parallel to the two remaining edges.
+ 
 ### Summary
 In this paper, the authors consider the two-dimensional cutting problem of cutting a number of rectangular pieces from a single large rectangle so a to maximize the value of the pieces cut. 
 - They develop a **Largrangean** relaxization of a zero-one integer programming formulation of the problem and use it as a bound in a tree search procedure.
