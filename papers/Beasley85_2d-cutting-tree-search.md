@@ -27,3 +27,6 @@ In this paper, the authors consider the two-dimensional cutting problem of cutti
 ### Problem Model and Solution 
 - [Latex-version](../algorithms/file/tex/2dILP.tex)
 - [Pdf-version](../algorithms/file/tex/2dILP.pdf)
+
+### Skip for now
+- Section 1.2 to the end. The remaining part talks about how to use tricks to solve the integer linear programmming.
