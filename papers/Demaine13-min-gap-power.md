@@ -26,3 +26,6 @@ In this paper, the authors study the problem of tasks scheduling with the object
 
 ### Question
 1. In page 152, what does "where each job has one interval (arrival time and deadline)" mean?
+
+### Skip for now
+- Section 1.1 to end.
