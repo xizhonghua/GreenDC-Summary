@@ -12,3 +12,12 @@ Allocate a set of rectangular items to large rectangular standardized units by m
 
 
  
+### Problem Model
+We are given a set of n rectangular items j \in J = {1,...,n}, each defined by a width, w<sub>j</sub>, and a height, h<sub>j</sub>.
+
+- In the 2D bin packing problem (2BP)
+ - We are further given an unlimited number of identical rectangular bins of width W and height H
+ - The objective is to allocate all the items to the minimum number of bins
+- In the 2D strip packing problem (2SP)
+ - We are further given a bin of width W and infinite height (hereafter called strip)
+ - The objectie is to allocate all the items to the strip by minimizing the height to which the strip is used.
