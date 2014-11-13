@@ -22,3 +22,7 @@ In this paper, the authors study the problem of tasks scheduling with the object
 - Objective
   - Power minimization: minimize the total transition costs plus the total time spent in the active state.
   - Gap scheduling: minimize the total number of transitions. `Comment: though minimizing total power is the most natural measure, minimizing the number of transitions (as in gap scheduling) seems stronger from the point of view of approxiamtion algorithm`.
+
+
+### Question
+1. In page 152, what does "where each job has one interval (arrival time and deadline)" mean?
