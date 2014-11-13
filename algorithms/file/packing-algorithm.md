@@ -21,3 +21,6 @@ We are given a set of n rectangular items j \in J = {1,...,n}, each defined by a
 - In the 2D strip packing problem (2SP)
  - We are further given a bin of width W and infinite height (hereafter called strip)
  - The objectie is to allocate all the items to the strip by minimizing the height to which the strip is used.
+
+### Assumption
+- the items have to be packed with their w-edges parallel to the W-edge of the bins (or strips).
