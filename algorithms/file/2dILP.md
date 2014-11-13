@@ -8,4 +8,4 @@
   - Let P<sub>i</sub> and Q<sub>i</sub> be the minimum number of pieces of type i that cna be cut from A<sub>0</sub>.
 
 ### Define
-- x<ipq> = 1 if a piece of type i is cut with its bottom left-hand corner at (p,q) where 0 &le; p &le; L<sub>0</sub>- L<sub>i</sub> and 0 &le; q &le; W<sub>0</sub>- W<sub>i</sub>
+- x<sub>ipq</sub> = 1 if a piece of type i is cut with its bottom left-hand corner at (p,q) where 0 &le; p &le; L<sub>0</sub>- L<sub>i</sub> and 0 &le; q &le; W<sub>0</sub>- W<sub>i</sub>
