@@ -19,4 +19,6 @@
 - Difficulties in integrating renewable energy
     - Renewable energy sites are usually located in remote areas with limited transmission capacity; distant sites also create increased transmission loss.
     - Therefore, distributing workload for maximizing renewable energy utilization is not always easy to achieve.
-   
+ 
+### Prediction
+- The production of green energy is very susceptible to environmental changes. This limits the use of green energy in time-sensitive applications. Prediction can reduce the uncertainty of the available resources, allowing end-users to scale demand with the predicted supply. [[Aksanli-2011]](papers/AksanliVZR11_mixed-batch-service.md).
