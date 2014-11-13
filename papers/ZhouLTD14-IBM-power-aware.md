@@ -20,3 +20,7 @@ pages={96-115}
 - scheduling window: to guarantee fairness
 - scheduling mechanism
   - rather than allocate jobs one by one from the wait queue, our scheduler makes decisions on a group of jobs selected from the waiting queue.
+- jobs
+  - with power profiling
+- schedule problem
+  - How can we schedule jobs with different power profiles, without exceeding a predefined power budget and at the same time not affecting system utilization and not breaking the fairness of scheduling as much as possible?
