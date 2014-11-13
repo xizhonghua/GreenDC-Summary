@@ -20,6 +20,8 @@ Data Center
 - Energy Type
   - [Renewable Energy](./file/greenEnergy.md)
   - [Brown Energy](./file/brownEnergy.md)
+- Energy Prediction
+  - [Solar Energy Prediction](./file/solarPredict.md)
   
 ### Workload
 - Types
