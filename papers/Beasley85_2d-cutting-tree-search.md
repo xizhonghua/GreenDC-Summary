@@ -22,3 +22,8 @@
 In this paper, the authors consider the two-dimensional cutting problem of cutting a number of rectangular pieces from a single large rectangle so a to maximize the value of the pieces cut. 
 - They develop a **Largrangean** relaxization of a zero-one integer programming formulation of the problem and use it as a bound in a tree search procedure.
 - *Subgradient* optimization is used to optimize the bound derived from the Lagrangean relaxzation.
+
+
+### Problem Model and Solution 
+- [Latex-version](../algorithms/file/tex/2dILP.tex)
+- [Pdf-version](../algorithms/file/tex/2dILP.pdf)
