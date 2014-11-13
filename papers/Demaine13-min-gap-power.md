@@ -6,6 +6,10 @@
 ```
 
 ### Summary
+In this paper, the authors study the problem of tasks scheduling with the objective to minimize the power consumption and minimize the number of gaps. Each power can go to sleep at cost &alpha;. They design polynomial-time algorithm based on sophisticated dynamic programming for both objectives. 
+- For power saving problem, they develp a (1+2/3&alpha;)-approximation algorithm, and show that dependence on &alpha; is necessary.
+- For multi-interval gap scheduling problem, it is set-cover hard. They give an O(\sqrt(n))-approximation for maximizing throughput given a hard upper bound on the number of gaps.
+
 
 ### Problem Model
 - Server
