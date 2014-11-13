@@ -1,6 +1,6 @@
 ## [Utilizing green energy prediction to schedule mixed batch and service jobs in data centers](http://dl.acm.org/citation.cfm?id=2039257)
 
-- reading status: start 11/12/2014
+- reading status: start 11/12/2014, finished on 11/12/2014
 - bib
 ```
 @inproceedings{Aksanli:2011:UGE:2039252.2039257,
@@ -14,7 +14,7 @@
 ```
 
 ### Summary
-In this paper, the authors design adaptive data center job scheduler which utilizes short term prediction of solar and wind energy production.
+In this paper, the authors design adaptive data center job scheduler which utilizes short term prediction of solar and wind energy production. However, there is no optimization problem modeled in this paper. The authors mainly show that prediction of green energy could reduce the rescheduling of jobs and enhance the usage of green energy.
 
 ### Introduction
 - Due to the uncertainty of green energy, jobs may need to be cancelled and rescheduled when green energy become low. This could result in a wasting of energy.
