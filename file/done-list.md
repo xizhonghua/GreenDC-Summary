@@ -32,7 +32,7 @@ Done List
 ### Energy-aware Reliability Management
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
-|[Energy-aware task replication to manage reliability for periodic real-time applications on multicore platforms](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6604518&tag=1), by *Haque, M.A.*, in IGCC 2013, [[Summary]](../papers/Haque13_energy-aware-task-replication.md)| Hakan| Due 11/05/2014|****|
+|[Energy-aware task replication to manage reliability for periodic real-time applications on multicore platforms](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6604518&tag=1), by *Haque, M.A.*, in IGCC 2013, [[Summary]](../papers/Haque13_energy-aware-task-replication.md)| Hakan|  11/05/2014|****|
 
 ### Wireless Sensor Network (WSN)
 | Title| Assinger| Date| Rate|
