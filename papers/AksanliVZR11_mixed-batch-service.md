@@ -12,3 +12,6 @@
  numpages = {5}
 } 
 ```
+
+### Summary
+In this paper, the authors design adaptive data center job scheduler which utilizes short term prediction of solar and wind energy production.
