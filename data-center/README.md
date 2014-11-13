@@ -38,9 +38,6 @@ Data Center
 ### Simulation Setup
 - [Internet Data Center](./file/simIDC.md)
 
-### Key Feature Directions
-- [Future work](https://github.com/hxwang/Private-Documents/tree/master/GreenDCFutureWork)
-
 ### OutLink
 - [TODO](./file/todo.md)
 
