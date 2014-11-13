@@ -33,3 +33,7 @@ pages={96-115}
 
 ### My comment
 - Note that they only apply their algorithms in the on-peak periods. The idea is to reduce the power consumption density of jobs, so as not to hurt the utilization as well as use as less energy as possible,
+
+
+### Questions
+- They didn't mention the length of a job. So do they assume that each job can be finished in exactly one scheduling window? Otherwise, if jobs have different execution time, it seems this mechanism will not work.
