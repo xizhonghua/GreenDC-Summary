@@ -19,3 +19,6 @@ In this paper, the authors design adaptive data center job scheduler which utili
 ### Introduction
 - Due to the uncertainty of green energy, jobs may need to be cancelled and rescheduled when green energy become low. This could result in a wasting of energy.
 - Thus prediction of green energy availability might improve the energy usage.
+
+### My Comments
+- It seems that they always prefer to schedule the web requests first to guarantee the time response requirements.
