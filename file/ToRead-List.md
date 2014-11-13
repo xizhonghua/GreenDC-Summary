@@ -37,6 +37,6 @@ Reading List
 |32| [Two-dimensional packing problems: A survey](http://www.sciencedirect.com/science/article/pii/S0377221702001236), by *Andrea Lodi et al*, in EJOR 2002, [[Summary]](../papers/lodiMM02-2Dpack-survey.md)| Fei| |
 |33| [Scheduling Algorithms](http://people.csail.mit.edu/karger/Papers/scheduling.pdf), by *D. Karger et al*, in Handbook of algorithms and Theory of computation 1997, [[Summary]](../papers/KargerS_Scheduling-Algorithms.md)| Fei| |
 |34| [Green-aware workload scheduling in geographically distributed data centers](http://dl.acm.org/citation.cfm?id=2469301), by *Changbing Chen*, in CLOUD 2012| Me| |
-|35| [Utilizing green energy prediction to schedule mixed batch and service jobs in data centers](http://dl.acm.org/citation.cfm?id=2039257), by *Baris Aksanli*, in HotPower 2011| Me| |
+|35| [Utilizing green energy prediction to schedule mixed batch and service jobs in data centers](http://dl.acm.org/citation.cfm?id=2039257), by *Baris Aksanli*, in HotPower 2011, [[Summary]](../papers/AksanliVZR11_mixed-batch-service.md)| Me| |
 
 
