@@ -25,3 +25,11 @@ pages={96-115}
 - schedule problem
   - How can we schedule jobs with different power profiles, without exceeding a predefined power budget and at the same time not affecting system utilization and not breaking the fairness of scheduling as much as possible?
   - i.e., **0-1 Knapsack Model**, given a set of jobs and the required node of each job, the objective is to find the subset of jobs to execute to maximize the number of nodes used with the energy budget constraint.
+
+
+### Scheduling algorithm
+- When the electricity price is high, in order to save energy costs, they reduce the total amount of powre demand consumed by the jobs allocated on the system.
+
+
+### My comment
+- Note that they only apply their algorithms in the on-peak periods. The idea is to reduce the power consumption density of jobs, so as not to hurt the utilization as well as use as less energy as possible,
