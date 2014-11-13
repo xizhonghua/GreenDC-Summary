@@ -1,0 +1,129 @@
+%\documentclass[10pt,conference]{IEEEtran}
+
+\documentclass[10 pt,final]{article}
+
+\usepackage{amssymb} \usepackage{amsmath} \usepackage{amsthm} \usepackage{algorithm} \usepackage{algorithmic} \usepackage{url} \usepackage[margin=1in]{geometry}
+
+\usepackage{subfigure}
+
+\newtheorem{theorem}{Theorem} \newtheorem{lemma}{Lemma} \newtheorem{corollary}{Corollary} \newtheorem{definition}{Definition} \newtheorem{assumption}{Assumption} \newtheorem{example}{Example}
+\newtheorem{observation}[theorem]{Observation}
+%\newtheorem{theorem}{Theorem} \newtheorem{definition}{Definition} \newtheorem{remark}{Remark} \newtheorem{lemma}{Lemma} \newtheorem{corollary}{Corollary} \newtheorem{fact}{Fact} \newtheorem{invariant}{Invariant}
+
+\usepackage{color}
+\newcounter{todocounter}
+\newcommand{\todo}[1]{\stepcounter{todocounter}\textcolor{red}{to-do\#\arabic{todocounter}: #1}}
+\newcommand{\answer}[1]{{\color{magenta} #1}}
+\newcommand{\question}[1]{{\color{blue} #1}}
+
+
+
+\usepackage{graphicx}
+\graphicspath{{./Figures/}}
+
+
+\begin{document}
+\title{Two Dimensional Cutting}
+\date{}
+\maketitle
+
+%\author{Huangxin Wang\thanks{Department of Computer Science, George Mason University. Fairfax, VA 22030. Email: \textsf{hwang14@gmu.edu}}}
+
+\section{Problem Model}
+A large rectangle $A_0 = (L_0, W_0)$ of length $L_0$ and width $W_0$ is to be cut into m smaller rectangular pieces; piece i has size $(L_i, W_i)$ and value $v_i$. Let $P_i$ and $Q_i$ be the minimum and maximum number of pieces of type i that can be cut from $A_0 (0 \leq P_i \leq Q_i$ for $i=1,\cdots, m)$.
+
+Notations used in this analysis is summarized in Table~\ref{tb_notation}.
+
+\begin{table}[ht!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+notation & meaning \\ \hline
+\hline
+$A_0$ & a large rectangle \\ \hline
+$L_0$ & length of the large rectangle \\ \hline
+$W_0$ & width of the large rectangle \\ \hline
+$L_i$ & length of type $i$ rectangle \\ \hline 
+$W_i$ & width of type $i$ rectangle \\ \hline
+$v_i$ & value of type $i$ rectangle \\ \hline 
+$P_i$ & minimum number of pieces of type $i$ rectangle \\ \hline 
+$Q_i$ & maximum number of pieces of type $i$ rectangle \\ \hline 
+\end{tabular}
+\label{tb_notation}
+\end{table}
+
+
+\section{Solution}
+We define $q_{ipqr}$ and $x_{ipq}$ in the following
+
+\begin{displaymath}
+a_{ipqrs} = 
+\begin{cases} 
+1 &\mbox{if a piece of type i, when cut its bottom left-hand corner at (p,q), cuts out the point (r,s)} \\ 
+0 & \mbox{otherwise} \\
+\end{cases} 
+\end{displaymath}
+
+To prevent double counting when two pieces are cut adjacent to one another, we define
+\begin{displaymath}
+a_{ipqrs} = 
+\begin{cases} 
+1 &\mbox{if $0 \leq p \leq r \leq p+L_i-1 \leq L_0 - 1$ and $0 \leq q \leq s \leq q+W_i-1 \leq W_0 -1$} \\ 
+0 & \mbox{otherwise} \\
+\end{cases} 
+\end{displaymath}
+
+We define $x_{ipq}$
+
+$a_{ipqrs}$ = \\
+\begin{displaymath}
+\begin{cases} 
+1 &\mbox{if a piece of type i is cut with its bottom left-hand corner at (p,q) where $0 \leq p \leq L_0 - L_i$ and $0 \leq q \leq W_o - w_i$} \\ 
+0 & \mbox{otherwise} \\
+\end{cases} 
+\end{displaymath}
+
+
+
+Then the program is 
+\begin{align}
+\mbox{maximize } \sum^m_{i=1} \sum_{p \in L} \sum_{q \in W} v_i x_{ipq} \\
+\mbox{subject to } \sum^m_{i=1} \sum_{p \in L} \sum_{q \in W} a_{ipqrs} x_{ipq} \leq 1, \forall r \in L, s \in W \\
+P_i \leq \sum_{p \in L} \sum_{q \in W} x_{ipq} \leq Q_i, i = 1, ..., m \\ 
+x_{ipq} \in (0,1), i=1,..., m ,\forall p \in L, q \in W 
+\end{align}
+
+The first constraint ensures that any point is cut out by at most one pieces;
+
+The second constraint ensure that the number of cut pieces of any type lies within the required range;
+
+The third constraint is the integrality constraint.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%\begin{figure}[!ht]
+%\centering
+%\subfigure[]{\includegraphics[width= 3 in]{TheoreticalProbability_1000Proxy.PNG}\label{lableA}}
+%\subfigure[]{\includegraphics[width= 3 in]{BestAggressiveness_1000Proxy.pdf} \label{labelB}}
+%\caption{
+%(a)a caption,
+%(b)b caption
+%}
+%\end{figure}
+
+
+\bibliographystyle{plain}
+\bibliography{FileNameOfBib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
