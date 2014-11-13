@@ -18,10 +18,3 @@
 ### Summary
 
 
-### Two-dimensional packing
-- Allocate a set of rectangular items to large rectangular standardized units by minimizing the waste.
-
-### Two-dimensional bin packing 
-
-
-### Two-dimensional strip packing
