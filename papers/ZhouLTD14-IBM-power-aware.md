@@ -14,7 +14,7 @@ pages={96-115}
 ```
 
 ### Summary
-In the paper, the authors study the problem of reducing energy cost at high-performance computing (HPC) systems. They consider the dynamic electricity price, jobs power profile and energy capping. By using scheduling windows, they guarantee the fairness of jobs and forming the problem into a 0-1 knapsack problem. The idea is to schedule less power-intensive jobs when electricity is high, i.e., maximize the number of nodes used while meeting the power budget constraints.
+In the paper, the authors study the problem of reducing energy cost at high-performance computing (HPC) systems. They consider the dynamic electricity price, jobs power profile and energy capping. By using scheduling windows, they guarantee the fairness of jobs and form the problem into a 0-1 knapsack problem. The idea is to schedule low power-intensive jobs when electricity price is high, i.e., maximize the number of nodes used (guarantee system utilization) while meeting the power budget constraints.
 
 ### Problem Model
 - scheduling window: to guarantee fairness
