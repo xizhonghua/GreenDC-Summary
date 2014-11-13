@@ -25,6 +25,7 @@ Green Data Center
 ### Readings
 - [To Read](./file/ToRead-List.md)
 - [Done-List](./file/done-list.md)
+- [Browsed-List](./file/BrowsedList.md)
 
 ### Standards
 - [Paper Summary Template](./papers/template.md)
