@@ -7,7 +7,9 @@
   - cooling system
   ![](../fig/arch.PNG)
   
-  
+  - Geographically distributed data centers with both green and brown energy sources [[Chen-2012]]()
+  ![](../fig/geoDataCenter.PNG)
+
  ### IT equipment
  Primarily, there are three kinds of electronic equipments hosted in a typical data center
  - server for data processing
