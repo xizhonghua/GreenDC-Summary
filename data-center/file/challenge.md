@@ -6,3 +6,4 @@
 - [Dynamic Energy Price](./energyPrice.md)
 - Workloads uncertainty
 
+
