@@ -1,10 +1,11 @@
 ## Distributed Data Center Architecture
 
 
-- Major components of a data center
+### Major components of a data center
   - IT equipment
   - power delivery system
   - cooling system
+  - architecture
   ![](../fig/arch.PNG)
   
   - Geographically distributed data centers with both green and brown energy sources [[Chen-2012]](../../papers/ChenHT12-greenAware-geo-schedule.md)
