@@ -10,7 +10,7 @@
 
 - Geographically distributed data centers with both green and brown energy sources [[Chen-2012]](../../papers/ChenHT12-greenAware-geo-schedule.md)
 ![](../fig/geoDataCenter.PNG)
- - Switch: each data center has a switch connected with both green sources and brown sources (e.g., public grids). Research has been devoted to improve the efficiency of this kind of switch [[Li-2012]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6237044). In most of the problem model, we can assume an ideal switch: when the power demand is higher than 
+ - **Switch**: each data center has a switch connected with both green sources and brown sources (e.g., public grids). Research has been devoted to improve the efficiency of this kind of switch [[Li-2012]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6237044). In most of the problem model, we can assume an ideal switch: when the power demand is higher than 
 
 ### IT equipment
 Primarily, there are three kinds of electronic equipments hosted in a typical data center
