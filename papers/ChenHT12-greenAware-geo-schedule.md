@@ -22,5 +22,5 @@ In this paper, the authors study the problem of minimizing brown energy consumpt
  - A workload consists of many jobs, each of which is represented as a directed acyclic graph (DAG). Each node is a DAG represents a task. The job structure allows us to have finer grained scheduling on tasks.
  - Has deadline: each job has user specified QoS: each job has a specified deadline to define its slack.
 - Objective
- - minimize power consumption
+ - minimize the total usage of brown energy in all the data centers, given the constraint that all jobs in the workload are completed within their predefined deadlines.
  
