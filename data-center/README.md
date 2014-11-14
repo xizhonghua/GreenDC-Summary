@@ -10,7 +10,7 @@ Data Center
 ### Configuration
 - [Battery](./file/battery.md)
 - [PowerLocation: SelfGeneration v.s. Colocation](./file/powerLocation.md)
-
+- [Cooling](./file/cooling.md)
 
 ### Energy 
 - Energy Price
