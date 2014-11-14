@@ -1,6 +1,6 @@
 ## Battery
 
-### Purpose
+### Advantage of battery
 Since the challenge of green energy is due to their uncertainty, i.e., it is always avaialbe, to mitigate this variability, datacenters could "bank" green energy in batteries, or on the grid itself(called **net metering**? `My comment: not very clear`).
 
 
@@ -13,3 +13,6 @@ The approach of banking green energy in batteries or on the grid itself have man
 - net metering incurs losses due to voltage transformation involved in feeding the green energy into the grid
 - net metering in unvailable in many parts of the world
 - where net metring is available, the power company may pay less than the retial electricity price for the green energy.
+
+### Assumption
+- Some models assume there is not battery, i.e., they assume battery is only used for emergency purpose.
