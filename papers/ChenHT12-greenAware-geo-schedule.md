@@ -12,3 +12,6 @@
  numpages = {8}
 } 
 ```
+
+### Summary
+In this paper, the authors study the problem of minimizing brown energy consumption in distributed green data centers. 
