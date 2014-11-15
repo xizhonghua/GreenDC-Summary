@@ -68,6 +68,7 @@ In cloud computing, each center of execution (data center) are usually located i
 - In page-191, the online optimization can only move jobs to earlier slots, but not later slots?
 - In page-192, what does Equation 6 mean?
 - In page-193, in the simulation, if D is uniform, the authors vary deadline D from 1-12. Note that in order to compare the performance of different algorithms, we need to ensure that these algorithms complete exactly the same set of jobs.
+- Check if they consider the heterogenous reponse time of data centers
 
 ### Extension
 - Incorporate renewable energy in the model.
