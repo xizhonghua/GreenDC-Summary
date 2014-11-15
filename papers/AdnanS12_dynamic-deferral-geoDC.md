@@ -76,5 +76,9 @@ In cloud computing, each center of execution (data center) are usually located i
 - Incorporate heterogeneity.
 - If jobs are not with uniform deadline, then the prediction of future arriving workload will also be important?
 
-## TODO
+### TODO
 - Page 192-193, read proof of Theorem 5.
+
+
+### Typo
+- In Page-189, "that is migrated form data center i to j", "form" -> "from"
