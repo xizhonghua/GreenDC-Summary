@@ -57,26 +57,24 @@ In cloud computing, each center of execution (data center) are usually located i
 - Migration may not be appropriate or must associate with non-negligible time cost for data-intensive jobs, e.g., MapReduce workloads.
 - Online algorithm contains 2 steps. The first step is moving jobs to earlier time slots, and the second step is to migrate jobs to other data centers. By forming th problem as 2 steps, it simplifies the problem. However, it might not achieve economic cost. For example, by moving jobs earlier first, jobs might miss opportunity to migrate to other data centers which could achieve more cost savings.
 - In page 193, in proving of Theorem 5, they should repleace the prediction error as other parameters rather than &epsilon; , otherwise, it is rather confusing.
-
-### To Check
-- In page-188, the offline optimal algorithm is executed at every time slot? If yes, then the problem formualtion will be weak.
 - In page-189, is the decomposition of the workload by time slot &tau; reasonable? How to guarantee the executing order of all pieces of a job?
-- In page-189, the execution time after migration is the same?
-- In page-191, why the prediction of the mean of electricity price is related to D?
+	- I am confused with the decomposition of workload.
 - In page-191, the online optimization can only move jobs to earlier slots, but not later slots?
-- In page-192, what does Equation 6 mean?
+
+
+### Checked
 - In page-193, in the simulation, if D is uniform, the authors vary deadline D from 1-12. Note that in order to compare the performance of different algorithms, we need to ensure that these algorithms complete exactly the same set of jobs.
+	- They tune the capacity to make sure all jobs can be finished.
 - Check if they consider the heterogenous reponse time of data centers
+	- They didn't consider it. This can be an extension work.
 - check if the time overhead evaluated?
+	- No.
 
 ### Extension
-- Incorporate renewable energy in the model.
-- Incorporate heterogeneity.
-- If jobs are not with uniform deadline, then the prediction of future arriving workload will also be important?
-
-### TODO
-- Page 192-193, read proof of Theorem 5.
-
+- Consider renewable energy.
+- Consider heterogeneity of data centers, e.g., assign clients to their closer data centers
+- Consider power capping
+- Consider predicting of workloads to improve deadline miss ratio
 
 ### Typo
 - In Page-189, "that is migrated form data center i to j", "form" -> "from"
