@@ -53,9 +53,6 @@ In cloud computing, each center of execution (data center) are usually located i
 - Comparison
 	- Since there is no constant competitive ratio for online algorithm, the authors compare the online algorithm with one that without migraiton and and future electricity price prediction.
 
-### PPT
-- For motivation: draw a figure, mark different data centers of Amazon to show different prices, time zones, load balancing concept.
-
 ### Weakness
 - Migration may not be appropriate or must associate with non-negligible time cost for data-intensive jobs, e.g., MapReduce workloads.
 - Online algorithm contains 2 steps. The first step is moving jobs to earlier time slots, and the second step is to migrate jobs to other data centers. By forming th problem as 2 steps, it simplifies the problem. However, it might not achieve economic cost. For example, by moving jobs earlier first, jobs might miss opportunity to migrate to other data centers which could achieve more cost savings.
