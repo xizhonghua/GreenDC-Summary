@@ -60,6 +60,7 @@ In cloud computing, each center of execution (data center) are usually located i
 - Migration may not be appropriate or must associate with non-negligible time cost for data-intensive jobs, e.g., MapReduce workloads.
 - Online algorithm contains 2 steps. The first step is moving jobs to earlier time slots, and the second step is to migrate jobs to other data centers. By forming th problem as 2 steps, it simplifies the problem. However, it might not achieve economic cost. For example, by moving jobs earlier first, jobs might miss opportunity to migrate to other data centers which could achieve more cost savings.
 - Consider data availability. In fact they assume migration time is negligible, which is not make sense when large data need to be migrated along with the job.
+- In page 193, in proving of Theorem 5, they should repleace the prediction error as other parameters rather than &epsilon; , otherwise, it is rather confusing.
 
 ### To Check
 - In page-188, the offline optimal algorithm is executed at every time slot? If yes, then the problem formualtion will be weak.
