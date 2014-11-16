@@ -1,7 +1,7 @@
 [Energy Efficient Geographical Load Balancing via Dynamic Deferral of Workload](http://dl.acm.org/citation.cfm?id=2353793)
 --- 
 
-- reading status: 11/10/2014 ing
+- reading status: start 11/10/2014, finished on 11/16/2014
 - bib
 ```
 @inproceedings{AdnanS12
