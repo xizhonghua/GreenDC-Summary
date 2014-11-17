@@ -16,6 +16,10 @@ Done List
 |[GreenHadoop: Leveraging Green Energy in Data-Processing Frameworks](http://dl.acm.org/citation.cfm?id=2168843), by *Inigo Goiri et al*, in EuroSys 2012, [[Summary]](../papers/GoiriL12_GreenHadoop.md),[[PPT]](../file/GreenHadoop.pptm), [[Video]](https://www.youtube.com/watch?v=MiDxApkMrCI&feature=youtu.be) | Hakan | 10/25/2014|  ***|
 | [Reducing Energy Costs for IBM Blue Gene/P via Power-Aware Job Scheduling](http://link.springer.com/chapter/10.1007%2F978-3-662-43779-7_6), by *Zhou zhou*, in Job Scheduling Strategies for Parallel Processing 2014, [[Summary]](../papers/ZhouLTD14-IBM-power-aware.md)| Me|11/12/2014|  ***|
 
+### Data Center: Minimize Energy Cost
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+|[Energy Efficient Geographical Load Balancing via Dynamic Deferral of Workload](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6253505), by *Muhammad Abdullah Adnan* et al, in CLOUD 2012, [[Summary]](../papers/AdnanS12_dynamic-deferral-geoDC.md), [[PPT]](./Adnan12-EEGLB.pptx)| Hakan| Due 11/19/2014|***|
 
 ### Data Center: Maximize Green Energy Usage
 | Title| Assinger| Date| Rate|
