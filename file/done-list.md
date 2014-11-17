@@ -19,7 +19,7 @@ Done List
 ### Data Center: Minimize Energy Cost
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
-|[Energy Efficient Geographical Load Balancing via Dynamic Deferral of Workload](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6253505), by *Muhammad Abdullah Adnan* et al, in CLOUD 2012, [[Summary]](../papers/AdnanS12_dynamic-deferral-geoDC.md), [[PPT]](./Adnan12-EEGLB.pptx)| Hakan| Due 11/19/2014|***|
+|[Energy Efficient Geographical Load Balancing via Dynamic Deferral of Workload](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6253505), by *Muhammad Abdullah Adnan* et al, in CLOUD 2012, [[Summary]](../papers/AdnanS12_dynamic-deferral-geoDC.md), [[PPT]](./Adnan12-EEGLB.pptm)| Hakan| Due 11/19/2014|***|
 
 ### Data Center: Maximize Green Energy Usage
 | Title| Assinger| Date| Rate|
