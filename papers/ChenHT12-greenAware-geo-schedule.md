@@ -24,3 +24,7 @@ In this paper, the authors study the problem of minimizing brown energy consumpt
 - Objective
  - minimize the total usage of brown energy in all the data centers, given the constraint that all jobs in the workload are completed within their predefined deadlines.
  
+
+### Algorithm
+- Two phases
+ - 
