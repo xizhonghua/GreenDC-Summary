@@ -1,0 +1,88 @@
+%\documentclass[10pt,conference]{IEEEtran}
+
+\documentclass[10 pt,final]{article}
+
+\usepackage{amssymb} \usepackage{amsmath} \usepackage{amsthm} \usepackage{algorithm} \usepackage{algorithmic} \usepackage{url} \usepackage[margin=1in]{geometry}
+
+\usepackage{subfigure}
+
+\newtheorem{theorem}{Theorem} \newtheorem{lemma}{Lemma} \newtheorem{corollary}{Corollary} \newtheorem{definition}{Definition} \newtheorem{assumption}{Assumption} \newtheorem{example}{Example}
+\newtheorem{observation}[theorem]{Observation}
+%\newtheorem{theorem}{Theorem} \newtheorem{definition}{Definition} \newtheorem{remark}{Remark} \newtheorem{lemma}{Lemma} \newtheorem{corollary}{Corollary} \newtheorem{fact}{Fact} \newtheorem{invariant}{Invariant}
+
+\usepackage{color}
+\newcounter{todocounter}
+\newcommand{\todo}[1]{\stepcounter{todocounter}\textcolor{red}{to-do\#\arabic{todocounter}: #1}}
+\newcommand{\newadded}[1]{{\color{magenta} #1}}
+\newcommand{\question}[1]{{\color{blue} #1}}
+
+
+
+\usepackage{graphicx}
+\graphicspath{{./Figures/}}
+
+
+\begin{document}
+
+\title{Notations}
+
+%\author{Huangxin Wang\thanks{Department of Computer Science, George Mason University. Fairfax, VA 22030. Email: \textsf{hwang14@gmu.edu}}}
+
+\date{}
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Paper: Energy Efficient Geographical Load Balancing via Dynamic Deferral of Workload \\
+
+Summarized by Huangxin Wang
+
+\begin{table}[!ht]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+notations & meaning \\  \hline \hline
+n & total number of data centers \\ 
+$M_i$ & computation capacity at data center $i$ \\ 
+$\tau$ & length of a time slot \\ 
+$D$ & relative deadline of a job \\ 
+$x_{idt}$ & the portion of released workload $L_t$ that is assigned to be executed at data center $i$ at time $t+d$ \\
+$x_{it}$ & the workload assigned to be executed at time $t$ to data center $i$ \\
+$x_t$ & the total assignment at time $t$ \\
+$z_{ijdt}$ & the amount of workload that is migrated at time $t$ from data center $i$ to $j$ to be executed at time $t+d$ \\
+$z_{ijt}$ & the amount of workload that is migrated from data center $i$ to $j$ at time $t$ \\
+$y_{it}$ & workload executed at time $t$ at data center $i$ \\ 
+$C_{it}(y_{it})$ & the energy cost for executing workload $y_{it}$ at data center $i$ at time $t$ \\ 
+$\tilde{C_{it}}(y_{it})$ & estimated energy cost for executing workload $y_{it}$ at data center $i$ at time $t$ \\ 
+$B_{ij}(z_{ijt})$ & the energy cost for migrating workload $z_{ijt}$  from data center $i$ to data center $j$ \\
+$u_{it}$ & the assigned (delayed) workload at time $t$ at data center $i$ \\
+$w_{it}$ & the executed workload at time $t$ at data center $i$ \\ \hline
+
+\end{tabular}
+\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+%\begin{figure}[!ht]
+%\centering
+%\subfigure[]{\includegraphics[width= 3 in]{TheoreticalProbability_1000Proxy.PNG}\label{lableA}}
+%\subfigure[]{\includegraphics[width= 3 in]{BestAggressiveness_1000Proxy.pdf} \label{labelB}}
+%\caption{
+%(a)a caption,
+%(b)b caption
+%}
+%\end{figure}
+
+
+\bibliographystyle{plain}
+\bibliography{FileNameOfBib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
