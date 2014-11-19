@@ -19,7 +19,7 @@ In this paper, the authors study the problem of workloads schedule among geograp
 - They present an offline formulation.
 - They design an online algorithm to determine the assignment of worklod to data center. Simulation results demonstrated their proposed mechanism can achieve 20-30% cost-savings.
 
-- Notations: [Pdf-version](../file/Adnan12-Notations.pdf), [Latex-version](../file/Adnan12-Notations.tex)
+- Notations: [Pdf-version](../file/latex/Adnan12-Notations.pdf), [Latex-version](../file/latex/Adnan12-Notations.tex)
 
 ### Motivation
 In cloud computing, each center of execution (data center) are usually located in different geographic locations which are often in different time zones. Due to the increase in cost of energy, the electric billing companies have different pricing rates for electricity at different locations and at different times of day.
