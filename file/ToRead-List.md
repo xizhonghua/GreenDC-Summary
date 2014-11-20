@@ -37,6 +37,7 @@ Reading List
 |33| [Scheduling Algorithms](http://people.csail.mit.edu/karger/Papers/scheduling.pdf), by *D. Karger et al*, in Handbook of algorithms and Theory of computation 1997, [[Summary]](../papers/KargerS_Scheduling-Algorithms.md)| Fei| |
 |34| [Green-aware workload scheduling in geographically distributed data centers](http://dl.acm.org/citation.cfm?id=2469301), by *Changbing Chen*, in CLOUD 2012, [[Summary]](../papers/ChenHT12-greenAware-geo-schedule.md) | Me| |
 |35| [How much is it worth to know the future in online conversion problems?](http://www.sciencedirect.com/science/article/pii/S0166218X13000255), by *Esther Mohr*, in Discrete Applied Mathematics 2013|Fei| |writing example|
+|36| [Mesa: Geo-Replicated, Near Real-Time, Scalable Data Warehousing](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf), by *Ashish Gupta*, in VLDB| | |recommended by Maryam|
 
 
 
