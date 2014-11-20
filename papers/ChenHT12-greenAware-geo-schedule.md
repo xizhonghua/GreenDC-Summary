@@ -27,4 +27,6 @@ In this paper, the authors study the problem of minimizing brown energy consumpt
 
 ### Algorithm
 - Two phases
- - 
+ - First: static optimization
+  - grasp the optimization opprtunity that can be exploited offline.
+ - Second: runtime optimization
