@@ -3,7 +3,7 @@
 
 
 The power break down is shown in Table 1 [[Fan-2007]](http://dl.acm.org/citation.cfm?id=1250665).   
-![](../fig/powerBreakdown.PNG)
+![](../figs/geo-powerBreakdown.PNG)
 
 ### Power supply procedure
 1. The power supplied from the main grid is delivered to the UPS. 
