@@ -24,3 +24,7 @@ While data center energy costs can be reined in by improvmenets in energy effici
 
 ##### 4.1 Peak Shaving
 - Since the peak-power charge could be high, thus data centers often use power capping, DVFS or leverage on workloads migration in geographical data centers to shae peak power usage. 
+
+
+
+### 5. Load shedding, Shifting and Migration
