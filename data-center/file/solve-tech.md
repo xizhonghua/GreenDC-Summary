@@ -1,4 +1,4 @@
-## Schedule Mechanism
+## Techniques used to solve problem
 
 ### 1. Archive by techniques
 - Ref: [Rahman-14](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
