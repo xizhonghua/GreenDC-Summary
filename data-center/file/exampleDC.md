@@ -8,6 +8,8 @@
 ### Data center size
 - Smaller compnanies/insttutes possess in-hour data centers that are usually built within large data commercial buildings. Bigger companies usually build their data centers on(possibly remote) independent building infrastructure that can be up to several hundred thousand square feet in size and solely dedicated for hosting computing peripherals.
 - Moreover, large companies may contain tens or even hundreds of data centers. 
+- As the number and size of data centers grow throughout the world, especially following the wider adoption of cloud services, a number of researchers start focusing on powr management and energy efficiency at the data center level.
+
 
 ### Data center energy consumption
 - A small data center may consume power as high as tens of kilowatts(kWs) whereas peak power usage of a large data center can be tens of megawatts(MWs)
