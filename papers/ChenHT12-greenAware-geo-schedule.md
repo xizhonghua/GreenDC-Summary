@@ -1,6 +1,6 @@
 ## [Green-aware workload scheduling in geographically distributed data centers](http://dl.acm.org/citation.cfm?id=2469301)
 
-- reading status: start 11/13/2014
+- reading status: start 11/13/2014, finished on 11/24/2014
 - bib
 ```
 @inproceedings{TangCH12,
