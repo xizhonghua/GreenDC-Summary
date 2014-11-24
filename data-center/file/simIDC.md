@@ -1,4 +1,4 @@
-### Simulation Setup for IDC
+### Simulation Setup for Internet Data Centers (IDC)
 
 ### Setup
 - Ref: [[Rahman-2014]](../../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)
