@@ -37,9 +37,12 @@ Data Center
 ### Mechanism
 - [Schedule Mechanism](./file/schedule.md)
 
-### Simulation Setup
-- [Internet Data Center](./file/simIDC.md)
-- [Geo Data Center machine power cost](../file/simGeoDCPower.md)
+### Simulation 
+- Simulation Setup
+  - [Internet Data Center](./file/simIDC.md)
+  - [Geo Data Center machine power cost](../file/simGeoDCPower.md)
+- Simulation Result Presentation
+  - [Tuning parameters](./figs/tuneParameter.PNG)
 
 ### OutLink
 - [TODO](./file/todo.md)
