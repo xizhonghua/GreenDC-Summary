@@ -10,3 +10,7 @@
   PAGES = {1-10}
 }
 ```
+
+### Summary
+In this paper, the authors augue that data center have the ability to provide large capacity reserves to emerging smart grid programs. They propose policies to deliver data center demand control programs. 
+- Experimental results indicte substantial cost saving potential compared to solely applying energy management strategies at the data center.
