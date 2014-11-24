@@ -38,8 +38,7 @@ Reading List
 |35| [How much is it worth to know the future in online conversion problems?](http://www.sciencedirect.com/science/article/pii/S0166218X13000255), by *Esther Mohr*, in Discrete Applied Mathematics 2013|Fei| |writing example|
 |36| [Mesa: Geo-Replicated, Near Real-Time, Scalable Data Warehousing](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf), by *Ashish Gupta*, in VLDB| | |recommended by Maryam|
 |37| [Reducing the Data Center Electricity Costs through Participating in Smart Grid Programs](http://www.bu.edu/peaclab/files/2014/03/IGCC2014.pdf), by *Hao Chen*, in IGCC 2014| me| | |
-
-
+|38| [Load Management of Data Centers as Regulation Capacity in Denmark](https://www.researchgate.net/publication/265652304_Load_Management_of_Data_Centers_as_Regulation_Capacity_in_Denmark), by *Anders Clausen*, in IGCC 2014|Me| | |
 
 
 
