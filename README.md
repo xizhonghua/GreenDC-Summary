@@ -4,8 +4,8 @@ Green Data Center
 
 
 ### Intro
-- [Single Data Center](./data-center), include shared parts.
-- [Geographic Data Center](./geo-data-center)
+- [Data Center Introduction and Research](./data-center)
+
 
 ### Current Research
 - [Paper Summary](./file/paper-summary.md)
