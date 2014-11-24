@@ -42,7 +42,7 @@ Data Center
   - [Internet Data Center](./file/simIDC.md)
   - [Geo Data Center machine power cost](../file/simGeoDCPower.md)
 - Simulation Result Presentation
-  - [Tuning parameters](./figs/tuneParameter.PNG)
+  - [Tuning parameters](./file/tuneParameter.md)
 
 ### OutLink
 - [TODO](./file/todo.md)
