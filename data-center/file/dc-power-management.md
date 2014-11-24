@@ -23,4 +23,4 @@ While data center energy costs can be reined in by improvmenets in energy effici
   - The primary, secondary and tertiary capacity reserves by loads
 
 ##### 4.1 Peak Shaving
-- Most legacy electricity rates for medium to large commertial and industrial powr consumers are binary reates including capacity (i.e., the maximal consumption rate recorded over an agreed upon period) and energy charges. 
+- Since the peak-power charge could be high, thus data centers ofeen use power capping, DVFS or leverage on workloads migration in geographical data centers to shae peak power usage. 
