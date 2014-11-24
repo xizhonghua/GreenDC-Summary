@@ -39,7 +39,7 @@ Data Center
 
 ### Simulation Setup
 - [Internet Data Center](./file/simIDC.md)
-- [Data Center machine power cost](../file/simDCPower.md)
+- [Geo Data Center machine power cost](../file/simGeoDCPower.md)
 
 ### OutLink
 - [TODO](./file/todo.md)
