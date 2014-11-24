@@ -21,9 +21,9 @@ Power Concern
 - A recently disclosure from Google Inc. reveals the fact that it emits 1.5 million tonnes of carbon annually [[Clark-2011]](http://www.theguardian.com/environment/2011/sep/08/google-carbon-footprint). Some more threatening facts about Google users are as follows. Each search carried out on the google website has in indirect carbon footprint of 7 gram of CO<sub>2</sub>, each 10 minutes of viewing in Youtube generates 1 gram of CO<sub>2</sub> and a typical Gmail user is responsible for producing 1.2 kilogram of CO<sub>2</sub> per year. In total, a typical Google user creates 1.46 kilogram of CO<sub>2</sub> by consuming its various services. 
 
 
-### Trend
+### Cost Trend
 - As the price of server hardware has remained relatively stable, energy cost becomes one of the primary components in the total cost of ownership for computer server systems in the data centers. 
 - Since the cost of powring HPC systems has been steadily rising with growing performance, while the cost of hardware has remained relatively stable, it is argued that if these trends were to continue, the energy cost of a large-scale system during its lifetime could surpass the equipment itself [[Fan-2007]](http://dl.acm.org/citation.cfm?id=1250665).
 
 
-### 
+
