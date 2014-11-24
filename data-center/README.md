@@ -43,11 +43,10 @@ Data Center
 ### Utilization
 - [CPU utilization](./file/CPU-utilization.md)
 
-### Mechanism
-- [Schedule Mechanism](./file/schedule.md)
 
 ### Schedule Objective
 - [GeoDC Objective](./file/geo-scheduleObj.md)
+- [Techniques used](./file/ solve-tech.md)
 
 ### Simulation 
 - Simulation Setup
