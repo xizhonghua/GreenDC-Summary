@@ -14,7 +14,7 @@
 ```
 
 ### Summary
-In this paper, the authors study the problem of minimizing brown energy consumption in distributed green data centers. 
+In this paper, the authors study the problem of minimizing brown energy consumption in distributed green data centers. They proposed heuristic approaches and evaluate the proposed mechanism through simulation.
 
 
 ### Model
@@ -30,3 +30,11 @@ In this paper, the authors study the problem of minimizing brown energy consumpt
  - First: static optimization
    - grasp the optimization opprtunity that can be exploited offline.
  - Second: runtime optimization
+
+### Strongness
+- decomposed the optimization into 2 steps
+- it takes the cooling effect into accounts 
+
+### Weakness
+- there is no theoretical analysis of the proposed mechanism
+- the heuristic is not very clearly stated 
