@@ -44,10 +44,11 @@ Data Center
 - [CPU utilization](./file/CPU-utilization.md)
 
 
-### Schedule Mechanism
+### Power Management
+- [Overview: Power Management](./file/dc-power-management.md)
 - [GeoDC Objective](./file/geo-scheduleObj.md)
 - [Techniques used](./file/ solve-tech.md)
-- [Data Center Level Power Management](./file/dc-power-management.md)
+
 
 ### Simulation 
 - Simulation Setup
