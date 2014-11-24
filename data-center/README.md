@@ -8,6 +8,11 @@ Data Center
 - Single DC
   - [DC definition](./file/datacenter-intro.md), [Taxonomy](./file/taxonomy.md), [Architecture](./file/arch.md), [Smart-grid](./file/gridDefine.md)
 - Geographic DC
+  - [Motivation](./file/geo-examples.md), [Arch](./file/geo-arch.md), [Power breakdown](./file/geo-powerBreakdown.md)
+, [Geographic load balancing](./file/geo-glb.md)
+
+
+
 
 
 
@@ -40,6 +45,9 @@ Data Center
 
 ### Mechanism
 - [Schedule Mechanism](./file/schedule.md)
+
+### Schedule Objective
+- [GeoDC Objective](./file/geo-scheduleObj.md)
 
 ### Simulation 
 - Simulation Setup
