@@ -41,5 +41,5 @@ Reading List
 |38| [Load Management of Data Centers as Regulation Capacity in Denmark](https://www.researchgate.net/publication/265652304_Load_Management_of_Data_Centers_as_Regulation_Capacity_in_Denmark), by *Anders Clausen*, in IGCC 2014|Me| | |
 |39| [Greening Web Servers: A Case for Ultra Low-power Web Servers](http://www.ida.liu.se/~nikca/papers/igcc14.pdf), by *Nenoy Vargnese*, in IGCC 2014|Me| | |
 |40| [Efficient Customer Selection for Sustainable Demand Response in Smart Grids](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCMQFjAA&url=http%3A%2F%2Fwww.researchgate.net%2Fprofile%2FMarc_Frincu%2Fpublication%2F264420501_Efficient_Customer_Selection_for_Sustainable_Demand_Response_in_Smart_Grids%2Flinks%2F53dd52860cf216e4210c1c00&ei=zGNzVOyONoKiNtzCg6gC&usg=AFQjCNFoxxQ5ccliUIyQbRIy5bvFFHgyuA&sig2=27CyOnq-6TtPZXRYLhq7VA&cad=rjt), by *Vasileios Zois*, in IGCC 2014| Me| | |
-
+|41| [Leveraging Distributed UPS Energy for Managing Solar Energy Powered Data Centers](), by *Longjun Liu*, in IGCC 2014|Me| | |
 
