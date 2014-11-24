@@ -12,7 +12,8 @@ Energy Capping
 - Placing caps on the amount of energy used. When a service exceeds the cap, it must either purchase carbon offsets corresponding to its excess consumption (**cap-and-trade**) or start paying higher electricity prices(**cap-and-pay**). 
 - The cap may be government-imposed, utility-imposed or voluntarily-set.
 
-
+### Power Capping
+- Today's system also employ power capping mechanism to prevent the power from exceeding the peak power constraints. DVFS is a popular control knob for capping [[Fan-2007]](http://dl.acm.org/citation.cfm?id=1250665). For multi-thread appliations, DVFS can be combined with thread allocation and migration to perform finer granularity power capping [[Chen-2014]](../../papers/Chen14-IGCC-participate-in-grid.md).
 
 
 
