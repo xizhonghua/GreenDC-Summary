@@ -11,3 +11,13 @@
 ### Server Provisioning
 - Server provisioning, which decides how many servers should be avtive at a given time, is another essential topic in the data center. 
 - Many data centers today leave all the unused servers in idle states as a conservative approach for guranteeing high performance. Leaving many servers idle, however, causes tremendous waste of energy. Some data center reseraches leverage sleep states to improve energy efficiency [[Chase-2001]](http://dl.acm.org/citation.cfm?id=502045) [[Nathuji-2008]](http://link.springer.com/article/10.1007%2Fs10586-008-0054-y#page-1). However, they typically ignore the wake-up costs from sleep states or use hypothetical server states. [[Gandhi-2012]](http://dl.acm.org/citation.cfm?id=2410779) propose a SoftReactive dynamic power management policy, which determines the state of servers in the data center based on the dynamic workload arrival rate, and introduce a timeout-based mechanism to sleep servers.
+
+
+### Data Center Demand Response Programs and Strategies
+While data center energy costs can be reined in by improvmenets in energy efficiency, demand response to spatio-temporally varying system costs adnd capacity reserve needs is emerging as an even more effective money saver.  We review the following to programs
+- Legacy demand response
+  - Peak shaving
+  - Interruptible load contracts
+  - Load Shedding and shifting across time
+- New demand response programs that are emerging from the participation of loads in power markets on par with generation side participants. 
+  - The primary, secondary and tertiary capacity reserves by loads
