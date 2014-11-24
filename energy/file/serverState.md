@@ -13,9 +13,11 @@
 <img src="../figs/powerStates.PNG" width="500px" />
 
 ### State transition time cost
-- [[Raj-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6151371)
+- [[Raj-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6151371), the transition time to s3 takes 24 seconds.
 
 <img src="../figs/transitionTime.PNG" width="500px" />
+
+- [[Chen-12]](../../papers/ChenHT12-greenAware-geo-schedule.md), the transiting into and out of S3 takes 7 seconds.
 
 ### State transition energy cost
 
