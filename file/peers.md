@@ -18,4 +18,5 @@
 
 
 ### Lab
-- [Dark Lab](http://www.darklab.rutgers.edu/) at Rutgers University
+- [Dark Lab @ Rutgers University](http://www.darklab.rutgers.edu/) 
+- [Smart Grid Group  @ USC](http://ganges.usc.edu/wiki/Smart_Grid)
