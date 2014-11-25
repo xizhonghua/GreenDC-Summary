@@ -23,3 +23,6 @@
 ### Prediction
 - Motivation: the key challenge is that green energy sources in a limited area are variable and intermittent due to daily/seasonal effects.
 - The production of green energy is very susceptible to environmental changes. This limits the use of green energy in time-sensitive applications. Prediction can reduce the uncertainty of the available resources, allowing end-users to scale demand with the predicted supply. [[Aksanli-2011]](papers/AksanliVZR11_mixed-batch-service.md).
+
+### Populariry
+- [[Calusen-2014]](../../papers/ClausenGJ14-dc-in-Denmark.md): Denmark has a particularly aggressive strategy for renewable energy generation. By 2050 50% of electricity production is to be wind based and by 2050 the goal is to have an energy production based entirely on renewable energy.
