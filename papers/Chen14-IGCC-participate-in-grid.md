@@ -17,3 +17,7 @@ In this paper, the authors augue that data center have the ability to provide la
 
 ### Questions
 - confused about the problem model, especially the Regulation Service (RS)
+
+
+### TODO
+- understand and discuss on the smart grid programs mentioned in this paper.
