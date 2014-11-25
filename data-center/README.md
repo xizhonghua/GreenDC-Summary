@@ -39,7 +39,7 @@ Data Center
   - [Internet service](./file/interentService.md)
 - [Characteristic](./file/workloadChar.md)
 - Property: [[deadline]](./file/deadline.md), [[job size]](./file/jobSize.md)
-- Constraints: [[SLA]](./file/sla.md),[Demand response event/Customer Comfort](./file/DR-event.md)
+- Constraints: [[SLA]](./file/sla.md),[[Demand response event/Customer Comfort]](./file/DR-event.md)
 
 ### Utilization
 - [CPU utilization](./file/CPU-utilization.md)
