@@ -1,5 +1,7 @@
 ## Demand Response (DR) Event
 
+- courtesy of [[Zois-2014]](../../papers/ZoisFCSP14-customer-selection-smart-grid.md) 
+
 ### Definition
 A DR event is defined as a schedule consisting of customers and their corresponding strategies for a specific period of the day. It is initiated by energy providers to achieve a combined load reduction from the participating customers. 
 
