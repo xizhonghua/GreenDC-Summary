@@ -11,7 +11,7 @@
 - Smart grid technology is a technology for the next generation power grid--has recently been introduced to improve efficiency of the traditional 20th century power grid. Smart grid provides a feasible way for dynamic and efficient power management of data centers.
 
 ### How smart grid is build?
-- Recent innovations in pwoer grids have provided smart tools, to help utility providers monitor and predict power demand. All together ain automated power distribution network was created on top of the old power grid infrastructure, now known as a smart grid [[Fang-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6099519).
+- Recent innovations in pwoer grids have provided smart tools, to help utility providers monitor and predict power demand. All together ain automated power distribution network was created on top of the old power grid infrastructure, now known as a smart grid [[Fang-2012]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6099519) cyber physical system. 
 
 ### Function
 - distributed energy production
