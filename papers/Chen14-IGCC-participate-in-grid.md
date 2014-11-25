@@ -1,5 +1,6 @@
 ## [Reducing the Data Center Electricity Costs Through Participation in Smart Grid Programs](http://www.bu.edu/peaclab/files/2014/03/IGCC2014.pdf)
 
+- state: browse finished on 11/24/2014
 - bib
 ```
 @Proceedings{ChenCC14,
