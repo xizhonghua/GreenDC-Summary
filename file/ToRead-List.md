@@ -37,7 +37,7 @@ Reading List
 |33| [Scheduling Algorithms](http://people.csail.mit.edu/karger/Papers/scheduling.pdf), by *D. Karger et al*, in Handbook of algorithms and Theory of computation 1997, [[Summary]](../papers/KargerS_Scheduling-Algorithms.md)| Fei| |
 |35| [How much is it worth to know the future in online conversion problems?](http://www.sciencedirect.com/science/article/pii/S0166218X13000255), by *Esther Mohr*, in Discrete Applied Mathematics 2013|Fei| |writing example|
 |36| [Mesa: Geo-Replicated, Near Real-Time, Scalable Data Warehousing](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42851.pdf), by *Ashish Gupta*, in VLDB| | |recommended by Maryam|
-|38| [Load Management of Data Centers as Regulation Capacity in Denmark](https://www.researchgate.net/publication/265652304_Load_Management_of_Data_Centers_as_Regulation_Capacity_in_Denmark), by *Anders Clausen*, in IGCC 2014|Me| | |
+|38| [Load Management of Data Centers as Regulation Capacity in Denmark](https://www.researchgate.net/publication/265652304_Load_Management_of_Data_Centers_as_Regulation_Capacity_in_Denmark), by *Anders Clausen*, in IGCC 2014, [[Summary]](../papers/ClausenGJ14-dc-in-Denmark.md)|Me| | |
 |39| [Greening Web Servers: A Case for Ultra Low-power Web Servers](http://www.ida.liu.se/~nikca/papers/igcc14.pdf), by *Nenoy Vargnese*, in IGCC 2014|Me| | |
 |41| [Leveraging Distributed UPS Energy for Managing Solar Energy Powered Data Centers](), by *Longjun Liu*, in IGCC 2014|Me| | |
 |42| [A Performance Enforcing Mechanism for Energy-and-Failure-Aware Cloud System](), by *Aitino Sampoio*, in IGCC 2014| Me| | |
