@@ -32,3 +32,7 @@
 	- wake up time T<sub>up</sub> = 10s, P<sub>sleep</sub> = 10%*P<sub>max</sub>
 - Deep sleep
 	- wake up time T<sub>up</sub> = 200s, P<sub>sleep</sub> = 5%*P<sub>max</sub> [[Isci-2013]](http://dl.acm.org/citation.cfm?id=2485931)
+
+
+### Server power
+- P<sub>max</sub> = 152.94W, P<sub>idle</sub> = 63.0W, measured on the real-life AMD server [[Chen-2014]](../../papers/Chen14-IGCC-participate-in-grid.md).
