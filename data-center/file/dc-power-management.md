@@ -16,16 +16,18 @@
 ### 4. Data Center Demand Response Programs and Strategies
 While data center energy costs can be reined in by improvmenets in energy efficiency, demand response to spatio-temporally varying system costs adnd capacity reserve needs is emerging as an even more effective money saver.  We review the following to programs
 - Legacy demand response
-  - Peak shaving
+  - Peak shaving: Since the peak-power charge could be high, thus data centers often use power capping, DVFS or leverage on workloads migration in geographical data centers to shae peak power usage. 
   - Interruptible load contracts
   - Load Shedding and shifting across time
 - New demand response programs that are emerging from the participation of loads in power markets on par with generation side participants. 
   - The primary, secondary and tertiary capacity reserves by loads
 
-##### 4.1 Peak Shaving
-- Since the peak-power charge could be high, thus data centers often use power capping, DVFS or leverage on workloads migration in geographical data centers to shae peak power usage. 
-
 - [[Zois-2014]](../../papers/ZoisFCSP14-customer-selection-smart-grid.md): Installing additional power generation capability to meet peak demands sometimes is neither feasible nor sufficient. Demand Response (DR) [[Albadi-2007]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4275494) is a well known method employed by energy providers to control demand. It is used to find the equilibrium between energy prediction and demand through load control.
+
+
+- 
+
+
 
 
 ### 5. Load shedding, Shifting and Migration
