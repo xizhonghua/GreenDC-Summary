@@ -22,7 +22,7 @@ While data center energy costs can be reined in by improvmenets in energy effici
 - New demand response programs that are emerging from the participation of loads in power markets on par with generation side participants. 
   - The primary, secondary and tertiary capacity reserves by loads
 
-- [[Zois-2014]](../../papers/ZoisFCSP14-customer-selection-smart-grid.md): Installing additional power generation capability to meet peak demands sometimes is neither feasible nor sufficient. Demand Response (DR) [[Albadi-2007]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4275494) is a well known method employed by energy providers to control demand. It is used to find the equilibrium between energy prediction and demand through load control.
+- [[Zois-2014]](../../papers/ZoisFCSP14-customer-selection-smart-grid.md): Installing additional power generation capability to meet peak demands sometimes is neither feasible nor sufficient. **Demand Response (DR)** [[Albadi-2007]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4275494) is a well known method employed by energy providers to control demand. It is used to find the equilibrium between energy prediction and demand through load control.
 
 
 
