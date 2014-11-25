@@ -5,5 +5,5 @@
 
 
 ### When to set server to sleep mode
-- [[Gandhi-2012]](http://dl.acm.org/citation.cfm?id=1555349.1555368) Timeout policy: if a server has been in idle state longer than a timeout threshold, i.e., T<sub>out</sub>, then it automatically sleeps. A good threshold could be: T<sub>out</sub> = T<sub>up</sub> * P<sub>max</sub> / P<sub>idle</sub>, where T<sub>up</sub> is the server walking up time, P<sub>max</sub> is the power consumption during waking up period, which equal to the maximum, and P<sub>idle</sub> is the server idle power. 
+- [[Gandhi-2012]](http://dl.acm.org/citation.cfm?id=1555349.1555368) **Timeout policy**: if a server has been in idle state longer than a timeout threshold, i.e., T<sub>out</sub>, then it automatically sleeps. A good threshold could be: T<sub>out</sub> = T<sub>up</sub> * P<sub>max</sub> / P<sub>idle</sub>, where T<sub>up</sub> is the server walking up time, P<sub>max</sub> is the power consumption during waking up period, which equal to the maximum, and P<sub>idle</sub> is the server idle power. 
 
