@@ -25,4 +25,4 @@
 
 
 ### Questions
-- In the abstract, "no two replicas of the same task are assigned to the same processing unit", here "same processor unit" means same processors?  
+- In the abstract, "no two replicas of the same task are assigned to the same processing unit", here "same processor unit" means "same processors" or "same processing time units"? I suppose it refers "same processors". 
