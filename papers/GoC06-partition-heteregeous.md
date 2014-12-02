@@ -22,3 +22,7 @@
 ### Weakness
 
 ### Possible Extensions
+
+
+### Questions
+- In the abstract, "no two replicas of the same task are assigned to the same processing unit", here "same processor unit" means same processors?  
