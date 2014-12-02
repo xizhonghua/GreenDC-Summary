@@ -42,6 +42,6 @@ Reading List
 |41| [Leveraging Distributed UPS Energy for Managing Solar Energy Powered Data Centers](), by *Longjun Liu*, in IGCC 2014|Me| | |
 |42| [A Performance Enforcing Mechanism for Energy-and-Failure-Aware Cloud System](), by *Aitino Sampoio*, in IGCC 2014| Me| | |
 |43| [Evaluation of LInear and Non-Linear Machine Learning Approaches for Power Estimation in a Computing Cluster](), by *Zhu Hao*, in IGCC 2014|Me| | |
-|44| [Task partitioning with replication upon heterogeneous multiprocessor systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1613336), by *Sathish Gopalakrishnan*, in RTAS 2006|Hakan| | due 12/03/2014|
+|44| [Task partitioning with replication upon heterogeneous multiprocessor systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1613336), by *Sathish Gopalakrishnan*, in RTAS 2006, [[Summary]](../papers/GoC06-partition-heteregeous.md)|Hakan| | due 12/03/2014|
 |45| [Speed is as Powerful as Clairvoyance](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=492478), by *Kalyanasundaram,B.*, in JACM |Fei mentioned| |
 
