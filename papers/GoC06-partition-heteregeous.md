@@ -33,7 +33,7 @@ In this paper, the authors investigate the problem of task partitioning on heger
 ### Possible Extensions
 - Extend the problem model by taking the communication overhhead into account. As the authors mentioned, in this paper, they assume jobs are independent and neglect the communication overhead.
 - Consider jobs that are of different importance and thus are associated with different number of replicas.
-
+- As the authors mentioned, we can consider other constraints such as the memory limits of processors, or power consumption. 
 
 ### Questions
 - I am not clear how the constraints in the integer programming could ensure that all tasks meet with their deadline. 
