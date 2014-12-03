@@ -23,7 +23,7 @@ In this paper, the authors investigate the problem of task partitioning on heger
 ### Weakness
 
 ### Possible Extensions
-- Extend the problem model by taking the communication overhhead into account. As the authors mentioned, in this paper, they assuming jobs are independent and neglect the communication overhead.
+- Extend the problem model by taking the communication overhhead into account. As the authors mentioned, in this paper, they assume jobs are independent and neglect the communication overhead.
 
 
 ### Questions
