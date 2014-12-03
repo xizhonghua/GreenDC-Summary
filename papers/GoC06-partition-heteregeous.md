@@ -25,7 +25,7 @@ In this paper, the authors investigate the problem of task partitioning on heger
 - The novelty of this paper compared with previous work is their taking into account of the replication problem and the heterogeneity of the processors.
 
 ### Weakness
-- Some simulation results will make the theory result in this paper be more vivid. For example, given a setting, what is the cost of running time.
+- Some simulation results will make the theory result in this paper be more vivid. For example, given a setting, what is the cost of running time. Although it seems running time is not very important factors as the partition algorithm may only need to execute for once.
 
 
 
