@@ -36,3 +36,7 @@
 
 ### Server power
 - P<sub>max</sub> = 152.94W, P<sub>idle</sub> = 63.0W, measured on the real-life AMD server [[Chen-2014]](../../papers/Chen14-IGCC-participate-in-grid.md).
+
+
+### TODO
+- conver the statistic value into tables to make it more clear
