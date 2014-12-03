@@ -19,7 +19,7 @@ In this paper, the authors investigate the problem of task partitioning on heger
 
 ### Strongness
 - This paper is well written. The structure is very clear and the technical terms are explained in a way that is easy to understand.
-- The authors analyze the reason that Baruah's arppaoch is diffcult to be applied in this problem model by using the properties of linear programming. The underlying reason is that the restriction that two replicas cannot be applied to the same processor make the complexity of this problem grow exponentially.
+- The authors analyze the reason that Baruah's arppaoch is diffcult to be applied in this problem model by using the properties of linear programming. The underlying reason is that the restriction that two replicas cannot be applied to the same processor makes the complexity of this problem grow exponentially.
 
 ### Weakness
 
