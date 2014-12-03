@@ -23,7 +23,10 @@ In this paper, the authors investigate the problem of task partitioning on heger
 - It seems the techniques (smallest quantum) used in the designed dynamic programming is similar to the one in book "Introduction to Algorithms (3rd)" page 1128, which introduces a fully polynomial-time approximation scheme for the subset-sum problem. 
 
 ### Weakness
+- Some simulation results will make the theory result in this paper be more vivid. For example, given a setting, what is the cost of running time.
 
+### Questions
+- The authors mentioned that it may exist the case that dynamic programming finds the solution while the original problem is infeasible. They suggest use rescaling to deal with this situation. However, rescaling might 
 ### Possible Extensions
 - Extend the problem model by taking the communication overhhead into account. As the authors mentioned, in this paper, they assume jobs are independent and neglect the communication overhead.
 - Consider jobs that are of different importance and thus are associated with different number of replicas.
