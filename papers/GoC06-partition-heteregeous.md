@@ -15,7 +15,7 @@
 ```
 
 ### Summary
-In this paper, the authors investigate the problem of task partitioning on hegeregenous processors with replicas. They first prove the problem is NP hard in the strong sense by reducing it to the 3-PRTITION problem. And then, by using the properties of linear programming, they show existing approach(Baruah's approach) is difficult to be applied to solve this problem. As a result, they develop a Fully Polynomial-Time Approximation Scheme (FPTAS) to solve this problem.
+In this paper, the authors investigate the problem of task partitioning on heterogeneous processors with replicas. They first prove the problem is NP hard in the strong sense by reducing it to the 3-PRTITION problem. And then, by using the properties of linear programming, they show existing approach (Baruah's approach) is difficult to be applied to solve this problem. As a result, they develop a Fully Polynomial-Time Approximation Scheme (FPTAS) to solve this problem.
 
 
 ### Strongness
