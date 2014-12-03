@@ -50,6 +50,10 @@ Done List
 |[Scheduling algorithms for dynamic message streams with distance constraints in TDMA protocol](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=854012), by *Libin Dong*, in RTS 2000, [[Summary]](../papers/Dong00-schedule-dynamic-msg-tdma.md)| Hakan| 11/11/2014| ****|
 
 
+### Partitioning
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+[Task partitioning with replication upon heterogeneous multiprocessor systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1613336), by *Sathish Gopalakrishnan*, in RTAS 2006, [[Summary]](../papers/GoC06-partition-heteregeous.md)|Hakan| 12/03/2014|****|
 
 ### MISC
 | Title| Assinger| Date| Rate|
