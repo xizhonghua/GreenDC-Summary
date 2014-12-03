@@ -1,4 +1,4 @@
-## Task Partitioning with Replication upon Heterogeneous Multiprocessor Systems
+## [Task Partitioning with Replication upon Heterogeneous Multiprocessor Systems](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1613336&tag=1)
 
 - reading status: started on 12/02/2014, finished on 12/03/2014
 - bib
