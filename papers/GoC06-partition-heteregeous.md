@@ -26,7 +26,7 @@ In this paper, the authors investigate the problem of task partitioning on heger
 
 ### Possible Extensions
 - Extend the problem model by taking the communication overhhead into account. As the authors mentioned, in this paper, they assume jobs are independent and neglect the communication overhead.
-
+- Consider jobs that are of different importance and thus are associated with different number of replicas.
 
 ### Questions
 - In the abstract, "no two replicas of the same task are assigned to the same processing unit", here "same processor unit" means "same processors" or "same processing time units"? I suppose it refers "same processors". 
