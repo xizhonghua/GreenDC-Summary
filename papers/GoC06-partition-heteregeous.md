@@ -35,5 +35,5 @@ In this paper, the authors investigate the problem of task partitioning on heger
 
 
 ### Questions
-- I am not clear how the constraints could ensure that all tasks meet with their deadline.
+- I am not clear how the constraints in the integer programming could ensure that all tasks meet with their deadline. 
 
