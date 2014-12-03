@@ -20,7 +20,7 @@ In this paper, the authors investigate the problem of task partitioning on heter
 
 ### Strongness
 - This paper is well written. The structure is very clear and the technical terms are explained in a way that is easy to understand.
-- The authors analyze the reason that Baruah's arppaoch is diffcult to be applied in this problem model by using the properties of linear programming. The underlying reason is that the restriction that two replicas cannot be applied to the same processor makes the complexity of this problem grow exponentially.
+- The authors analyze the reason that Baruah's approach is difficult to be applied in this problem model by using the properties of linear programming. The underlying reason is that the restriction that two replicas cannot be applied to the same processor makes the complexity of this problem grow exponentially.
 - It seems the techniques (smallest quantum) used in the designed dynamic programming is similar to the one in book "Introduction to Algorithms (3rd)" page 1128, which introduces a fully polynomial-time approximation scheme for the subset-sum problem. The dynamic programming approach designed in this paper is very intesting to me.
 - The novelty of this paper compared with previous work is their taking into account of the replication problem and the heterogeneity of the processors.
 - The formulation of the integer programming is interesting, i.e., the original problem is feasible only if the modified problem (as in the integer programming) has objective value no larger than 1.
