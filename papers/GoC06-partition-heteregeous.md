@@ -26,12 +26,12 @@ In this paper, the authors investigate the problem of task partitioning on heter
 - The formulation of the integer programming is interesting, i.e., the original problem is feasible only if the modified problem (as in the integer programming) has objective value no larger than 1.
 
 ### Weakness
-- Some simulation results will make the theory result in this paper be more vivid. For example, given a setting, what is the cost of running time? Although it seems running time is not very important factors as the partition algorithm may only need to execute for once.
+- Some simulation results will make the theory result in this paper more vivid. For example, given a setting, what is the cost of running time? Although it seems running time is not a very important factor as the partition algorithm may only need to executed for once.
 
 
 
 ### Possible Extensions
-- Extend the problem model by taking the communication overhead  into account. As the authors mentioned, in this paper, they assume jobs are independent and neglect the communication overhead.
+- Extend the problem model by taking the communication overhead  into account. As the authors mentioned, in this paper, they assume jobs are independent and they neglect the communication overhead.
 - Consider jobs that are of different importance and thus are associated with different number of replicas.
 - As the authors mentioned, we can consider other constraints such as the memory limits of processors, or power consumption. 
 - Still, cancellation may be applicable to the problem when a replica of a task has executed successfully. It seems cancellation will make the partioning problem an online problem. However, in order to meet the hard deadline, the possibility of cancellation will not help in accommodating more tasks, it can only be used for energy saving purpose etc.
