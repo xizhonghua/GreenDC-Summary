@@ -18,6 +18,7 @@
 In this paper, the authors investigate the problem of task partitioning on hegeregenous processors with replicas. The problem is NP hard in the strong sense. And they develop a Fully Polynomial-Time Approximation Scheme (FPTAS) for this problem.
 
 ### Strongness
+- This paper is well written. The structure is very clear and the technical terms are explained in a way that is easy to understand.
 
 ### Weakness
 
