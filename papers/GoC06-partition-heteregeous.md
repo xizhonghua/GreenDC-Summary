@@ -17,10 +17,12 @@
 ### Summary
 In this paper, the authors investigate the problem of task partitioning on hegeregenous processors with replicas. They first prove the problem is NP hard in the strong sense by reducing it to the 3-PRTITION problem. And then, by using the properties of linear programming, they show existing approach(Baruah's approach) is difficult to be applied to solve this problem. As a result, they develop a Fully Polynomial-Time Approximation Scheme (FPTAS) to solve this problem.
 
+
 ### Strongness
 - This paper is well written. The structure is very clear and the technical terms are explained in a way that is easy to understand.
 - The authors analyze the reason that Baruah's arppaoch is diffcult to be applied in this problem model by using the properties of linear programming. The underlying reason is that the restriction that two replicas cannot be applied to the same processor makes the complexity of this problem grow exponentially.
-- It seems the techniques (smallest quantum) used in the designed dynamic programming is similar to the one in book "Introduction to Algorithms (3rd)" page 1128, which introduces a fully polynomial-time approximation scheme for the subset-sum problem. 
+- It seems the techniques (smallest quantum) used in the designed dynamic programming is similar to the one in book "Introduction to Algorithms (3rd)" page 1128, which introduces a fully polynomial-time approximation scheme for the subset-sum problem. The dynamic programming approach designed in this paper is very intesting to me.
+- The novelty of this paper compared with previous work is their taking into account of the replication problem and the heterogeneity of the processors.
 
 ### Weakness
 - Some simulation results will make the theory result in this paper be more vivid. For example, given a setting, what is the cost of running time.
