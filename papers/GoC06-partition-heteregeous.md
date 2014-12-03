@@ -1,6 +1,6 @@
 ## Task Partitioning with Replication upon Heterogeneous Multiprocessor Systems
 
-- reading status: started on 12/02/2014, finished on TBD
+- reading status: started on 12/02/2014, finished on 12/03/2014
 - bib
 ```
 @inproceedings{GopalakrishnanC06,
