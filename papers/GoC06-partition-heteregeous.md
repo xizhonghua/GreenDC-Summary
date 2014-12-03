@@ -34,7 +34,7 @@ In this paper, the authors investigate the problem of task partitioning on heger
 - Extend the problem model by taking the communication overhhead into account. As the authors mentioned, in this paper, they assume jobs are independent and neglect the communication overhead.
 - Consider jobs that are of different importance and thus are associated with different number of replicas.
 - As the authors mentioned, we can consider other constraints such as the memory limits of processors, or power consumption. 
-- Still, cancellation may be applicable to the problem when some replica has executed successfully. It seems cancellation will make the partioning problem as an online problem. However, in order to meet the hard deadline, the possible of cancellation will not help in accomodating more tasks, it can only be used for purpose of energy saving etc.
+- Still, cancellation may be applicable to the problem when a replica of a task has executed successfully. It seems cancellation will make the partioning problem an online problem. However, in order to meet the hard deadline, the possibility of cancellation will not help in accomodating more tasks, it can only be used for energy saving purpose etc.
 
 ### Questions
 - I am not clear how the constraints in the integer programming could ensure that all tasks meet with their deadline. 
