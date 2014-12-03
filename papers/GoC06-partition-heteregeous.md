@@ -35,6 +35,7 @@ In this paper, the authors investigate the problem of task partitioning on heter
 - Consider jobs that are of different importance and thus are associated with different number of replicas.
 - As the authors mentioned, we can consider other constraints such as the memory limits of processors, or power consumption. 
 - Still, cancellation may be applicable to the problem when a replica of a task has executed successfully. It seems cancellation will make the partioning problem an online problem. However, in order to meet the hard deadline, the possibility of cancellation will not help in accommodating more tasks, it can only be used for energy saving purpose etc.
+- Objective: minimize power consumption.
 
 ### Questions
 - I am not clear how the constraints in the integer programming could ensure that all tasks meet with their deadline. 
