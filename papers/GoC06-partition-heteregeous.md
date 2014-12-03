@@ -26,11 +26,14 @@ In this paper, the authors investigate the problem of task partitioning on heger
 
 ### Weakness
 - Some simulation results will make the theory result in this paper be more vivid. For example, given a setting, what is the cost of running time. Although it seems running time is not very important factors as the partition algorithm may only need to execute for once.
-
+- The authors modify the partition problem slightly to make it an optimization problem. However, I didn't find any explaination of why making this modification. But I think this is an equivalenet transition. i.e., if the original problem is feasible if and only if the optimization problem have value no larger than 1.
 
 
 ### Possible Extensions
 - Extend the problem model by taking the communication overhhead into account. As the authors mentioned, in this paper, they assume jobs are independent and neglect the communication overhead.
 - Consider jobs that are of different importance and thus are associated with different number of replicas.
 
+
+### Questions
+- I am not clear how the constraints could ensure that all tasks meet with their deadline.
 
