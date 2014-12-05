@@ -12,3 +12,6 @@
 ### Usage
 
 ### Proprocess
+
+### Statistics
+- [Liu-2012](http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=6427509&tag=1):the execution time in ANL Intrepid workload is much greater than the wakeup delay
