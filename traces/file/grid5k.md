@@ -1,4 +1,4 @@
-[Grid5k](http://gwa.ewi.tudelft.nl/)
+[GWA-T-2 Grid5000](http://gwa.ewi.tudelft.nl/)
 ---
 
 - [Source page](http://gwa.ewi.tudelft.nl/datasets/gwa-t-2-grid5000)
