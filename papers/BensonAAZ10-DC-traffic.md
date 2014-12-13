@@ -17,6 +17,7 @@
 ```
 
 ### Summary
+In this paper, the authors take the first step toward an intensive study and modeling of the traffic behavior in data centers. 
 - how to traffic volumes and loss rates vary with time and with the location of a link in a multitier data center?
 - What are the underlying arrival process and interarrival times that define data center traffic?
 - How bursty is the traffic?
