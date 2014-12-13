@@ -38,11 +38,11 @@ Data Center
   - [Map-Reduce workloads](./file/MR-worloads.md)
   - [Internet service](./file/interentService.md)
 - [Characteristic](./file/workloadChar.md)
-- Property: [[deadline]](./file/deadline.md), [[job size]](./file/jobSize.md), [[job arrival]](./file/jobArrival.md)
+- Property: [[deadline]](./file/deadline.md), [[job size]](./file/jobSize.md), [[job arrival]](./file/jobArrival.md), [CPU utilization](./file/CPU-utilization.md)
 - Constraints: [[SLA]](./file/sla.md),[[Demand response event/Customer Comfort]](./file/DR-event.md)
 
-### Utilization
-- [CPU utilization](./file/CPU-utilization.md)
+
+
 
 
 ### Power Management
