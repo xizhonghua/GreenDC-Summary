@@ -5,4 +5,4 @@
 - The performance is measured in terms of throughput and job completion times instead of latency guarantees (e.g., web crawling, index update in search engines, web log analysis [[Tang-2009]](http://dl.acm.org/citation.cfm?id=1855834)).
 
 ### Job size distribution
-- the log of job size satisfy normal, gamma distribution, according to [GWA-T-11 LCG](http://gwa.ewi.tudelft.nl/datasets/gwa-t-10-sharcnet/report/)
+- the log of job size satisfy normal, gamma distribution, according to [[GWA-T-11 LCG]](http://gwa.ewi.tudelft.nl/datasets/gwa-t-10-sharcnet/report/)
