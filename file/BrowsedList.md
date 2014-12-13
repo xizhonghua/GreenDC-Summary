@@ -18,3 +18,4 @@
 | Paper| Assigner| Rate| Date| Todo|
 |:-----|:--------|:----|:----|:---|
 |[Data Cener Workload Characterization](http://web.stanford.edu/~cdel/epic.talk.workloads.pdf), by *Christina Delimitrou*| Me|* | 12/12/2014| | 
+| [Understanding Data Center Traffic Characteristics](http://research.microsoft.com/pubs/136788/wren09.pdf), by *Theophilus Benson*, in SIGCOMM 2010, [[Summary]](../papers/BensonAAZ10-DC-traffic.md)| Me|***|12/12/2014| generate DC traffic |
