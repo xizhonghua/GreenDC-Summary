@@ -29,4 +29,7 @@
 - Average link loss
    - higher at the edge
    - lowest at the core
+- Packet arrival
+   - data center edge can be characterized by ON-OFF pattern
+   - packet interarrival times with an ON period follow lognormal distribution
 
