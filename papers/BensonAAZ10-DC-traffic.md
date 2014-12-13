@@ -33,4 +33,4 @@ In this paper, the authors take the first step toward an intensive study and mod
 - Packet arrival
    - data center edge can be characterized by ON-OFF pattern
    - packet interarrival times with an ON period follow **lognormal distribution**
-
+![](../fig/inter-arrrival-DC-packet.PNG)
