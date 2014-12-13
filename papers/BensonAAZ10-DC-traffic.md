@@ -16,3 +16,9 @@
 } 
 ```
 
+### Summary
+- how to traffic volumes and loss rates vary with time and with the location of a link in a multitier data center?
+- What are the underlying arrival process and interarrival times that define data center traffic?
+- How bursty is the traffic?
+
+
