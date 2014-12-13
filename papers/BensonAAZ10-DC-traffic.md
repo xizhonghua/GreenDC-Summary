@@ -22,3 +22,11 @@
 - How bursty is the traffic?
 
 
+### Findings
+- Average link loads
+   - high in the core of data center switching architectures
+   - fall progressively as one moves toward the edge
+- Average link loss
+   - higher at the edge
+   - lowest at the core
+
