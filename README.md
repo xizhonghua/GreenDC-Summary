@@ -16,7 +16,7 @@ Green Data Center
 ### Resource
 - [Traces](./traces)
 - [Tools](./tools)
-- Writing: [Model](./file/writingModel.md)
+
 
 ### Fundamental Knowledge
 - [Server and Power Technical](./energy)
@@ -30,5 +30,5 @@ Green Data Center
 ### Standards
 - [Paper Summary Template](./papers/template.md)
 - [Bib Standards](./papers/bibFormat.md)
-
+- Writing Sample: [Model](./file/writingModel.md)
 
