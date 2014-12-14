@@ -13,10 +13,6 @@ Green Data Center
 - [Peers](./file/peers.md)
 - [Future work](https://github.com/hxwang/Private-Documents/tree/master/GreenDCFutureWork)
 
-### Resource
-- [Traces](./traces)
-- [Tools](./tools)
-
 
 ### Fundamental Knowledge
 - [Server and Power Technical](./energy)
