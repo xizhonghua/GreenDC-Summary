@@ -37,7 +37,7 @@ Data Center
   - [Task-aware workloads](./file/Task-aware workloads.md)
   - [Map-Reduce workloads](./file/MR-worloads.md)
   - [Internet service](./file/interentService.md)
-- [Characteristic](./file/workloadChar.md)
+- [Challenge](./file/workloadChar.md)
 - Property: [[deadline]](./file/deadline.md), [[job size]](./file/jobSize.md), [[job arrival]](./file/jobArrival.md)
 - Utilization: [[CPU utilization]](./file/CPU-utilization.md)
 - Constraints: [[SLA]](./file/sla.md),[[Demand response event/Customer Comfort]](./file/DR-event.md)
