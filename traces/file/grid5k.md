@@ -18,7 +18,7 @@
 	      e.g., a reservation for the period 8am-2pm can be submitted at 8:01am the same day, for a wait time of -1 min.
 	      (see also grid5000_reservation_jobs|Jobs_Reservation)
 - the trace also includes jobs that have NOT run on Grid'5000, e.g., but canceled before resources are actually allocated to them.  Is up to you to filter these jobs (fields WaitTime=-1 and RunTime=-1)
-- This file contains each job in a row, with each column has the following definition: JobId<TAB>SubmitTime<TAB>WaitTime<TAB>RunTime<TAB>NProc<TAB>AverageCPUTimeUsed<TAB>UsedMemory<TAB>ReqNProcs<TAB>ReqTime<TAB>ReqMemory<TAB>Status<TAB>UserId<TAB>GroupId<TAB>ExecutableId<TAB>QueueId<TAB>PartitionId<TAB>OrigSiteId<TAB>LastRunSiteId<TAB>JobStructure<TAB>JobStructureParams<TAB>UsedNetwork<TAB>UsedLocalDiskSpace<TAB>UsedResources<TAB>ReqPlatform<TAB>ReqNetwork<TAB>RequestedLocalDiskSpace<TAB>RequestedResources<TAB>VirtualOrganizationId<TAB>ProjectId
+- This file contains each job in a row, with each column has the following definition: `JobId<TAB>SubmitTime<TAB>WaitTime<TAB>RunTime<TAB>NProc<TAB>AverageCPUTimeUsed<TAB>UsedMemory<TAB>ReqNProcs<TAB>ReqTime<TAB>ReqMemory<TAB>Status<TAB>UserId<TAB>GroupId<TAB>ExecutableId<TAB>QueueId<TAB>PartitionId<TAB>OrigSiteId<TAB>LastRunSiteId<TAB>JobStructure<TAB>JobStructureParams<TAB>UsedNetwork<TAB>UsedLocalDiskSpace<TAB>UsedResources<TAB>ReqPlatform<TAB>ReqNetwork<TAB>RequestedLocalDiskSpace<TAB>RequestedResources<TAB>VirtualOrganizationId<TAB>ProjectId`
 
 
 	    
