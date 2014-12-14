@@ -3,7 +3,7 @@ Green Data Center
 
 
 
-### Intro
+### Summary of Data Center
 - [Data Center Introduction and Research](./data-center)
 
 
