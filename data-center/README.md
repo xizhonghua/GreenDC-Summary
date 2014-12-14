@@ -41,6 +41,8 @@ Data Center
 - Property: [[deadline]](./file/deadline.md), [[job size]](./file/jobSize.md), [[job arrival]](./file/jobArrival.md)
 - Utilization: [[CPU utilization]](./file/CPU-utilization.md)
 - Constraints: [[SLA]](./file/sla.md),[[Demand response event/Customer Comfort]](./file/DR-event.md)
+- [Real Traces](../traces)
+
 
 
 
@@ -58,6 +60,7 @@ Data Center
   - [Geo Data Center machine power cost](../file/simGeoDCPower.md)
 - Simulation Result Presentation
   - [Tuning parameters](./file/tuneParameter.md)
+- [Tools](../tools)
 
 ### OutLink
 - [TODO](./file/todo.md)
