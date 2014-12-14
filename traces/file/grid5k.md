@@ -14,13 +14,11 @@
   
 ### Files Format
 - The file we used is `grid5000_clean_trace.log`, it contains the trace of Grid'5000 (all OAR databases information about jobs) from the beginning of the project up to the 10th of November 2006.
-- some jobs may have wait time of < 0 due to the scheduler behavior (OAR) especially reservations, 
+- Note: some jobs may have wait time of < 0 due to the scheduler behavior (OAR) especially reservations, 
 	      e.g., a reservation for the period 8am-2pm can be submitted at 8:01am the same day, for a wait time of -1 min.
 	      (see also grid5000_reservation_jobs|Jobs_Reservation)
 - the trace also includes jobs that have NOT run on Grid'5000, e.g., but canceled before resources are actually allocated to them.  Is up to you to filter these jobs (fields WaitTime=-1 and RunTime=-1)
-- in the trace some jobs that runned on Grid'5000 are missing, because they were deleted from OAR databases 
-	      (see description of the trace on the GWA website for numbers)
-- the default requested time (field ReqTime) for a job is 1 hour (3600 seconds)
+- This file contains each job in a row, with each column has the following definition: JobId<TAB>SubmitTime<TAB>WaitTime<TAB>RunTime<TAB>NProc<TAB>AverageCPUTimeUsed<TAB>UsedMemory<TAB>ReqNProcs<TAB>ReqTime<TAB>ReqMemory<TAB>Status<TAB>UserId<TAB>GroupId<TAB>ExecutableId<TAB>QueueId<TAB>PartitionId<TAB>OrigSiteId<TAB>LastRunSiteId<TAB>JobStructure<TAB>JobStructureParams<TAB>UsedNetwork<TAB>UsedLocalDiskSpace<TAB>UsedResources<TAB>ReqPlatform<TAB>ReqNetwork<TAB>RequestedLocalDiskSpace<TAB>RequestedResources<TAB>VirtualOrganizationId<TAB>ProjectId
 
 
 	    
