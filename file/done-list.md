@@ -55,6 +55,13 @@ Done List
 |:-----|:--------|:----|:----|
 [Task partitioning with replication upon heterogeneous multiprocessor systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1613336), by *Sathish Gopalakrishnan*, in RTAS 2006, [[Summary]](../papers/GoC06-partition-heteregeous.md)|Hakan| 12/03/2014|****|
 
+
+### Theory
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+|[Yao's Principle](http://en.wikipedia.org/wiki/Yao's_principle)| Fei| **|
+
+
 ### MISC
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
