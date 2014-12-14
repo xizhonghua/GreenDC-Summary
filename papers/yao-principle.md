@@ -10,3 +10,4 @@
 ### Main Idea
 - Objective: to analyze the lower bound of randomized algorithm.
 - Approach: it is sufficient to look at the deterministic algorithm.
+- My idea: the lower bound of randomized algorithm is no better than the best performance of the worst-case performance of any deterministic algorithm. 
