@@ -8,15 +8,15 @@
 
 
 ### Files Format
-1 Job number
-2 Submit time (in seconds)
-3 Wait time (in seconds)
-4 running time (in seconds)
-5 Number of allocated processors
-8 Requested number of processors
-9 Requested running time (in seconds)
-12 User ID
-15 Queue Number
+- 1 Job number
+- 2 Submit time (in seconds)
+- 3 Wait time (in seconds)
+- 4 running time (in seconds)
+- 5 Number of allocated processors
+- 8 Requested number of processors
+- 9 Requested running time (in seconds)
+- 12 User ID
+- 15 Queue Number
 
 ### Usage
 
