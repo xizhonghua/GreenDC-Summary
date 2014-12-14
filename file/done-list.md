@@ -65,4 +65,4 @@ Done List
 ### MISC
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
-|[Conferences vs. Journals in CS, what to do?Evolutionary ways forward and the ICLP/TPLP Model](http://www.dagstuhl.de/mat/Files/12/12452/12452.HermenegildoManuel.Paper.pdf), by *Manuel V. Hermenegildo*, [[Summary]](../papers/Hermenegildo-paper-publish.md)| Fei | 11/06/2014| |
+|[Conferences vs. Journals in CS, what to do?Evolutionary ways forward and the ICLP/TPLP Model](http://www.dagstuhl.de/mat/Files/12/12452/12452.HermenegildoManuel.Paper.pdf), by *Manuel V. Hermenegildo*, [[Summary]](../papers/Hermenegildo-paper-publish.md), in Wiki, [[Summary]](../papers/yao-principle.md)| Fei | 11/06/2014| |
