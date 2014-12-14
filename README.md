@@ -20,7 +20,7 @@ Green Data Center
 
 ### Fundamental Knowledge
 - [Server and Power Technical](./energy)
-- [Algorithms](./algorithms)
+- [Related Algorithms](./algorithms)
 
 ### Readings
 - [To Read](./file/ToRead-List.md)
