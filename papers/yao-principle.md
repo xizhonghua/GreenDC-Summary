@@ -4,3 +4,9 @@
 
 ### Summary
 - Yao's principle states that the expected cost of a randomized algorithm on the worst case input, is no better than a worst-case random probability distribution of the deterministic algorithm which performs best for that distribution.
+- confused.
+
+
+### Main Idea
+- Objective: to analyze the lower bound of randomized algorithm.
+- Approach: it is sufficient to look at the deterministic algorithm.
