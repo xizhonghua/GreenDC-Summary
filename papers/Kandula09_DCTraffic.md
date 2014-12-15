@@ -17,7 +17,7 @@
 
 
 ### Workloads Characteristics
-- Traffic InterArrival
+- Traffic InterArrival: busty, long-tail
 ```
 If flow arrivals were a
 Poisson process, network designers could safely design for the average
