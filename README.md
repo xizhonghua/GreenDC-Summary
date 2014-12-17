@@ -9,7 +9,7 @@ Green Data Center
 
 ### Current Research
 - [Paper Summary](./file/paper-summary.md)
-- [Research Branches](./file/research-topic.md)
+- [Research Topic](./file/research-topic.md)
 - [Peers](./file/peers.md)
 - [Future work](https://github.com/hxwang/Private-Documents/tree/master/GreenDCFutureWork)
 
