@@ -51,6 +51,8 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
 ### Simulation
 - How to generate task-aware workloads?
   - [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md), each task has a global priority -- all flow within the task use this priority, irrespective of when these flow start and which part of the network they traverse. 
+- How to generate heavy-tail workloads?
+  - using Pareto or Lognormal distribution with varying parameters (shape or mean respectively)
 - Evaluation metric
   - average and the tail (95th percentile and beyond) completition time.
   
