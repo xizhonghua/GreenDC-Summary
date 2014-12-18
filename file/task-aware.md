@@ -22,30 +22,23 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
   - [[PDQ-2012]](http://dl.acm.org/citation.cfm?id=2342389), [[pFabric-2013]](http://dl.acm.org/citation.cfm?id=2486031): they can support a scheduling policy like shortest flow first (SFF), which minimize flow completion times by assigning resoruces based on flow size.
 - **Future (task-based resource allocation)**: This has motivated efforts to allocate data center resources in a "task-aware" fashion. Examples include task-aware allocation of caches[[Ananthanarayanan-2012]](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/ananthanarayanan), network bandwidth [[Chowdhury-2011]](http://dl.acm.org/citation.cfm?id=2018448), and CPUs and network [[Ananthanarayanan-2010]](https://www.usenix.org/conference/osdi10/reining-outliers-map-reduce-clusters-using-mantri).
 
-### Assumption
+
+### Existing Approach
 - Task serialization: We consider serving tasks one at a time. This can help finish tasks faster by reducing the amount of contention in the network. We define task serialization as the set of policies where an entire task is scheduled before moving to the next.
   - Question: can task-serialization also improve the tail task completition time?
 - Task serialization policy
-  - **FIFO**: schedules tasks in their arrival order
+  - **FIFO**: Allocating network bandwidth to tasks in a FIFO fashion, such that they are scheduled over the network one at a time, can improve the average task completion time as compare to per-flow fair sharing (e.g., TCP) [[Chowdhury-2011]](http://dl.acm.org/citation.cfm?id=2018448)
     - Pros: 
       - simple
       - limits the maximum time a task has to wait, as a task's waiting time depends only on the task that arrive before it
       - It is proved to be optimal for minimizing the tail completion time, if task sizes follow a light tailed distribution, i.e., task sizes are faily homogeneous and do not follow a heavy tailed distribution [[Wierman-2012]](http://dl.acm.org/citation.cfm?id=2432678).
-    - Cons:
-      - If task sizes are heavy tailed, FIFO may result in blocking smal tasks behind a heavy task. For such applications, we need a policy that can seperate out these "elephants" from the small tasks.
+    - Cons: Since typical data center workloads include some fraction of heavy taskss (in terms of their network footprint), so obvious scheduling candidates like FIFO and size-based ordering perform poorly. For such applications, we need a policy that can seperate out these "elephants" from the small tasks. [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
   - **STF**:  schdules tasks based on their size. 
     - Pros: can guarantee good average performance.
     - Cons: can lead to high tail latency, or even starvation, for large sized tasks. Moreover, it requires knowledge about task sizs up front, which is impractical for many applications. 
-    
-
-
-
-### Existing Approach
-- **FIFO**: Allocating network bandwidth to tasks in a FIFO fashion, such that they are scheduled over the network one at a time, can improve the average task completion time as compare to per-flow fair sharing (e.g., TCP) [[Chowdhury-2011]](http://dl.acm.org/citation.cfm?id=2018448)
-  - Drawback: Since typical data center workloads include some fraction of heavy taskss (in terms of their network footprint), so obvious scheduling candidates like FIFO and size-based ordering perform poorly [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
-- **FIFO-LM**: (FIFO with limited multiplexing), a policy that schedules tasks based on their arrival order, but dynamically changes the level of multiplexing when heavy tasks are encountered. This ensures small tasks are not blocked behind heavy tasks that are, in turn, not starved [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md).
-  - Advantage: FIFO-LM (and even FIFO) can reduce both the average and the tail task completition times. 
-    - They do so by smoothing bursty arrivals and ensuring that a tasks' completion is only impacted by tasks that arrive before it. For example, data center applications typically have multiple stages where a subsequent stage can only start when the previous stage finishes. In such scenarios, FIFO scheudling can smooth out a burst of tasks that arrive at the first stage. As a result, task observe less contention at the later stages, thereby smoothing the tail completion time. 
+  - **FIFO-LM**: (FIFO with limited multiplexing), a policy that schedules tasks based on their arrival order, but dynamically changes the level of multiplexing when heavy tasks are encountered. This ensures small tasks are not blocked behind heavy tasks that are, in turn, not starved [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md).
+    - Advantage: FIFO-LM (and even FIFO) can reduce both the average and the tail task completition times. 
+      - They do so by smoothing bursty arrivals and ensuring that a tasks' completion is only impacted by tasks that arrive before it. For example, data center applications typically have multiple stages where a subsequent stage can only start when the previous stage finishes. In such scenarios, FIFO scheudling can smooth out a burst of tasks that arrive at the first stage. As a result, task observe less contention at the later stages, thereby smoothing the tail completion time. 
     
 ### Simulation
 - How to generate task-aware workloads?
