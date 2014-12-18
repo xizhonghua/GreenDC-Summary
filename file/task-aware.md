@@ -1,5 +1,6 @@
 ## Task-aware Scheduling
 
+- [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
 
 ### Motivation
 Many data center applications perform rich and complex tasks (e.g., executing a search query or generating a user's news-feed). From a network perspective, these tasks typically comprise multiple flows, which traverse different parts of the network at potentially different times. [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
@@ -9,3 +10,5 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
 
 ### Existing Approach
 - **FIFO**: Allocating network bandwidth to tasks in a FIFO fashion, such that they are scheduled over the network one at a time, can improve the average task completion time as compare to per-flow fair sharing (e.g., TCP) [[Chowdhury-2011]](http://dl.acm.org/citation.cfm?id=2018448)
+  - Drawback: Since typical data center workloads include some fraction of heavy taskss (in terms of their network footprint), so obvious scheduling candidates like FIFO and size-based ordering perform poorly [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
+- **FIFO-LM**: (FIFO with limited multiplexing), a policy that schedules tasks based on their arrival order, but dynamically changes the level of multiplexing when heavy tasks are encountered. This ensures small tasks are not blocked behind heavy tasks that are, in turn, not starved.
