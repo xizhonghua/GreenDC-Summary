@@ -5,9 +5,10 @@
 ### Definition
 - Task-aware workloads: [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md) define a task as the unit of work for an application that can be linked to a waiting user. 
   - Completition time: It is an important matric as it directly impacts user satisfication. 
-  |Fig: Common workflows in data center|
-  |:----|
-  |![](../fig/dc-flow.PNG)|
+  
+|Fig: Common workflows in data center|
+|:----|
+|![](../fig/dc-flow.PNG)|
 
 
 
