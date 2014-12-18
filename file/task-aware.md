@@ -27,6 +27,12 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
   - Question: can task-serialization also improve the tail task completition time?
 - Task serialization policy
   - **FIFO**: schedules tasks in their arrival order
+    - Advantage: 
+      - simple
+      - limits the maximum time a task has to wait, as a task's waiting time depends only on the task that arrive before it
+      - It is proved to be optimal for minimizing the tail completion time, if task sizes follow a light tailed distribution, i.e., task sizes are faily homogeneous and do not follow a heavy tailed distribution [[Wierman-2012]](http://dl.acm.org/citation.cfm?id=2432678).
+    - Cons:
+      - If task sizes are heavy tailed, FIFO may result in blocking smal tasks behind a heavy task. For such applications, we need a policy that can seperate out these "elephants" from the small tasks.
   - **STF**:  schdules tasks based on their size. 
     - Advantage: can guarantee good average performance.
     - Disadvantage: can lead to high tail latency, or even starvation, for large sized tasks. Moreover, it requires knowledge about task sizs up front, which is impractical for many applications. 
