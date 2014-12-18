@@ -37,7 +37,8 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
     - Pros: can guarantee good average performance.
     - Cons: can lead to high tail latency, or even starvation, for large sized tasks. Moreover, it requires knowledge about task sizs up front, which is impractical for many applications. 
   - **FIFO-LM**: (FIFO with limited multiplexing), a policy that schedules tasks based on their arrival order, but dynamically changes the level of multiplexing when heavy tasks are encountered. This ensures small tasks are not blocked behind heavy tasks that are, in turn, not starved [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md).
-    - Advantage: FIFO-LM (and even FIFO) can reduce both the average and the tail task completition times. 
+    - Pros: 
+      - FIFO-LM (and even FIFO) can reduce both the average and the tail task completition times. 
       - They do so by smoothing bursty arrivals and ensuring that a tasks' completion is only impacted by tasks that arrive before it. For example, data center applications typically have multiple stages where a subsequent stage can only start when the previous stage finishes. In such scenarios, FIFO scheudling can smooth out a burst of tasks that arrive at the first stage. As a result, task observe less contention at the later stages, thereby smoothing the tail completion time. 
     
 ### Simulation
