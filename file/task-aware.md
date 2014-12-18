@@ -40,7 +40,14 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
     - Pros: 
       - FIFO-LM (and even FIFO) can reduce both the average and the tail task completition times. 
       - They do so by smoothing bursty arrivals and ensuring that a tasks' completion is only impacted by tasks that arrive before it. For example, data center applications typically have multiple stages where a subsequent stage can only start when the previous stage finishes. In such scenarios, FIFO scheudling can smooth out a burst of tasks that arrive at the first stage. As a result, task observe less contention at the later stages, thereby smoothing the tail completion time. 
-    
+ 
+### FIFO-LM detail
+- How to determine a task is heavy
+  - We assume that the data center has knowledge about task size distribution based on historically collected data. Based on this history, we need to identify a **threshold** (in terms of task size) beyong which we characterize a task as heavy. e.g., through the CDF curve in Figure 2 in [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md).
+  
+
+
+
 ### Simulation
 - How to generate task-aware workloads?
   - [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md), each task has a global priority -- all flow within the task use this priority, irrespective of when these flow start and which part of the network they traverse. 
