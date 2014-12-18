@@ -2,6 +2,9 @@
 
 - [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
 
+### Definition
+- Task-aware workloads: [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md) define a task as the unit of work for an application that can be linked to a waiting user. 
+  - Completition time: It is an important matric as it directly impacts user satisfication. 
 ### Motivation
 Many data center applications perform rich and complex tasks (e.g., executing a search query or generating a user's news-feed). From a network perspective, these tasks typically comprise multiple flows, which traverse different parts of the network at potentially different times. [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
 - **Current**: Most network task resource allocation schemes, however, treat all these flows in isolation -- rather than as part of a task, and thereofore, only optimize flow-level metrics.
@@ -18,3 +21,6 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
 ### Simulation
 - How to generate task-aware workloads?
   - [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md), each task has a global priority -- all flow within the task use this priority, irrespective of when these flow start and which part of the network they traverse. 
+- Evaluation metric
+  - average and the tail (95th percentile and beyond) completition time.
+  
