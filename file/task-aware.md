@@ -24,6 +24,7 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
 
 ### Assumption
 - Task serialization: We consider serving tasks one at a time. This can help finish tasks faster by reducing the amount of contention in the network. We define task serialization as the set of policies where an entire task is scheduled before moving to the next.
+  - Question: can task-serialization also improve the tail task completition time?
 
 ### Existing Approach
 - **FIFO**: Allocating network bandwidth to tasks in a FIFO fashion, such that they are scheduled over the network one at a time, can improve the average task completion time as compare to per-flow fair sharing (e.g., TCP) [[Chowdhury-2011]](http://dl.acm.org/citation.cfm?id=2018448)
