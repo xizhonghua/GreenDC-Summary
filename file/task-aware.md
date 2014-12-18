@@ -41,10 +41,13 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
       - FIFO-LM (and even FIFO) can reduce both the average and the tail task completition times. 
       - They do so by smoothing bursty arrivals and ensuring that a tasks' completion is only impacted by tasks that arrive before it. For example, data center applications typically have multiple stages where a subsequent stage can only start when the previous stage finishes. In such scenarios, FIFO scheudling can smooth out a burst of tasks that arrive at the first stage. As a result, task observe less contention at the later stages, thereby smoothing the tail completion time. 
  
-### FIFO-LM detail
+### BARRAT (FIFO-LM detail)
 - How to determine a task is heavy
   - We assume that the data center has knowledge about task size distribution based on historically collected data. Based on this history, we need to identify a **threshold** (in terms of task size) beyong which we characterize a task as heavy. e.g., through the CDF curve in Figure 2 in [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md).
-  
+- How BARRAT is decentralized?
+  - Each task is assigned a globally unique identifier (task-id) based on its arrival (or start) time.
+  - Thus, switches can make decision without any coordination. Each switch makes the same decision based on the task priorityl.
+  - Finally, switches locally decide when to increase the level of multiplexing through on-the-fly identification of heavy tasks. 
 
 
 
@@ -58,3 +61,4 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
   
 ### TO-CHECK
 - What's the overhead?
+- How to make sure of the global priority?
