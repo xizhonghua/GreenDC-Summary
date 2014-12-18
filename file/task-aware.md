@@ -30,6 +30,10 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
   - **STF**:  schdules tasks based on their size. 
     - Advantage: can guarantee good average performance.
     - Disadvantage: can lead to high tail latency, or even starvation, for large sized tasks. Moreover, it requires knowledge about task sizs up front, which is impractical for many applications. 
+    
+
+
+
 ### Existing Approach
 - **FIFO**: Allocating network bandwidth to tasks in a FIFO fashion, such that they are scheduled over the network one at a time, can improve the average task completion time as compare to per-flow fair sharing (e.g., TCP) [[Chowdhury-2011]](http://dl.acm.org/citation.cfm?id=2018448)
   - Drawback: Since typical data center workloads include some fraction of heavy taskss (in terms of their network footprint), so obvious scheduling candidates like FIFO and size-based ordering perform poorly [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)
