@@ -36,3 +36,5 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
 - Evaluation metric
   - average and the tail (95th percentile and beyond) completition time.
   
+### TO-CHECK
+- What's the overhead?
