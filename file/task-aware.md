@@ -48,7 +48,9 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
   - Each task is assigned a globally unique identifier (task-id) based on its arrival (or start) time.
   - Thus, switches can make decision without any coordination. Each switch makes the same decision based on the task priorityl.
   - Finally, switches locally decide when to increase the level of multiplexing through on-the-fly identification of heavy tasks. 
-
+- How to assign the unique id to task?
+  - We only need a single counter when all incoming tasks arrive through a common point. Examples of such common points include the load balancer (for user-facing applications like web search), the job scheduler (for data parallel and HPC applications), the meta-data manager (for storage applications), and so on.
+  - We can use multiple counter when tasks arrive through multiple load balancers. Each counter has a unique start value and an incremental value. For example, if there are two counters, one of them generate odd task-ids (1,3,5,...), and one generate even task-ids (2, 4, 6, ...).
 
 
 ### Simulation
