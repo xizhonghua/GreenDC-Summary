@@ -1,6 +1,6 @@
 ## [Decentralized Task-aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429)
 
-- reading status: haven't started
+- reading status: started on 12/17/2014
 - bib
 ```
 @Inproceedings {export:215429,
