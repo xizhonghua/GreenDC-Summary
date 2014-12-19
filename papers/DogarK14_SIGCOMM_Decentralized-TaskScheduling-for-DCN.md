@@ -16,3 +16,6 @@
 In this paper, the author design decentralized task-aware scheduling approach that could reduce both the **average** as well as **tail completion time** for typical data center applications.
 - The detail summary is [here](../file/task-aware.md)
 
+### Comments
+- It seems to me that the mechanism of task-aware scheduling  is studied in related works pFabric. But related work such as pFabric didn't consider heavy task workload which may hurt the performance of the completition time. Thus this paper proposed a mechanism to deal with this problem.
+    - In particular, multiplexing is a mechanism to balance fairness and performance. For example, Hadoop fair scheduler allows limited multiplexing, although the limit is set by the user/administrator. However, the above mechanism is focusing on job scheduling, not on flow (or task) scheduling over the network and not on decentralized scheduling of flows, which requires new mechanism, as one descripbed in this paper.
