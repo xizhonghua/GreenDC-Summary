@@ -52,7 +52,8 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
   - We only need a single counter when all incoming tasks arrive through a common point. Examples of such common points include the load balancer (for user-facing applications like web search), the job scheduler (for data parallel and HPC applications), the meta-data manager (for storage applications), and so on.
   - We can use multiple counter when tasks arrive through multiple load balancers. Each counter has a unique start value and an incremental value. For example, if there are two counters, one of them generate odd task-ids (1,3,5,...), and one generate even task-ids (2, 4, 6, ...).
   - Note that the generation of task identifier should also account for background services (e.g., index update) that are part of most production data centers. But these tasks are assigned with strictly lower priority.
-
+  - Propagation of task identifiers: all physical servers involve in a task need to know its task-id. Applications can propagate this identifier along the task workflow.
+  
 ### Simulation
 - How to generate task-aware workloads?
   - [[Dogar-2014]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md), each task has a global priority -- all flow within the task use this priority, irrespective of when these flow start and which part of the network they traverse. 
