@@ -53,6 +53,9 @@ Many data center applications perform rich and complex tasks (e.g., executing a 
   - We can use multiple counter when tasks arrive through multiple load balancers. Each counter has a unique start value and an incremental value. For example, if there are two counters, one of them generate odd task-ids (1,3,5,...), and one generate even task-ids (2, 4, 6, ...).
   - Note that the generation of task identifier should also account for background services (e.g., index update) that are part of most production data centers. But these tasks are assigned with strictly lower priority.
   - Propagation of task identifiers: all physical servers involve in a task need to know its task-id. Applications can propagate this identifier along the task workflow.
+- Allow work-conservation and preemption
+  - work-conservation: a lower priority task can be scheduled if the highest priority task is too small to saturate the lnk or if it is bottlenecked at a subsequent link.
+  - premption: it is a complement of work-conservation. It ensures that the high priority task can grab back resources that assign to the high priority jobs.
   
 ### Simulation
 - How to generate task-aware workloads?
