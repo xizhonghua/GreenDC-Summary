@@ -9,7 +9,6 @@ Reading List
 |4|[Greening Geographic Loading Balancing](http://dl.acm.org/citation.cfm?id=1993767), by *Zhenhua Liu et al*, in SIGMETRICS'11, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/LiuL11_Greening-Geographical-Load-Balancing.md) | Fei|
 |5| [Smoothed Analysis](http://www.cs.yale.edu/homes/spielman/SmoothedAnalysis/) |Fei |
 |6|[Smoothed Analysis: An Attempt to Explain the Behavior of Algorithms in Practice](http://www.cs.yale.edu/homes/spielman/Research/cacmSmooth.pdf), by *Daniel A. Spielman et al*,  in COMMUN. ACM  2009| Fei|
-|7|[Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)| Fei |
 |8|[Friends, not Foes – Synthesizing Existing Transport Strategies for Data Center  Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215430), by  *F.R. Dogar*,  in SIGCOMM 2014, [[Summary]](../papers/MunirB14_SIGCOMM_Synthesizing-Existing-Transport-Strateg-DC.md)| Fei|
 |9| [GreenSlot: scheduling energy consumption in green datacenters](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6114408), by *Inigo Goiri et al*, in SC 11, [[Summary]](./papers/GoiriL11_GreenSlot.md)| me|
 |10| [Toward an Experimental Method for Algorithm Simulation](http://pubsonline.informs.org/doi/abs/10.1287/ijoc.8.1.1), by *Catherine C.Mcgeoch*, in Inform Journal Computing 1996, [[Summary]](../papers/Mcgeoch95_Algorithm-Simulations.md)| Fei|
