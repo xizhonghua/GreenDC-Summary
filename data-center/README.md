@@ -41,7 +41,7 @@ Data Center
 - Property: [[deadline]](./file/deadline.md), [[job size]](./file/jobSize.md), [[job arrival]](./file/jobArrival.md)
 - Utilization: [[CPU utilization]](./file/CPU-utilization.md)
 - Constraints: [[SLA]](./file/sla.md),[[Demand response event/Customer Comfort]](./file/DR-event.md)
-- [Resource Demand](./file/esource-demand.md)
+- [Resource Demand](./file/resource-demand.md)
 
 
 
