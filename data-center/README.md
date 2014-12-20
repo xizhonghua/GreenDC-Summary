@@ -3,6 +3,7 @@ Data Center
 
 ### Introduction
 - [Power concern](./file/PowerConcern.md)
+- [Machine Resource](./file/resource.md)
 - [DC in real life](./file/exampleDC.md)
 - [Power Management Challenge](./file/challenge.md)
 - Single DC
