@@ -27,6 +27,10 @@ Done List
 |:-----|:--------|:----|:----|
 | [Utilizing green energy prediction to schedule mixed batch and service jobs in data centers](http://dl.acm.org/citation.cfm?id=2039257), by *Baris Aksanli*, in HotPower 2011, [[Summary]](../papers/AksanliVZR11_mixed-batch-service.md)| Me| 11/12/2014| **|
 
+### Data Center: Minimizing Completition Time
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+|[Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)| Fei | ***|
 
 ### Resource Augmentation
 | Title| Assinger| Date| Rate|
