@@ -30,6 +30,7 @@
 ### Proposed Solution
 - The proposed solution Tetris adapts heuristics for the multidimensional bin packing problem to the context of cluster schedulers.
 - Tetris imporve average job completion time by preferentially serving jobs that have less remaining work. 
+- Tetris are compatible with a large class of fairness policies. Hence, we show how to simultaneously achieve good performance and fairness.
 
 ### Strongess
 
