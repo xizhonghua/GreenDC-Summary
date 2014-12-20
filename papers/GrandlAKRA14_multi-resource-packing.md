@@ -23,10 +23,13 @@
 - Task arrivals and machine availability change in an online manner and wherein task's resource needs change with time and with the machine that the task is placed at.
 
 ### Current Solution
-
+- Fair allocation
+ - Drawback
+  - do not offer the best performance and the above heuristics are compativle with a large class of fairness policies; 
 
 ### Proposed Solution
-
+- The proposed solution Tetris adapts heuristics for the multidimensional bin packing problem to the context of cluster schedulers.
+- Tetris imporve average job completion time by preferentially serving jobs that have less remaining work. 
 
 ### Strongess
 
