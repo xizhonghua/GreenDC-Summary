@@ -30,7 +30,7 @@ Done List
 ### Data Center: Minimizing Completition Time
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
-|[Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)| Fei | ***|
+|[Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)| Fei | 12/19/2014| ***|
 
 ### Resource Augmentation
 | Title| Assinger| Date| Rate|
