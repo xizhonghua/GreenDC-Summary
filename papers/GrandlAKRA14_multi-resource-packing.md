@@ -26,7 +26,10 @@
 - Fair allocation
  - Drawback
   - do not offer the best performance and the above heuristics are compativle with a large class of fairness policies; 
-
+- Current schedulers neither pack tasks nor consider all their relevant resource demands. This results in fragmentation and over-allocation of resources, respectively.
+ - Schedulers divide resurces into slots and offer the slots greeidly to the job that is furthest from its fair share. Such scheduling results in resource gragmentation, and the magnitude of which increase with the number of resource being allocated.
+ - schedulers also ignore disk and network requirments of tasks. When assigning tasks to machines, they only check that tasks' CPU and memory needs are satisfiable. Hence, they can schedule many network or disk-intensive tasks o n the same machine. Such over-allocation leads to interference-disk seeks or network incase- that can sharply lower throughput. 
+ 
 ### Proposed Solution
 - The proposed solution Tetris adapts heuristics for the multidimensional bin packing problem to the context of cluster schedulers.
 - Tetris imporve average job completion time by preferentially serving jobs that have less remaining work. 
