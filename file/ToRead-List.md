@@ -45,4 +45,4 @@ Reading List
 |46| [Efficient Risk Hedging by Dynamic Forward Pricing: A Study in Cloud Computing](http://dl.acm.org/citation.cfm?id=2536131), by *Anna Ye Du*, in INFORM Journal of Computing| Fei| |
 |47|[Energy efficient scheduling of parallelizable jobs](http://dl.acm.org/citation.cfm?id=2627885), by *Kyle Fox*, in SODA 2013| Me| |
 |48|[The Nature of Datacenter Traffic: Measurements & Analysis](http://dl.acm.org/citation.cfm?id=1644918), by *Srikanth Kandula*, in IMC 2009| Me| |
-
+|49|[Multi-Resource Packing for Cluster Schedulers](http://dl.acm.org/citation.cfm?id=2626334), by *Robert Grandl*, in SIGCOMM 2014| Me| |
