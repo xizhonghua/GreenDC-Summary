@@ -12,3 +12,9 @@
  numpages = {12}
 } 
 ```
+
+### Motivation
+- Tasks in modern data-parallel clusters have high diverse resoruce requirements along CPU, memor, disk and network. 
+- THus, a multi-resource cluster scheduler is needed, which will be responsible for packing tasks to machines based on their requirements of all resource types. With the following objective
+ - avoids resource fragmentation
+ - avoid over-allocation of the resources that are not explicitly allocated
