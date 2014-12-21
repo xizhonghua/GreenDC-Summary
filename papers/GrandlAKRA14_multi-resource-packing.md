@@ -31,7 +31,13 @@
  - Schedulers divide resurces into slots and offer the slots greeidly to the job that is furthest from its **fair share**. Such scheduling results in resource gragmentation, and the magnitude of which increase with the number of resource being allocated.
  - schedulers also **ignore disk and network requirments** of tasks. When assigning tasks to machines, they only check that tasks' CPU and memory needs are satisfiable. Hence, they can schedule many network or disk-intensive tasks o n the same machine. Such over-allocation leads to interference-disk seeks or network incase- that can sharply lower throughput. 
  - Through analysis, the authors show that the state-of-the-art schedulers in Facebook and Bing's analytics clusters delay job completions and increase makespan by 45%.
+- Shortst remaining time first (SRTF) 
+ - will minimize average job completion time
+ - however, the job with the least remaning time may not have tasks that pack well and hence a strict job time ordering can slow down everyone. ?? (not understand)
+- Pareto-efficient fair allocation 
  
+
+
 ### Proposed Solution
 - The proposed solution Tetris adapts heuristics for the multidimensional bin packing problem to the context of cluster schedulers.
  - Tetris imporve average job completion time by preferentially serving jobs that have less remaining work. 
@@ -40,7 +46,7 @@
  - learn task requirement t<sub>r</sub>, and monitor available resources at machines m<sub>r</sub>.
  - the packing heuristic projects t<sub>r</sub> and m<sub>r</sub> into enclidean space and picks the <task, machine> pair with the highest dot product value.
  - the dot product perfers large tasks and those that use resouces in proportions similar to what is available (prevents resource fragmentation)
-
+- Finding: performance and fairness are often unachivable together. The author show that in the context of cluster schedulers such better performance can be achieved with just a little unfairness and expose the trade-off with a knob.
 
 ### Strongess
 
