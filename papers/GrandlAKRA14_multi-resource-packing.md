@@ -21,6 +21,10 @@
 
 ### Problem Model
 - Task arrivals and machine availability change in an online manner and wherein task's resource needs change with time and with the machine that the task is placed at.
+- Similar to bin-ball packing problem, however, 
+ - balls are not know apriori, they arrive in online manner
+ - need to consider the dependencies of tasks
+ 
 
 ### Current Solution
 - Current schedulers neither pack tasks nor consider all their relevant resource demands. This results in fragmentation and over-allocation of resources, respectively.
