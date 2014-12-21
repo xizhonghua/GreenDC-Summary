@@ -31,6 +31,8 @@
  - will minimize average job completion time
  - however, the job with the least remaning time may not have tasks that pack well and hence a strict job time ordering can slow down everyone. ?? (not understand)
 - Pareto-efficient fair allocation 
+- [Doninant Resource Fairness(DRF)](https://www.usenix.org/conference/nsdi11/dominant-resource-fairness-fair-allocation-multiple-resource-types)
+ - Shortage: fiarness-based schedulers do not optimize job completion time, as the example shown in Section 2.1.
 - Summary
  - Current schedulers neither pack tasks nor consider all their relevant resource demands. This results in fragmentation and over-allocation of resources, respectively.
    - Schedulers divide resurces into slots and offer the slots greeidly to the job that is furthest from its **fair share**. Such scheduling results in resource gragmentation, and the magnitude of which increase with the number of resource being allocated.
