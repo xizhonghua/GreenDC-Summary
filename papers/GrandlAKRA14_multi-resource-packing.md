@@ -43,6 +43,7 @@
 
 
 ### Proposed Solution
+- Objective: The authors seek to design an online scheduler taht packs tasks based on their requirements to improve cluster throughput and job completion times, while limiting the fallput due to any unfairness in the allocations.
 - The proposed solution Tetris adapts heuristics for the multidimensional bin packing problem to the context of cluster schedulers.
  - Tetris imporve average job completion time by preferentially serving jobs that have less remaining work. 
  - Tetris are compatible with a large class of fairness policies. Hence, we show how to simultaneously achieve good performance and fairness.
