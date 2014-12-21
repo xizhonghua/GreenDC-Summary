@@ -34,8 +34,13 @@
  
 ### Proposed Solution
 - The proposed solution Tetris adapts heuristics for the multidimensional bin packing problem to the context of cluster schedulers.
-- Tetris imporve average job completion time by preferentially serving jobs that have less remaining work. 
-- Tetris are compatible with a large class of fairness policies. Hence, we show how to simultaneously achieve good performance and fairness.
+ - Tetris imporve average job completion time by preferentially serving jobs that have less remaining work. 
+ - Tetris are compatible with a large class of fairness policies. Hence, we show how to simultaneously achieve good performance and fairness.
+- The underlying heuristic
+ - learn task requirement t<sub>r</sub>, and monitor available resources at machines m<sub>r</sub>.
+ - the packing heuristic projects t<sub>r</sub> and m<sub>r</sub> into enclidean space and picks the <task, machine> pair with the highest dot product value.
+ - the dot product perfers large tasks and those that use resouces in proportions similar to what is available (prevents resource fragmentation)
+
 
 ### Strongess
 
