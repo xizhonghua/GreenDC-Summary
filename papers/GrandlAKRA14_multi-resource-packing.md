@@ -63,7 +63,10 @@
  - rule: the taks with the higest aligment score is scheduled and allocated it peak resource demands. 
  - interpretation: bigger balls are placed first and machine resources that are currently loosely abundant are used up before those that are currently scare by choosing tasks appropriately.
  
-### Strongess
+### Simulation
+- As the mechanism proposed in this paper is based on heuristics, thus in the evaluation, they have a small section to describe the sensitivity analysis
+ - the parameters knob
+ - cluster load etc.
 
 
 ### Drawback
