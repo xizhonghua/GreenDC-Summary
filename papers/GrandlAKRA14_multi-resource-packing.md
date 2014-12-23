@@ -1,6 +1,6 @@
 ## [Multi-Resource Packing for Cluster Schedulers](http://dl.acm.org/citation.cfm?id=2626334)
 
-- started on 12/20/2014, end on
+- started on 12/20/2014, end on 12/23/2014
 - bib
 ```
 @inproceedings{Grandl:2014:MPC:2619239.2626334,
