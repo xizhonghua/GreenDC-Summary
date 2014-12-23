@@ -69,6 +69,5 @@
  - cluster load etc.
 
 
-### Drawback
-
-### Possible extension
+### TODO
+- I didn't go deep in the detail implementation and simulation result analysis.
