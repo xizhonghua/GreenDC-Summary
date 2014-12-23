@@ -53,6 +53,16 @@
  - the dot product perfers large tasks and those that use resouces in proportions similar to what is available (prevents resource fragmentation)
 - Finding: performance and fairness are often unachivable together. The author show that in the context of cluster schedulers such better performance can be achieved with just a little unfairness and expose the trade-off with a knob.
 
+### Bin-packing Heuristics
+- One dimension space
+ - repeatedly matching the largest ball that fits in the current bin;
+ - when no more balls fit, a new bin is opened
+- Heuristic used in this paper
+ - packing efficientcy: obtainined using the dot product between task requirements and resource availabilities on machines
+ - aligment score: a weighted dot product between the vector of machine's available resources and the task's peak usage of resources.
+ - rule: the taks with the higest aligment score is scheduled and allocated it peak resource demands. 
+ - interpretation: bigger balls are placed first and machine resources that are currently loosely abundant are used up before those that are currently scare by choosing tasks appropriately.
+ 
 ### Strongess
 
 
