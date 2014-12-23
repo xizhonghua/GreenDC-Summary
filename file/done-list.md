@@ -31,6 +31,7 @@ Done List
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 |[Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)| Fei | 12/19/2014| ***|
+|[Multi-Resource Packing for Cluster Schedulers](http://dl.acm.org/citation.cfm?id=2626334), by *Robert Grandl*, in SIGCOMM 2014, [[Summary]](../papers/GrandlAKRA14_multi-resource-packing.md)| Me|**** |
 
 ### Resource Augmentation
 | Title| Assinger| Date| Rate|
