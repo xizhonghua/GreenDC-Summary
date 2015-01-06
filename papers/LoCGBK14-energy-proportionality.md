@@ -22,5 +22,10 @@
 - Technical terms
  - OLDI: online, data-intensive
  - SLO: service level objectives
+
 ### Approach
-- improve 
+- Scale the server's processing capacity to match the available work is a promissing way to improve energy efficienty for OLDI workloads at low or medium utilization.
+ - We can reduce power consumption by scaling voltage and clock frequency (DVFS) or the number of active cores in the server.
+ - Traditional DVFS schemes is controlled by monitoring CPU utilization.
+ - However, they found OLDI workloads exihibit different latencies for the same CPU utilization at different CPU frequencies.
+ - Thus, they proposed to manage the capacity of servers based on the observed, end-to-end, request latency.
