@@ -18,3 +18,4 @@
 - **Energy proportionality**: Modern servers are not energy proportional, they operate at peak energy efficiency when there are fully utilized, but have much lower efficiencies at lower utilizations. 
  - While the average uilization of WSC systems for continuous batch workloads can be around 75%.
  - The average utilization of shared WSC systems that mix several types of workloads, including online services, maybe between 10% and 50% [[Luiz-2013]](http://www.morganclaypool.com/doi/abs/10.2200/S00516ED2V01Y201306CAC024).
+ - **Observation**: At medium and low utilizations, the energy waste compared to an ideal, energy proportional system is significant. To improve the cost effectiveness of WSC systems, it is important to improve their energy efficient at low and moderate utilizations.
