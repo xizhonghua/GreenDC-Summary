@@ -29,3 +29,8 @@
  - Traditional DVFS schemes is controlled by monitoring CPU utilization.
  - However, they found OLDI workloads exihibit different latencies for the same CPU utilization at different CPU frequencies.
  - Thus, they proposed to manage the capacity of servers based on the observed, end-to-end, request latency.
+
+
+### Summary
+- In this paper, the authors research on the power saving in data center with the objective to meet service level latency. In specific, they target on the on-line data-intensive (OLDI) workloads in which turnning off servers to save power will violate latency requirement. 
+- They propose to do the power management in fine-grained manner by scaling the voltaged, frequency using the feed-back of current latency. 
