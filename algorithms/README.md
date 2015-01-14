@@ -14,3 +14,4 @@ Algorithms
 ### Techniques
 - [Resource Augmentation](./file/resourceAug.md)
 - [Competitive Ratio](./file/Competitiveness.md)
+- [Regret Analysis](./file/regret.md)
