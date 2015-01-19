@@ -4,12 +4,12 @@ Done List
 - keep record of papers that have read. Selected papers are summarized at [Paper-Summary](https://github.com/hxwang/GreenDC-Summary/blob/master/README.md).
 - detail archive of data center related papers are at [[Detail Archive]](./paperArchive.xlsx)
 
-### Date Center: Survey
+### Survey
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 |[A Survey on Geographic Load Balancing Based Data Center Power Management in the Smart Grid Environment](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6578864), by *Ashikur Rahman et al*, in IEEE COMMUNICATIONS SURVEYS & TUTORIALS 2014, [[Summary]](../papers/RahmanLK14_Survey-Geo-LoadBalancing.md)| Fei| 10/08/2014| *****|
 
-### Data Center: Minimize Power Consumption
+### Minimize Power Consumption
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 |[Scheduling a Large DataCenter](http://www.nii.ac.jp/shonan/seminar011/files/2012/02/stein.pdf), by *Cliff Stein*, 2012, [[Summary]](https://github.com/hxwang/GreenDC-Summary/blob/master/papers/Stein12_Scheduling-a-DataCenter.md)| Fei| 10/05/2014 |***|
@@ -18,17 +18,22 @@ Done List
 | [Green-aware workload scheduling in geographically distributed data centers](http://dl.acm.org/citation.cfm?id=2469301), by *Changbing Chen*, in CLOUD 2012, [[Summary]](../papers/ChenHT12-greenAware-geo-schedule.md) | Me| 11/24/2014|***|
 |[Towards energy proportionality for large-scale latency-critical workloads](http://dl.acm.org/citation.cfm?id=2665718), by *David Lo*, in ISCA 2014, [[Summary]](../papers/LoCGBK14-energy-proportionality.md)| Fei| 1/6/2015|
 
-### Data Center: Minimize Energy Cost
+### Machine Learning Approach
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+|[Better data centers through machine learning](http://googleblog.blogspot.com/2014/05/better-data-centers-through-machine.html), by *Jim Gao*, Google, [White paper](https://docs.google.com/a/google.com/viewer?url=www.google.com/about/datacenters/efficiency/internal/assets/machine-learning-applicationsfor-datacenter-optimization-finalv2.pdf)| Me| 1/19/2015|
+
+### Minimize Energy Cost
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 |[Energy Efficient Geographical Load Balancing via Dynamic Deferral of Workload](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6253505), by *Muhammad Abdullah Adnan* et al, in CLOUD 2012, [[Summary]](../papers/AdnanS12_dynamic-deferral-geoDC.md), [[PPT]](./Adnan12-EEGLB.pptm)| Hakan| Due 11/19/2014|***|
 
-### Data Center: Maximize Green Energy Usage
+### Maximize Green Energy Usage
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 | [Utilizing green energy prediction to schedule mixed batch and service jobs in data centers](http://dl.acm.org/citation.cfm?id=2039257), by *Baris Aksanli*, in HotPower 2011, [[Summary]](../papers/AksanliVZR11_mixed-batch-service.md)| Me| 11/12/2014| **|
 
-### Data Center: Minimizing Completition Time
+### Minimizing Completition Time
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 |[Decentralized Task-Aware Scheduling for Data Center Networks](http://research.microsoft.com/apps/pubs/default.aspx?id=215429), by *F.R. Dogar*, in SIGCOMM 2014,[[Summary]](../papers/DogarK14_SIGCOMM_Decentralized-TaskScheduling-for-DCN.md)| Fei | 12/19/2014| ***|
