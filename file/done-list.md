@@ -21,7 +21,7 @@ Done List
 ### Machine Learning Approach
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
-|[Better data centers through machine learning](http://googleblog.blogspot.com/2014/05/better-data-centers-through-machine.html), by *Jim Gao*, Google, [White paper](https://docs.google.com/a/google.com/viewer?url=www.google.com/about/datacenters/efficiency/internal/assets/machine-learning-applicationsfor-datacenter-optimization-finalv2.pdf)| Me| 1/19/2015|
+|[Better data centers through machine learning](http://googleblog.blogspot.com/2014/05/better-data-centers-through-machine.html), by *Jim Gao*, Google, [White paper](https://docs.google.com/a/google.com/viewer?url=www.google.com/about/datacenters/efficiency/internal/assets/machine-learning-applicationsfor-datacenter-optimization-finalv2.pdf)| Me| 1/19/2015| ***|
 
 ### Minimize Energy Cost
 | Title| Assinger| Date| Rate|
