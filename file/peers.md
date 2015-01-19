@@ -20,3 +20,6 @@
 ### Lab
 - [Dark Lab @ Rutgers University](http://www.darklab.rutgers.edu/) 
 - [Smart Grid Group  @ USC](http://ganges.usc.edu/wiki/Smart_Grid)
+
+### Industry
+- [Google Data Centers](http://www.google.com/about/datacenters/)
