@@ -12,6 +12,6 @@
 
 ### Evidence of heterogeneous workload
 - Search engine systems, like Nutch(http://nutch.apache.org/), include two major heterogenous workloads: Map-Reduce like parallel data analysis and search engine services. [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737)
-- The Boeing company also reported this trend of consolidating parallel batch jobs and web service applications on one data center in the recent IDC HPC user forum, held in October 30, 2010 at Beijing, China.
+- The Boeing company also reported this trend of consolidating parallel batch jobs and web service applications on one data center in the recent IDC HPC user forum, held in October 30, 2010 at Beijing, China. [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737)
 
 ### Real-traces of heterogenous workload
