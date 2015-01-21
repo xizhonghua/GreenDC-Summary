@@ -19,14 +19,18 @@
     - scheduling and resource control
 
 ### Challenge and solution
-- Resource sharing
+- Resource sharing [[Carrera-2008]](http://link.springer.com/chapter/10.1007%2F978-3-540-89856-6_11)
   - **Challenge**: Enaling resource sharing between transactional and batch workloads also introduces a number of challenges in the area of application deployment, update, configuration, and performance and availability managmenet. 
   - **Solution**: Most of these challenges are addressed by **virtualization** technology, which provide a layer of separation between a hardware infrastructure and workload, and provide a uniform set of control mechanism for managing these workload embeded insider virtual containers. 
   
 ### How current solutions deal with heterogenous workload
 - Give higher priority to web server jobs. 
   - [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737): Web server requests require an immediate response, thus they have higher priority. While batch jobs can be queued when resource is not available.
-
+- Relative Performance Function (PRF) [[Carrera-2008]](http://link.springer.com/chapter/10.1007%2F978-3-540-89856-6_11)
+  - It permits trade-offs between different workloads.
+  - The RPF define application performance relative to that applicaiton's goal.
+  - It can therefore be seen that equalizing the achieved relative performance between two applications results in "fairness", i.e., the pplication will be equally satisfied in terms of relative distance from their goals.
+  
 ### Evidence of heterogeneous workload
 - Search engine systems, like Nutch(http://nutch.apache.org/), include two major heterogenous workloads: Map-Reduce like parallel data analysis and search engine services. [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737)
 - The Boeing company also reported this trend of consolidating parallel batch jobs and web service applications on one data center in the recent IDC HPC user forum, held in October 30, 2010 at Beijing, China. [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737)
