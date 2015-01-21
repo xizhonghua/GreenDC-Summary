@@ -36,7 +36,7 @@
   - It permits trade-offs between different workloads.
   - The RPF define application performance relative to that applicaiton's goal.
   - It can therefore be seen that equalizing the achieved relative performance between two applications results in "fairness", i.e., the pplication will be equally satisfied in terms of relative distance from their goals.
-- Objective: minimize cost while meet QoS requirement [[Cheng-2014]] (http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6877265)
+- Objective: increase green energy consumption, maximize goodput while meet QoS requirement [[Cheng-2014]] (http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6877265)
   - for iterative workload placement: formulate as a constrained optimization problem that can be solved by nonlinear programming
   - for iterative workload: consider migration, green power supply.
 
