@@ -9,7 +9,12 @@
 
 
 ### Characteristic
-
+- Performance Goal 
+  - **Interative workloads**
+    - average or percentile response time or throughput over a short time interval [[Carrera-2008]](http://link.springer.com/chapter/10.1007%2F978-3-540-89856-6_11)
+  - **Non-interative workloads**
+    - the performance (e.g., completion time) of individual jobs [[Carrera-2008]](http://link.springer.com/chapter/10.1007%2F978-3-540-89856-6_11)
+  
 ### How current solutions deal with heterogenous workload
 - Give higher priority to web server jobs. 
   - [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737): Web server requests require an immediate response, thus they have higher priority. While batch jobs can be queued when resource is not available.
