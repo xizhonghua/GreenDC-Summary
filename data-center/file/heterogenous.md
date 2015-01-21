@@ -18,8 +18,8 @@
 - Search engine systems, like Nutch(http://nutch.apache.org/), include two major heterogenous workloads: Map-Reduce like parallel data analysis and search engine services. [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737)
 - The Boeing company also reported this trend of consolidating parallel batch jobs and web service applications on one data center in the recent IDC HPC user forum, held in October 30, 2010 at Beijing, China. [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737)
 - Transactional applications and batch jobs are widely used by many organizations to deliver critical services to their customers and partners. For example, in financial institutions, transactional web workloads are used to trade stocks and query indices, while computationally intensive non-intensive workloads are used to analyse portfolios or model stock performance. [[Carrera-2008]](http://link.springer.com/chapter/10.1007%2F978-3-540-89856-6_11)
-  - *Past*: Due to intrisic differences among these workloads, they are typically run today on separate dedicated hardware, which contributes to resource under-utilization and management complexity.
-  - *Future*: Therefore, organizations demand management solutions that permit such workloads to run together on the same hardware, improving resource utilization while continuing to offer performance guarantees.
+  - _Past_: Due to intrisic differences among these workloads, they are typically run today on separate dedicated hardware, which contributes to resource under-utilization and management complexity.
+  - _Future_: Therefore, organizations demand management solutions that permit such workloads to run together on the same hardware, improving resource utilization while continuing to offer performance guarantees.
   
 
 ### Real-traces of heterogenous workload
