@@ -12,6 +12,9 @@
   - _Past_: Due to intrisic differences among these workloads, they are typically run  on separate dedicated hardware, which contributes to resource under-utilization and management complexity.
   - _Future_: Therefore, organizations demand management solutions that permit such workloads to run together on the same hardware, improving resource utilization while continuing to offer performance guarantees.
 - [[IBM redpaper-2013]](http://www.redbooks.ibm.com/redpapers/pdfs/redp4940.pdf) guide how to mix transactional and batch workloads in building a private cloud
+- [[HP Dynamic Workload Utility]](http://h20311.www2.hp.com/hpc/downloads/DWU_paper%20update_4AA2-6552ENW.pdf): HP are creating a dynamic workload utility to response to the need of cloud providers who  want to optimize utilization of compute
+resources by using an automated environment to manage a mix of workloads (batch, real time,
+online, service jobs, and more) on heterogeneous and geographically distributed servers.
 
 ### Characteristic of heterogeneous workloads
 - Performance Goal 
