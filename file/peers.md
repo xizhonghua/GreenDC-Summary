@@ -7,7 +7,7 @@
 
 #### Scheduling Algorithms, Energy efficiency
 - [Minghong Lin](http://users.cms.caltech.edu/~mhlin/), Research scientist in Facebook.
-- [Zhenhua Liu](http://users.cms.caltech.edu/~zliu2/), Postdoc at [Lawrence Berkeley National Laboratory](http://www.lbl.gov/)
+- [Zhenhua Liu](http://www.ams.sunysb.edu/~zhliu/), past postdoc at [Lawrence Berkeley National Laboratory](http://www.lbl.gov/), curr AP at StonyBrook
 - [Íñigo Goiri](http://www.research.rutgers.edu/~goiri/), Postdoc at Rutgers University
 - [Kien T. Le](http://www.cs.rutgers.edu/~lekien/), Ph.D. at Rutgers University
 - [Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/), Ph.D candidate at UCSD
