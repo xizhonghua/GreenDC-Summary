@@ -1,5 +1,9 @@
 ## Heterogenous workload
 
+### Background
+- The operator of cloud service must schedule the stream of incoming applications on available servers in a manner that achieves both fast execution (users' goal) and high resource efficiency (operator's goal), enabling better scaling at low cost [[Delimitro-2013]](http://web.stanford.edu/~cdel/2013.asplos.paragon.pdf)
+- This schedule is particularly difficult as cloud services must acommodate a diverse set of workloads in terms of resource and performance requirements [[Barroso-2009]](http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf). 
+
 ### Why has heterogeneous workload
 - With the increasing popularity of cloud computing, research centers and enterprises have started to outsourcing their IT and computational needs to on-demand cloud services [[Buyya]](http://www.sciencedirect.com/science/article/pii/S0167739X08001957). 
 
