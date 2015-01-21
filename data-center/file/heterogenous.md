@@ -1,19 +1,27 @@
 ## Heterogenous workload
 
 ### Background
+- With the increasing popularity of cloud computing, research centers and enterprises have started to outsourcing their IT and computational needs to on-demand cloud services [[Buyya]](http://www.sciencedirect.com/science/article/pii/S0167739X08001957). 
 - The operator of cloud service must schedule the stream of incoming applications on available servers in a manner that achieves both fast execution (users' goal) and high resource efficiency (operator's goal), enabling better scaling at low cost [[Delimitro-2013]](http://web.stanford.edu/~cdel/2013.asplos.paragon.pdf)
 - This schedule is particularly difficult as cloud services must acommodate a diverse set of workloads in terms of resource and performance requirements [[Barroso-2009]](http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf). 
 
-### Why has heterogeneous workload
-- With the increasing popularity of cloud computing, research centers and enterprises have started to outsourcing their IT and computational needs to on-demand cloud services [[Buyya]](http://www.sciencedirect.com/science/article/pii/S0167739X08001957). 
 
-
-### Characteristic
+### Characteristic of heterogeneous workloads
 - Performance Goal 
   - **Interative workloads**
     - average or percentile response time or throughput over a short time interval [[Carrera-2008]](http://link.springer.com/chapter/10.1007%2F978-3-540-89856-6_11)
   - **Non-interative workloads**
     - the performance (e.g., completion time) of individual jobs [[Carrera-2008]](http://link.springer.com/chapter/10.1007%2F978-3-540-89856-6_11)
+- Control Mechanism
+  - **Interative workloads**
+    - flow control, load balancing, and application placement [[Carrera-2008]](http://link.springer.com/chapter/10.1007%2F978-3-540-89856-6_11)
+  - **Non-interative workloads**
+    - scheduling and resource control
+
+### Challenge and solution
+- Resource sharing
+  - **Challenge**: Enaling resource sharing between transactional and batch workloads also introduces a number of challenges in the area of application deployment, update, configuration, and performance and availability managmenet. 
+  - **Solution**: Most of these challenges are addressed by **virtualization** technology, which provide a layer of separation between a hardware infrastructure and workload, and provide a uniform set of control mechanism for managing these workload embeded insider virtual containers. 
   
 ### How current solutions deal with heterogenous workload
 - Give higher priority to web server jobs. 
