@@ -15,6 +15,7 @@ Power Concern
 ### Money cost concern
 - The wordwide expenditure on enterprise power and cooling of these servers is estimated to be in excess of $30 billion [[Raghavendra-2009]](https://github.com/hxwang/GreenDC-Summary/blob/master/RaR08-No-Power-Struggles-Coordinated-Multi-Level-Management-for-the-Data-Center.md)
 - A crude estimation of annual server electricity bill based on publicly disclosed/leaked information, conventional server energy models, and back-of-the-envelope calculations is given in [[Qureshi-2009]](http://dl.acm.org/citation.cfm?id=1592584). For instance, popular operators such as eBay, Rackspace, Facebook, Microsoft, Google's estimated annual utility bills are $10M, $20M, $25M, >$75M and >$135M respectively. 
+- Assuming 3-year server and 15-year infrastructure amortization, energy-related costs are estimated to amount to 41.6% of operation cost of large scale IDCs [[Hamilton]](http://citeseer.uark.edu:8080/citeseerx/viewdoc/summary?doi=10.1.1.145.1407)
 
 ### Environmental concern
 - The high electricity cost translates into high carbon emissions as most of this electricity comes from fossile fuels. 
