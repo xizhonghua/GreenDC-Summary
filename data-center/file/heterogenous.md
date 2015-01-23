@@ -4,6 +4,7 @@
 - With the increasing popularity of cloud computing, research centers and enterprises have started to outsourcing their IT and computational needs to on-demand cloud services [[Buyya]](http://www.sciencedirect.com/science/article/pii/S0167739X08001957). 
 - The operator of cloud service must schedule the stream of incoming applications on available servers in a manner that achieves both fast execution (users' goal) and high resource efficiency (operator's goal), enabling better scaling at low cost [[Delimitro-2013]](http://web.stanford.edu/~cdel/2013.asplos.paragon.pdf)
 - This schedule is particularly difficult as cloud services must acommodate a diverse set of workloads in terms of resource and performance requirements [[Barroso-2009]](http://www.cs.berkeley.edu/~rxin/db-papers/WarehouseScaleComputing.pdf). 
+- Recent reports showed that support non-interative workloads (delay-tolerant workloads) in internet data centers improved the utilization of computer system [[Carlsson-2011]](http://dl.acm.org/citation.cfm?id=1958781) and saved computing costs significantly in cloud computing enterprises [[EC2]](http://aws.amazon.com/ec2/).
 
 ### Evidence of heterogeneous workload
 - Search engine systems, like Nutch(http://nutch.apache.org/), include two major heterogenous workloads: Map-Reduce like parallel data analysis and search engine services. [[Zhan-2014]](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6205737)
