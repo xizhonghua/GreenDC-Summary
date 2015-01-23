@@ -13,7 +13,7 @@
 - [Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/), Ph.D candidate at UCSD
 
 ### System & Workload
-- [Mor Harchol-Balter ](http://www.cs.cmu.edu/~harchol/)
+- [Mor Harchol-Balter ](http://www.cs.cmu.edu/~harchol/), CMU faculty
 
 
 ### Data Center energy related, to archive
