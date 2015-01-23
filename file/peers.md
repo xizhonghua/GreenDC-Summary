@@ -12,6 +12,10 @@
 - [Kien T. Le](http://www.cs.rutgers.edu/~lekien/), Ph.D. at Rutgers University
 - [Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/), Ph.D candidate at UCSD
 
+### System & Workload
+- [Mor Harchol-Balter ](http://www.cs.cmu.edu/~harchol/)
+
+
 ### Data Center energy related, to archive
 - [Lei Rao](https://sites.google.com/site/drleirao/), Senior Researcher at General Motors US Research Lab
 - [Xue Liu](http://www.cs.mcgill.ca/~xueliu/), Associate Professor at McGill University
