@@ -11,7 +11,8 @@ Data Center
   - [Motivation](./file/geo-examples.md), [Arch](./file/geo-arch.md), [Power breakdown](./file/geo-powerBreakdown.md)
 , [Geographic load balancing](./file/geo-glb.md)
 
-
+### Model
+- [Internet Data Center](./file/idc.md)
 
 
 
