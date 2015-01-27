@@ -17,4 +17,10 @@
   - My comments: this paper considers SLA, but does not consider penalty. What is the approach used in this paper?
 - [[Carrera-2008]](http://dl.acm.org/citation.cfm?id=1496964) developed a technique that enables existing middleware to fairly manage mixed workloads both in terms of batch jobs and transactional applications. The aim of this paper is towards a fairness goal while also trying to maximize individual workload performance.
   - My comments: for hetrogeneous workloads, the fairness is not very important as transactional workloads and batch jobs have different performance goals. 
-  
+- [[Hu-2009]](http://dl.acm.org/citation.cfm?id=1723041) developed an efficient and effective algorithm to determine the allocation stratgy that results in the smallest required number of servers.
+- [[Nathuji-2010]](http://research.microsoft.com/pubs/118372/QClouds.pdf) proposed a QoS-awre control framework that tunes resource allocations to mitigate performance interference effects. These works only dealt with one type of application workloads and the number of applications is constant during resource application. 
+  - While [[Garg-2014]](http://www.buyya.com/papers/HeterogenousWorkloadCloud-ICA3PP2011.pdf) dealty with multiple types of SLAs with admission control to allow more submisson of applications.
+- [[Casalicchio-2013]](http://dl.acm.org/citation.cfm?id=2494623) proposed five resource allocation policies with workload prediction model to determine allocation or deallocation of new resources.
+  - Comments: This work focuses on web-based applications not on batch type workloads.
+- [[Zhu-2011]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6008764&tag=1) presented a datacenter architecture for hosting multi-tier web applictions using virtualized resources with an aim to satisfy users' SLA and maximize overall profit of IssA providers. 
+- [[Qiu-2012]](http://link.springer.com/chapter/10.1007/978-3-642-29873-8_28#page-1) focusing on Online Transaction Processing systems, proposed an online algorithm for provisioning resources dynamically to minimize response time to end users. They utilize neural network based rechqniue to predict user demand on the system.
