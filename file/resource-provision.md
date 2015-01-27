@@ -11,3 +11,7 @@
   - My comments: this indicates that virtualization can increase system utilization!
 - [[Eharqye-2010]](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1468/pdf) developed a working prototype of a gramework for facilitating resource management in service providers, which allows both cost reduction and fulfill of the QoS based on SLAs. 
   - My comments: does this work consider mixed workloads?
+- [[Quiroz-2014]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5353066) presented a decentralized and robust online clustering approach for a dynamic mix of heterogeneous applications on clouds, such as long running computationally intensive jobs, bursty and response-time sensitive requests, and data and IO-intensive analystics tasks. 
+  - My comments: this work does not consider SLA penalties.
+- [[Van-2009]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5328077) proposed a SLA-aware virtual resource management for cloud infrastructures, where an automatic resource manager controls the virtual environment which decouples the provisioning of resoruces from the dynamic placement of virtual machines. 
+  - My comments: this paper considers SLA, but does not consider penalty. What is the approach used in this paper?
