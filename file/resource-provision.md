@@ -15,3 +15,6 @@
   - My comments: this work does not consider SLA penalties.
 - [[Van-2009]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5328077) proposed a SLA-aware virtual resource management for cloud infrastructures, where an automatic resource manager controls the virtual environment which decouples the provisioning of resoruces from the dynamic placement of virtual machines. 
   - My comments: this paper considers SLA, but does not consider penalty. What is the approach used in this paper?
+- [[Carrera-2008]](http://dl.acm.org/citation.cfm?id=1496964) developed a technique that enables existing middleware to fairly manage mixed workloads both in terms of batch jobs and transactional applications. The aim of this paper is towards a fairness goal while also trying to maximize individual workload performance.
+  - My comments: for hetrogeneous workloads, the fairness is not very important as transactional workloads and batch jobs have different performance goals. 
+  
