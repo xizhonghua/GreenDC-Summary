@@ -59,7 +59,7 @@ Done List
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
 |[Scheduling algorithms for dynamic message streams with distance constraints in TDMA protocol](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=854012), by *Libin Dong*, in RTS 2000, [[Summary]](../papers/Dong00-schedule-dynamic-msg-tdma.md)| Hakan| 11/11/2014| ****|
-|[Scheduling and reliable lead-time quotation for orders with availability intervals and lead-time sensitive revenues](http://dl.acm.org/citation.cfm?id=969986.969999), by *Pinar Kesjinocak*, in Management Science 2001| Fei| 1/31/2015| ***|
+|[Scheduling and reliable lead-time quotation for orders with availability intervals and lead-time sensitive revenues](http://dl.acm.org/citation.cfm?id=969986.969999), by *Pinar Kesjinocak*, in Management Science 2001, [[Summary]](./quotation-model.md)| Fei| 1/31/2015| ***|
 
 
 ### Partitioning
