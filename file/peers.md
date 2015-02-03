@@ -20,6 +20,8 @@
 - [Lei Rao](https://sites.google.com/site/drleirao/), Senior Researcher at General Motors US Research Lab
 - [Xue Liu](http://www.cs.mcgill.ca/~xueliu/), Associate Professor at McGill University
 
+### Energy Sharing
+- [Ting Zhu](http://www.csee.umbc.edu/~zt/), Assistant Professor in University of Maryland Baltimore County
 
 ### Lab
 - [Dark Lab @ Rutgers University](http://www.darklab.rutgers.edu/) 
