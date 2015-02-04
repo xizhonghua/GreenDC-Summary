@@ -46,3 +46,4 @@ Reading List
 |47|[Energy efficient scheduling of parallelizable jobs](http://dl.acm.org/citation.cfm?id=2627885), by *Kyle Fox*, in SODA 2013| Me| |
 |48|[The Nature of Datacenter Traffic: Measurements & Analysis](http://dl.acm.org/citation.cfm?id=1644918), by *Srikanth Kandula*, in IMC 2009| Me| |
 |49| [SLA-based virtual machine management for heterogeneous workloads in a cloud datacenter](http://www.sciencedirect.com/science/article/pii/S1084804514001787#), by *Saurabh Kumar Garg*, in Journal of Network and Computer Application, in 2014| Me| |
+|50| [Bicriteria Online Matching: Maximizing Weight and Cardinality](http://madalgo.au.dk/fileadmin/madalgo/OA_PDF_s/C312.pdf), by *Nitish Korula*, in WINE 2013| Fei| 2/9/2015| |
