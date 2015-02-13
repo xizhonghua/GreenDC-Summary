@@ -26,5 +26,5 @@ Green Data Center
 ### Standards
 - [Paper Summary Template](./papers/template.md)
 - [Bib Standards](./papers/bibFormat.md)
-- Writing Sample: [Model](./file/writingModel.md)
+- Writing Sample: [Model](./file/writingModel.md), [writing tips](./file/writing-tips.md)
 
