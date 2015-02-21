@@ -1,4 +1,4 @@
 ## Grid
 
-### Read
+### Reading
 - [news](./file/news.md)
