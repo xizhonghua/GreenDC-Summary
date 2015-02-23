@@ -8,6 +8,11 @@ Algorithms
 - [Scheduling Algorithms](./file/scheduling-algorithms.md)
 - [Packing Algorithms](./file/packing-algorithm.md)
 
+
+### Game theory
+- Fairness allocation
+  - [Game theory in the Talmud](http://www.ma.huji.ac.il/~raumann/pdf/Game%20Theory%20in%20the%20Talmud.pdf)
+  
 ### Theory
 - [Yao's Principle](../papers/yao-principle.md)
 
@@ -15,3 +20,5 @@ Algorithms
 - [Resource Augmentation](./file/resourceAug.md)
 - [Competitive Ratio](./file/Competitiveness.md)
 - [Regret Analysis](./file/regret.md)
+
+
