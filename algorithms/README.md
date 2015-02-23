@@ -11,7 +11,7 @@ Algorithms
 
 ### Game theory
 - Fairness allocation
-  - [Game theory in the Talmud](http://www.ma.huji.ac.il/~raumann/pdf/Game%20Theory%20in%20the%20Talmud.pdf)
+  - [Game theory in the Talmud](http://www.ma.huji.ac.il/~raumann/pdf/Game%20Theory%20in%20the%20Talmud.pdf), [origin version in 1985](http://www.sscnet.ucla.edu/polisci/faculty/chwe/austen/aumann1985.pdf)
   
 ### Theory
 - [Yao's Principle](../papers/yao-principle.md)
