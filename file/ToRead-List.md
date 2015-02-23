@@ -47,5 +47,4 @@ Reading List
 |48|[The Nature of Datacenter Traffic: Measurements & Analysis](http://dl.acm.org/citation.cfm?id=1644918), by *Srikanth Kandula*, in IMC 2009| Me| |
 |49| [SLA-based virtual machine management for heterogeneous workloads in a cloud datacenter](http://www.sciencedirect.com/science/article/pii/S1084804514001787#), by *Saurabh Kumar Garg*, in Journal of Network and Computer Application, in 2014| Me| |
 |50| [Bicriteria Online Matching: Maximizing Weight and Cardinality](http://madalgo.au.dk/fileadmin/madalgo/OA_PDF_s/C312.pdf), by *Nitish Korula*, in WINE 2013| Fei| 2/9/2015| |
-|51| [The disputed garment problem: the mathematics of bargaining & arbitration](http://www.statslab.cam.ac.uk/~rrw1/talks/mmp08.pdf), by *Richard Weber*, 2008| Fei| 2/18/2015|
 |52| [‘Hydraulic’ rationing](http://www.sciencedirect.com/science/article/pii/S0165489699000451#), by *Marek M. Kaminski*, in Mathematical Social Sciences 2000| Me| 2/23/2015|
