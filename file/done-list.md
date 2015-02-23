@@ -73,6 +73,11 @@ Done List
 |:-----|:--------|:----|:----|
 |[Yao's Principle](http://en.wikipedia.org/wiki/Yao's_principle), in Wiki, [[Summary]](../papers/yao-principle.md)| Fei| **|
 
+### Game theory
+| Title| Assinger| Date| Rate|
+|:-----|:--------|:----|:----|
+| [The disputed garment problem: the mathematics of bargaining & arbitration](http://www.statslab.cam.ac.uk/~rrw1/talks/mmp08.pdf), by *Richard Weber*, 2008| Fei| 2/18/2015| ****|
+
 
 ### MISC
 | Title| Assinger| Date| Rate|
