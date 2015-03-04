@@ -18,7 +18,7 @@ Power Concern
 - Assuming 3-year server and 15-year infrastructure amortization, energy-related costs are estimated to amount to 41.6% of operation cost of large scale IDCs [[Hamilton-2009]](http://citeseer.uark.edu:8080/citeseerx/viewdoc/summary?doi=10.1.1.145.1407)
 
 ### Environmental concern
-- The high electricity cost translates into high carbon emissions as most of this electricity comes from fossile fuels. 
+- The high electricity cost translates into high carbon emissions as most of this electricity comes from fossil fuels. 
 - When electricity is produced from burning coal, natural gas or petroleum, a significant amount of CO<sub>2</sub> emission takes place. Being a significant consumer of energy, data centers are estimated to generate a carbon footprint in the hundreds of mission of tonnes -- equivalent to a large industrialized country.
 - A recently disclosure from Google Inc. reveals the fact that it emits 1.5 million tonnes of carbon annually [[Clark-2011]](http://www.theguardian.com/environment/2011/sep/08/google-carbon-footprint). Some more threatening facts about Google users are as follows. Each search carried out on the google website has in indirect carbon footprint of 7 gram of CO<sub>2</sub>, each 10 minutes of viewing in Youtube generates 1 gram of CO<sub>2</sub> and a typical Gmail user is responsible for producing 1.2 kilogram of CO<sub>2</sub> per year. In total, a typical Google user creates 1.46 kilogram of CO<sub>2</sub> by consuming its various services. 
 
