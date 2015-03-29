@@ -79,6 +79,11 @@ Done List
 | [The disputed garment problem: the mathematics of bargaining & arbitration](http://www.statslab.cam.ac.uk/~rrw1/talks/mmp08.pdf), by *Richard Weber*, 2008| Fei| 2/18/2015| ****|
 | [Game Theoretica Analysis of a Bankruptcy Problem from the Talmud](http://www.sciencedirect.com/science/article/pii/0022053185901024), by *Robert J. Aumann*, in JET 1985| Me| 2/23/2015| ****|
 
+### Hadoop
+| Title| Date| Rate|
+|:-----|:--------|:----|:----|
+|[Priority Algorithm for Near-data Scheduling: Throughput and Heavy-Traffic Optimality](http://www.ifp.illinois.edu/~qxie3/uploads/4/6/8/9/46891789/near-data-infocom-2015.pdf), by *Qiaomin Xie*, in INFOCOM 2015| 3/29/2015 | ***|
+
 ### MISC
 | Title| Assinger| Date| Rate|
 |:-----|:--------|:----|:----|
