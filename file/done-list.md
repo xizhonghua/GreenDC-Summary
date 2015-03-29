@@ -82,7 +82,7 @@ Done List
 ### Hadoop
 | Title| Date| Rate|
 |:-----|:--------|:----|:----|
-|[Priority Algorithm for Near-data Scheduling: Throughput and Heavy-Traffic Optimality](http://www.ifp.illinois.edu/~qxie3/uploads/4/6/8/9/46891789/near-data-infocom-2015.pdf), by *Qiaomin Xie*, in INFOCOM 2015, [[Summary]](papers/xie15-near-data-scheduling.md)| 3/29/2015 | ***|
+|[Priority Algorithm for Near-data Scheduling: Throughput and Heavy-Traffic Optimality](http://www.ifp.illinois.edu/~qxie3/uploads/4/6/8/9/46891789/near-data-infocom-2015.pdf), by *Qiaomin Xie*, in INFOCOM 2015, [[Summary]](../papers/xie15-near-data-scheduling.md)| 3/29/2015 | ***|
 
 ### MISC
 | Title| Assinger| Date| Rate|
